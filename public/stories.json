@@ -2,17 +2,24 @@
   "stories": [
     {
       "id": 1,
-      "title": "བདག་གིས་སླེབ་སོང་།",
-      "titleTransliteration": "dag gis sleb song.",
-      "titleEnglish": "I have arrived.",
+      "title": "སངས་རྒྱས་དང་ཙུད་དོ་དན",
+      "titleTransliteration": "Sangs-rgyas dang Tsu-do-dan",
+      "titleEnglish": "Buddha and Suddhodana",
       "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
-      "series": "Essential Phrases",
-      "uniqueWords": 4,
+      "series": "Inductive Learning",
+      "uniqueWords": 8,
       "words": [
-        { "tibetan": "བདག", "wylie": "dag", "meaning": "I" },
-        { "tibetan": "གིས", "wylie": "gis", "meaning": "by (instrumental marker)" },
-        { "tibetan": "སླེབ", "wylie": "sleb", "meaning": "to arrive" },
-        { "tibetan": "སོང", "wylie": "song", "meaning": "completed (perfective marker)" }
+        { "tibetan": "སངས་རྒྱས", "wylie": "sangs-rgyas", "meaning": "Buddha" },
+        { "tibetan": "ནི", "wylie": "ni", "meaning": "topic marker" },
+        { "tibetan": "དགེ་སློང", "wylie": "dge-slong", "meaning": "monk" },
+        { "tibetan": "ཡིན", "wylie": "yin", "meaning": "is" },
+        { "tibetan": "ཆེན་པོ", "wylie": "chen-po", "meaning": "great" },
+        { "tibetan": "རྒྱལ་པོ", "wylie": "rgyal-po", "meaning": "king" },
+        { "tibetan": "མིན", "wylie": "min", "meaning": "not" },
+        { "tibetan": "ཙུད་དོ་དན", "wylie": "tsu-do-dan", "meaning": "Suddhodana" },
+        { "tibetan": "གི", "wylie": "gi", "meaning": "of (possessive)" },
+        { "tibetan": "བུ", "wylie": "bu", "meaning": "son" },
+        { "tibetan": "ཡིན་ནམ", "wylie": "yin-nam", "meaning": "is it? (question)" }
       ]
     },
     {
