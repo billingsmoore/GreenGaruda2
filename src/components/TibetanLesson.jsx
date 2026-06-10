@@ -9,10 +9,35 @@ const TibetanLesson = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const defaultStories = [
+    {
+      id: 1,
+      title: 'བདག་གིས་སླེབ་སོང་།',
+      titleTransliteration: 'dag gis sleb song.',
+      titleEnglish: 'I have arrived.',
+      image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop',
+      series: 'Essential Phrases',
+      uniqueWords: 4,
+      wordBreakdown: [
+        { tibetan: 'བདག', wylie: 'dag', meaning: 'I', partOfSpeech: 'pronoun' },
+        { tibetan: 'གིས', wylie: 'gis', meaning: 'by, instrumental case marker', partOfSpeech: 'particle' },
+        { tibetan: 'སླེབ', wylie: 'sleb', meaning: 'to arrive, to reach', partOfSpeech: 'verb' },
+        { tibetan: 'སོང', wylie: 'song', meaning: 'perfect aspect marker', partOfSpeech: 'auxiliary' }
+      ],
+      sentenceBreakdown: 'The sentence uses ergative case (གིས) to mark the agent, followed by the verb and perfective aspect marker.',
+      context: 'Common greeting used when arriving at a destination.'
+    }
+  ];
+
   useEffect(() => {
+    console.log('TibetanLesson component mounted, fetching stories...');
     fetch('/stories.json')
-      .then(res => res.json())
+      .then(res => {
+        console.log('Fetch response status:', res.status);
+        return res.json();
+      })
       .then(data => {
+        console.log('Stories loaded:', data);
         setStories(data.stories);
         if (data.stories.length > 0) {
           setSelectedStory(data.stories[0]);
@@ -20,23 +45,21 @@ const TibetanLesson = () => {
         setLoading(false);
       })
       .catch(err => {
-        setError('Failed to load stories');
+        console.error('Failed to load stories, using defaults:', err);
+        setStories(defaultStories);
+        setSelectedStory(defaultStories[0]);
         setLoading(false);
       });
   }, []);
 
-  if (loading) {
+  if (loading && !selectedStory) {
     return (
       <div className="tibetan-lesson-container">
+        <header className="lesson-header">
+          <h1 className="lesson-title">བོད་ཀྱི་སྐད་</h1>
+          <p className="lesson-subtitle">Tibetan Language</p>
+        </header>
         <div className="loading">Loading stories...</div>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="tibetan-lesson-container">
-        <div className="error">{error}</div>
       </div>
     );
   }
