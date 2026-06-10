@@ -1,4 +1,4 @@
-FROM node:18-alpine AS builder
+FROM node:18-alpine
 
 WORKDIR /app
 
@@ -10,13 +10,7 @@ COPY . .
 
 RUN npm run build
 
-FROM node:18-alpine
-
-WORKDIR /app
-
 RUN npm install -g serve
-
-COPY --from=builder /app/build ./build
 
 EXPOSE 7860
 
