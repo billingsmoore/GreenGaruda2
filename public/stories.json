@@ -8,6 +8,8 @@
       "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
       "series": "Inductive Learning",
       "uniqueWords": 8,
+      "textTibetan": "སངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་མིན།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\n\nཙུད་དོ་དན་ནི་དགེ་སློང་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་དགེ་སློང་མིན།\nཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།\n\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོའི་བུ་ཡིན།",
+      "textWylie": "sangs-rgyas ni dge-slong yin.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.\n\nsangs-rgyas ni dge-slong yin-nam.\nsangs-rgyas ni dge-slong yin.\n\nsangs-rgyas ni rgyal-po yin-nam.\nsangs-rgyas ni rgyal-po min.\nsangs-rgyas ni dge-slong yin.\n\nsangs-rgyas ni chen-po yin-nam.\nsangs-rgyas ni chen-po'i dge-slong yin-nam.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.\n\ntsu-do-dan ni dge-slong yin-nam.\ntsu-do-dan ni dge-slong min.\ntsu-do-dan ni rgyal-po yin.\n\nsangs-rgyas ni tsu-do-dan gi bu yin.\nsangs-rgyas ni rgyal-po'i bu yin.",
       "words": [
         { "tibetan": "སངས་རྒྱས", "wylie": "sangs-rgyas", "meaning": "Buddha" },
         { "tibetan": "ནི", "wylie": "ni", "meaning": "topic marker" },

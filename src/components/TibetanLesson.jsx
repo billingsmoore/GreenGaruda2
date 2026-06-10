@@ -207,6 +207,47 @@ const LibraryView = ({ stories, onSelectStory }) => {
 };
 
 const StoryView = ({ story, script, selectedWord, onWordClick, onBack }) => {
+  const fullText = script === 'wylie' ? story.textWylie : story.textTibetan;
+
+  const renderStoryText = () => {
+    if (!fullText) return null;
+
+    const lines = fullText.split('\n');
+    return lines.map((line, lineIdx) => (
+      <div key={lineIdx} className="story-line">
+        {line.split(/\s+/).map((segment, segIdx) => {
+          if (!segment) return null;
+
+          const matchingWord = story.words.find(
+            w => (script === 'wylie' ? w.wylie : w.tibetan) === segment
+          );
+
+          const isSelected = selectedWord &&
+            selectedWord.tibetan === segment &&
+            !matchingWord;
+
+          return (
+            <span key={segIdx}>
+              {matchingWord ? (
+                <span
+                  className={`story-word ${
+                    selectedWord?.wylie === matchingWord.wylie ? 'selected' : ''
+                  }`}
+                  onClick={() => onWordClick(matchingWord)}
+                >
+                  {segment}
+                </span>
+              ) : (
+                segment
+              )}
+              {segIdx < line.split(/\s+/).length - 1 ? ' ' : ''}
+            </span>
+          );
+        })}
+      </div>
+    ));
+  };
+
   return (
     <div className="story-view">
       <button className="back-btn" onClick={onBack}>← Back to Library</button>
@@ -217,22 +258,7 @@ const StoryView = ({ story, script, selectedWord, onWordClick, onBack }) => {
           <p className="story-subtitle-text">{story.series}</p>
 
           <div className="story-text">
-            {story.words.map((word, idx) => {
-              const wordDisplay = script === 'wylie' ? word.wylie : word.tibetan;
-              const isSelected = selectedWord &&
-                selectedWord.tibetan === word.tibetan &&
-                selectedWord.wylie === word.wylie;
-
-              return (
-                <span
-                  key={idx}
-                  className={`story-word ${isSelected ? 'selected' : ''}`}
-                  onClick={() => onWordClick(word)}
-                >
-                  {wordDisplay}
-                </span>
-              );
-            })}
+            {renderStoryText()}
           </div>
 
           {selectedWord && (

@@ -277,7 +277,12 @@ body {
   background-color: #252525;
   border-radius: 8px;
   font-family: 'Arial Unicode MS', sans-serif;
-  word-spacing: 0.5em;
+  white-space: pre-wrap;
+}
+
+.story-line {
+  margin-bottom: 1rem;
+  word-spacing: 0.3em;
 }
 
 .story-word {
