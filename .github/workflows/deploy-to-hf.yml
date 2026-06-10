@@ -1,0 +1,25 @@
+name: Deploy to HF Spaces
+
+on:
+  push:
+    branches: [ claude/web-content-accessibility-32xdqn ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.email "billingsmoore@gmail.com"
+          git config user.name "Billing Moore"
+
+      - name: Push to HF Spaces
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          git remote add hf https://billingsmoore:${HF_TOKEN}@huggingface.co/spaces/billingsmoore/test
+          git push hf HEAD:main --force
