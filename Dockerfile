@@ -10,6 +10,8 @@ COPY . .
 
 RUN npm run build
 
+RUN cp public/stories.json build/
+
 RUN npm install -g serve
 
 EXPOSE 7860
