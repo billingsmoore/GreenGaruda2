@@ -1,3 +1,15 @@
+---
+title: Tibetan Language Learner
+emoji: 🇧🇹
+colorFrom: 1a1a1a
+colorTo: c9302c
+sdk: docker
+sdk_version: latest
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # Tibetan Language Learner
 
 A fully functional React-based language learning interface for Tibetan language instruction, deployed on Hugging Face Spaces.
