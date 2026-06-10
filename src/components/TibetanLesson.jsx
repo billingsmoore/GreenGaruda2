@@ -3,11 +3,11 @@ import '../styles/TibetanLesson.css';
 
 const TibetanLesson = () => {
   const [script, setScript] = useState('wylie');
-  const [view, setView] = useState('library');
+  const [currentView, setCurrentView] = useState('library');
   const [stories, setStories] = useState([]);
   const [selectedStory, setSelectedStory] = useState(null);
+  const [selectedWord, setSelectedWord] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
 
   const defaultStories = [
     {
@@ -18,60 +18,85 @@ const TibetanLesson = () => {
       image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop',
       series: 'Essential Phrases',
       uniqueWords: 4,
-      wordBreakdown: [
-        { tibetan: 'བདག', wylie: 'dag', meaning: 'I', partOfSpeech: 'pronoun' },
-        { tibetan: 'གིས', wylie: 'gis', meaning: 'by, instrumental case marker', partOfSpeech: 'particle' },
-        { tibetan: 'སླེབ', wylie: 'sleb', meaning: 'to arrive, to reach', partOfSpeech: 'verb' },
-        { tibetan: 'སོང', wylie: 'song', meaning: 'perfect aspect marker', partOfSpeech: 'auxiliary' }
-      ],
-      sentenceBreakdown: 'The sentence uses ergative case (གིས) to mark the agent, followed by the verb and perfective aspect marker.',
-      context: 'Common greeting used when arriving at a destination.'
+      words: [
+        { tibetan: 'བདག', wylie: 'dag', meaning: 'I' },
+        { tibetan: 'གིས', wylie: 'gis', meaning: 'by (instrumental marker)' },
+        { tibetan: 'སླེབ', wylie: 'sleb', meaning: 'to arrive' },
+        { tibetan: 'སོང', wylie: 'song', meaning: 'completed (perfective marker)' }
+      ]
+    },
+    {
+      id: 2,
+      title: 'ང་ཚོ་དགེ་ལེགས།',
+      titleTransliteration: 'nga tso dge legs.',
+      titleEnglish: 'We are well.',
+      image: 'https://images.unsplash.com/photo-1516738901601-a51a0a6a1f61?w=500&h=400&fit=crop',
+      series: 'Essential Phrases',
+      uniqueWords: 3,
+      words: [
+        { tibetan: 'ང་ཚོ', wylie: 'nga tso', meaning: 'we' },
+        { tibetan: 'དགེ', wylie: 'dge', meaning: 'good' },
+        { tibetan: 'ལེགས', wylie: 'legs', meaning: 'well' }
+      ]
+    },
+    {
+      id: 3,
+      title: 'ཀུན་གྱི་རྒྱུད་ལ་བདེ་བ་ཞུ་གི་ཡིན།',
+      titleTransliteration: 'kun gyi gyud la de ba zhu gi yin.',
+      titleEnglish: 'I wish happiness for all beings.',
+      image: 'https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=400&fit=crop',
+      series: 'Buddhist Wisdom',
+      uniqueWords: 8,
+      words: [
+        { tibetan: 'ཀུན', wylie: 'kun', meaning: 'all' },
+        { tibetan: 'གྱི', wylie: 'gyi', meaning: 'of (possessive)' },
+        { tibetan: 'རྒྱུད', wylie: 'gyud', meaning: 'continuum' },
+        { tibetan: 'ལ', wylie: 'la', meaning: 'to (locative)' },
+        { tibetan: 'བདེ་བ', wylie: 'de ba', meaning: 'happiness' },
+        { tibetan: 'ཞུ', wylie: 'zhu', meaning: 'to wish' },
+        { tibetan: 'གི', wylie: 'gi', meaning: 'of' },
+        { tibetan: 'ཡིན', wylie: 'yin', meaning: 'to be' }
+      ]
     }
   ];
 
   useEffect(() => {
-    console.log('TibetanLesson component mounted, fetching stories...');
+    console.log('TibetanLesson mounted, fetching stories...');
     fetch('/stories.json')
-      .then(res => {
-        console.log('Fetch response status:', res.status);
-        return res.json();
-      })
+      .then(res => res.json())
       .then(data => {
         console.log('Stories loaded:', data);
         setStories(data.stories);
-        if (data.stories.length > 0) {
-          setSelectedStory(data.stories[0]);
-        }
         setLoading(false);
       })
       .catch(err => {
         console.error('Failed to load stories, using defaults:', err);
         setStories(defaultStories);
-        setSelectedStory(defaultStories[0]);
         setLoading(false);
       });
   }, []);
 
-  if (loading && !selectedStory) {
+  if (loading && stories.length === 0) {
     return (
       <div className="tibetan-lesson-container">
         <header className="lesson-header">
           <h1 className="lesson-title">བོད་ཀྱི་སྐད་</h1>
-          <p className="lesson-subtitle">Tibetan Language</p>
         </header>
         <div className="loading">Loading stories...</div>
       </div>
     );
   }
 
-  const renderWord = (word) => {
-    const display = script === 'wylie' ? word.wylie : word.tibetan;
-    return display;
-  };
-
   const handleStorySelect = (story) => {
     setSelectedStory(story);
-    setView('lesson');
+    setCurrentView('story');
+    setSelectedWord(null);
+  };
+
+  const handleBackToLibrary = () => {
+    setCurrentView('library');
+    setSelectedStory(null);
+    setSelectedWord(null);
   };
 
   return (
@@ -79,97 +104,38 @@ const TibetanLesson = () => {
       <header className="lesson-header">
         <h1 className="lesson-title">བོད་ཀྱི་སྐད་</h1>
         <p className="lesson-subtitle">Tibetan Language</p>
-        <div className="header-controls">
-          <div className="view-selector">
-            <button
-              className={`view-btn ${view === 'library' ? 'active' : ''}`}
-              onClick={() => setView('library')}
-            >
-              Library
-            </button>
-            <button
-              className={`view-btn ${view === 'lesson' ? 'active' : ''}`}
-              onClick={() => setView('lesson')}
-              disabled={!selectedStory}
-            >
-              Lesson
-            </button>
-          </div>
-          <div className="script-selector">
-            <button
-              className={`script-btn ${script === 'wylie' ? 'active' : ''}`}
-              onClick={() => setScript('wylie')}
-            >
-              Wylie
-            </button>
-            <button
-              className={`script-btn ${script === 'tibetan' ? 'active' : ''}`}
-              onClick={() => setScript('tibetan')}
-            >
-              བོད་ཡིག
-            </button>
-          </div>
+        <div className="script-selector">
+          <button
+            className={`script-btn ${script === 'wylie' ? 'active' : ''}`}
+            onClick={() => setScript('wylie')}
+          >
+            Wylie
+          </button>
+          <button
+            className={`script-btn ${script === 'tibetan' ? 'active' : ''}`}
+            onClick={() => setScript('tibetan')}
+          >
+            བོད་ཡིག
+          </button>
         </div>
       </header>
 
-      {view === 'library' ? (
+      {currentView === 'library' && (
         <LibraryView stories={stories} onSelectStory={handleStorySelect} />
-      ) : (
-        <main className="lesson-content">
-        <div className="content-wrapper">
-          <div className="lesson-text">
-            {/* Main sentence */}
-            <div className="main-sentence">
-              <h2 className="sentence-title">
-                {script === 'wylie' ? selectedStory.titleTransliteration : selectedStory.title}
-              </h2>
-              <p className="sentence-english">{selectedStory.titleEnglish}</p>
-            </div>
+      )}
 
-            {/* Word breakdown */}
-            <div className="word-section">
-              <h3 className="section-title">Word Breakdown</h3>
-              <div className="words-container">
-                {selectedStory.wordBreakdown.map((word, idx) => (
-                  <div key={idx} className="word-card">
-                    <div className="word-display">{renderWord(word)}</div>
-                    <div className="word-details">
-                      <div className="word-meaning">
-                        <strong>{word.meaning}</strong>
-                      </div>
-                      <div className="word-type">{word.partOfSpeech}</div>
-                      {script === 'tibetan' && (
-                        <div className="word-wylie">{word.wylie}</div>
-                      )}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* Grammar section */}
-            <div className="grammar-section">
-              <h3 className="section-title">Sentence Structure</h3>
-              <p className="grammar-text">{selectedStory.sentenceBreakdown}</p>
-            </div>
-
-            {/* Context section */}
-            <div className="context-section">
-              <h3 className="section-title">Context & Usage</h3>
-              <p className="context-text">{selectedStory.context}</p>
-            </div>
-          </div>
-
-          {/* Image section */}
-          <div className="lesson-image">
-            <img src={selectedStory.image} alt={selectedStory.titleEnglish} />
-          </div>
-        </div>
-        </main>
+      {currentView === 'story' && selectedStory && (
+        <StoryView
+          story={selectedStory}
+          script={script}
+          selectedWord={selectedWord}
+          onWordClick={setSelectedWord}
+          onBack={handleBackToLibrary}
+        />
       )}
 
       <footer className="lesson-footer">
-        <p>Tibetan Language Learning Platform • Proof of Concept</p>
+        <p>Tibetan Language Learning Platform</p>
       </footer>
     </div>
   );
@@ -188,7 +154,7 @@ const LibraryView = ({ stories, onSelectStory }) => {
       <div className="library-header">
         <h2>Library</h2>
         <p className="library-description">
-          Click on a story to begin. Stories are grouped by series and show the number of unique words.
+          Click on a story to read it. Words in the story are clickable for definitions.
         </p>
       </div>
 
@@ -235,6 +201,56 @@ const LibraryView = ({ stories, onSelectStory }) => {
             <div className="table-cell words-col">{story.uniqueWords}</div>
           </div>
         ))}
+      </div>
+    </div>
+  );
+};
+
+const StoryView = ({ story, script, selectedWord, onWordClick, onBack }) => {
+  return (
+    <div className="story-view">
+      <button className="back-btn" onClick={onBack}>← Back to Library</button>
+
+      <div className="story-content">
+        <div className="story-text-section">
+          <h2 className="story-heading">{story.titleEnglish}</h2>
+          <p className="story-subtitle-text">{story.series}</p>
+
+          <div className="story-text">
+            {story.words.map((word, idx) => {
+              const wordDisplay = script === 'wylie' ? word.wylie : word.tibetan;
+              const isSelected = selectedWord &&
+                selectedWord.tibetan === word.tibetan &&
+                selectedWord.wylie === word.wylie;
+
+              return (
+                <span
+                  key={idx}
+                  className={`story-word ${isSelected ? 'selected' : ''}`}
+                  onClick={() => onWordClick(word)}
+                >
+                  {wordDisplay}
+                </span>
+              );
+            })}
+          </div>
+
+          {selectedWord && (
+            <div className="word-tooltip">
+              <div className="tooltip-content">
+                <div className="tooltip-header">
+                  <div className="tooltip-tibetan">{selectedWord.tibetan}</div>
+                  <div className="tooltip-wylie">{selectedWord.wylie}</div>
+                </div>
+                <div className="tooltip-meaning">{selectedWord.meaning}</div>
+              </div>
+            </div>
+          )}
+        </div>
+
+        <div className="story-image-section">
+          <img src={story.image} alt={story.titleEnglish} className="story-image" />
+        </div>
       </div>
     </div>
   );
