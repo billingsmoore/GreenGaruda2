@@ -26,6 +26,24 @@
     },
     {
       "id": 2,
+      "title": "སྐུ་མེད་དང་སྐུ་གཟུགས།",
+      "titleTransliteration": "sku-med dang sku-gzugs",
+      "titleEnglish": "Form and Formlessness",
+      "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=400&fit=crop",
+      "series": "Buddhist Concepts",
+      "uniqueWords": 5,
+      "textTibetan": "སྐུ་གཟུགས་ཡོད།\nསྐུ་མེད་ཡོད།\nསྐུ་གཟུགས་དང་སྐུ་མེད་གཉིས་ཡོད།",
+      "textWylie": "sku-gzugs yod.\nsku-med yod.\nsku-gzugs dang sku-med gnyis yod.",
+      "words": [
+        { "tibetan": "སྐུ་གཟུགས", "wylie": "sku-gzugs", "meaning": "form/body" },
+        { "tibetan": "སྐུ་མེད", "wylie": "sku-med", "meaning": "formless" },
+        { "tibetan": "ཡོད", "wylie": "yod", "meaning": "exists" },
+        { "tibetan": "དང", "wylie": "dang", "meaning": "and" },
+        { "tibetan": "གཉིས", "wylie": "gnyis", "meaning": "both/two" }
+      ]
+    },
+    {
+      "id": 3,
       "title": "ང་ཚོ་དགེ་ལེགས།",
       "titleTransliteration": "nga tso dge legs.",
       "titleEnglish": "We are well.",
