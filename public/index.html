@@ -6,9 +6,40 @@
   <meta name="theme-color" content="#000000" />
   <meta name="description" content="Tibetan Language Learner" />
   <title>Tibetan Language Learner</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #fff;
+      font-family: sans-serif;
+    }
+    #debug {
+      background: #252525;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      font-size: 14px;
+      white-space: pre-wrap;
+    }
+  </style>
 </head>
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="debug">Initializing app...</div>
   <div id="root"></div>
+  <script>
+    window.debugLog = function(msg) {
+      console.log(msg);
+      const debugDiv = document.getElementById('debug');
+      if (debugDiv) {
+        debugDiv.textContent += '\n' + msg;
+      }
+    };
+    window.debugLog('Page loaded');
+    window.debugLog('Looking for root element...');
+    const root = document.getElementById('root');
+    window.debugLog('Root element found: ' + (root ? 'YES' : 'NO'));
+  </script>
 </body>
 </html>
