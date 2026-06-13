@@ -65,7 +65,13 @@ for (const file of findStoryFiles(STORIES_DIR)) {
 
   if (Array.isArray(story.chapters)) {
     for (const chapter of story.chapters) {
-      chapter.lines = chapter.textTibetan.split('\n').map(line => tokenizeLine(line, chapter.words));
+      if (Array.isArray(chapter.levels)) {
+        for (const level of chapter.levels) {
+          level.lines = level.textTibetan.split('\n').map(line => tokenizeLine(line, level.words));
+        }
+      } else {
+        chapter.lines = chapter.textTibetan.split('\n').map(line => tokenizeLine(line, chapter.words));
+      }
     }
   } else {
     story.lines = story.textTibetan.split('\n').map(line => tokenizeLine(line, story.words));

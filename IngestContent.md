@@ -1,20 +1,24 @@
 # Ingesting a New Book (Buddha Series)
 
-How-to for adding the next book of original Tibetan-language content to the
-Buddha series, following the pattern established for Book 1 ("Who is the
-Buddha?") and Book 2 ("Where Did the Buddha Go?"). Read `CLAUDE.md` first for
-general project conventions.
+How-to for adding the next book of Tibetan-language content to the Buddha
+series, following the pattern established for Book 1 ("Who is the Buddha?")
+and Book 2 ("Where Did the Buddha Go?"). Read `CLAUDE.md` first for general
+project conventions.
 
 ## 0. Ground rules
 
 - **Work one book at a time, in order.** Don't start the next book until the
   current one is done, regenerated, and building cleanly.
-- **Original content only.** amarahasa.com (https://en.amarahasa.com/series/buddha/)
-  is a *structural* reference: book/chapter count, topic per chapter, grammar
-  level, and pedagogical pattern (statement → yes/no question → negation →
-  relational sentences). Do **not** translate or copy amarahasa's actual
-  Sanskrit sentences — write new Tibetan sentences that teach the same kind of
-  grammar point about the same topic.
+- **Direct adaptation of amarahasa's content.** amarahasa.com
+  (https://en.amarahasa.com/series/buddha/) publishes public-domain graded
+  readers, and this project's goal is to adapt that content directly into
+  Tibetan. For each chapter, fetch amarahasa's actual sentences (and, for
+  chapters with a Level 1-4 selector, all four levels) and adapt them into
+  Tibetan — preserving sentence order, the one-sentence-per-line structure,
+  and the statement → yes/no question → negation → relational-sentence
+  pattern. Where Tibetan grammar has no direct equivalent for a Sanskrit
+  construction, adapt to the closest natural Tibetan construction rather than
+  forcing a literal word-for-word rendering.
 - If anything about scope is ambiguous (how many chapters, how to split a
   topic, etc.), check in with the user before writing content — but the
   mechanical steps below (schema, scripts, build) don't need sign-off.
@@ -32,9 +36,9 @@ Then fetch that book's page (URL pattern `https://en.amarahasa.com/books/<slug>/
 to get its chapter list and titles. If you need the chapter links, ask for
 hrefs explicitly — the book page lists chapters as `https://amarahasa.com/books/<slug>/<n>/`.
 
-Optionally fetch one chapter page to gauge the grammar level (what new
-constructions it introduces vs. the previous book) — but only to inform your
-*own* original sentences, never to copy text.
+Fetch each chapter page and record its actual sentences — for chapters with a
+Level 1-4 selector, fetch all four levels. This is the source text you'll
+adapt into Tibetan in step 4.
 
 ## 2. Plan the book before writing JSON
 
@@ -200,3 +204,13 @@ listing all chapters, the book's `description`, `titleTransliteration`, and
 Summarize for the user: book title (Tibetan/English), chapter list with one-
 line topic each, the new grammar/vocab introduced, the new `uniqueWords`
 total, and confirmation the build is clean.
+
+## 11. Record grammar progression
+
+Add a new entry for this book to `GrammarProgression.md` (root of the repo),
+following the format of existing entries: book id/title/uniqueWords, the new
+grammar concepts introduced (with example forms), and notable new vocabulary.
+Only list what's *new* — don't repeat items already documented for earlier
+books. If a new question-particle form, compound pattern, or aspect
+construction shows up, also note it in that file's "Cross-cutting grammar
+notes" section so later books can stay consistent.

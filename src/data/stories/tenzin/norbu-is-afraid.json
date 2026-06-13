@@ -1,0 +1,3365 @@
+{
+  "id": 104,
+  "title": "ནོར་བུ་སྐྲག།",
+  "titleTransliteration": "nor-bu skrag.",
+  "titleEnglish": "Norbu is Afraid",
+  "description": "Norbu is afraid of the big tree outside his house. But Dawa isn't afraid at all -- and neither, it turns out, is the 'demon' Norbu thinks he sees in its branches.",
+  "image": "https://images.unsplash.com/photo-1516738901601-a51a0a6a1f61?w=500&h=400&fit=crop",
+  "series": "Tenzin",
+  "uniqueWords": 56,
+  "chapters": [
+    {
+      "title": "ནོར་བུ",
+      "titleTransliteration": "nor-bu",
+      "titleEnglish": "Norbu",
+      "textTibetan": "ནོར་བུ་ནི་ཕྲུ་གུ་ཡིན།\nནོར་བུ་ནི་བསྟན་འཛིན་གི་གྲོགས་པོ་ཡིན།\n\nནོར་བུ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nནོར་བུ་ནི་སྐྱིད་པོ་མིན།\nནོར་བུ་ནི་སེམས་སྐྱོ་པོ་ཡིན།\n\nནོར་བུའི་ཁྱིམ་གི་ཕྱི་ལ་ཤིང་ཆེན་པོ་ཡོད།\nནོར་བུ་ནི་ཤིང་ལ་སྐྲག།\nནོར་བུ་ནི་ཤིང་ལ་སྐྲག་གམ།\nཟླ་བ་ནི་ཤིང་ལ་མི་སྐྲག།\n\nཟླ་བ་ནི་ཤིང་ལ་ཡོད།\nནོར་བུ་ནི་ཟླ་བ་ལ་མཐོང།",
+      "textWylie": "nor-bu ni phru-gu yin.\nnor-bu ni bstan-'dzin gi grogs-po yin.\n\nnor-bu ni skyid-po yin-nam.\nnor-bu ni skyid-po min.\nnor-bu ni sems-skyo-po yin.\n\nnor-bu'i khyim gi phyi la shing chen-po yod.\nnor-bu ni shing la skrag.\nnor-bu ni shing la skrag-gam.\nzla-ba ni shing la mi-skrag.\n\nzla-ba ni shing la yod.\nnor-bu ni zla-ba la mthong.",
+      "lineTranslations": [
+        "Norbu is a child.",
+        "Norbu is Tenzin's friend.",
+        "",
+        "Is Norbu happy?",
+        "Norbu is not happy.",
+        "Norbu is sad.",
+        "",
+        "Outside Norbu's house there is a big tree.",
+        "Norbu is afraid of the tree.",
+        "Is Norbu afraid of the tree?",
+        "Dawa is not afraid of the tree.",
+        "",
+        "Dawa is in the tree.",
+        "Norbu sees Dawa."
+      ],
+      "words": [
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཕྲུ་གུ",
+          "wylie": "phru-gu",
+          "phonetics": "thru-gu",
+          "meaning": "child"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "གྲོགས་པོ",
+          "wylie": "grogs-po",
+          "phonetics": "drok-po",
+          "meaning": "friend"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "སེམས་སྐྱོ་པོ",
+          "wylie": "sems-skyo-po",
+          "phonetics": "sem-kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཁྱིམ",
+          "wylie": "khyim",
+          "phonetics": "khyim",
+          "meaning": "home"
+        },
+        {
+          "tibetan": "ཕྱི",
+          "wylie": "phyi",
+          "phonetics": "chi",
+          "meaning": "outside"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "big"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "སྐྲག",
+          "wylie": "skrag",
+          "phonetics": "trak",
+          "meaning": "is afraid"
+        },
+        {
+          "tibetan": "སྐྲག་གམ",
+          "wylie": "skrag-gam",
+          "phonetics": "trak-gam",
+          "meaning": "is afraid? (question)"
+        },
+        {
+          "tibetan": "མི་སྐྲག",
+          "wylie": "mi-skrag",
+          "phonetics": "mi-trak",
+          "meaning": "is not afraid"
+        },
+        {
+          "tibetan": "ཟླ་བ",
+          "wylie": "zla-ba",
+          "phonetics": "da-wa",
+          "meaning": "Dawa"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "thong",
+          "meaning": "sees"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕྲུ་གུ",
+            "wylie": "phru-gu",
+            "phonetics": "thru-gu",
+            "meaning": "child"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "གྲོགས་པོ",
+            "wylie": "grogs-po",
+            "phonetics": "drok-po",
+            "meaning": "friend"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་སྐྱོ་པོ",
+            "wylie": "sems-skyo-po",
+            "phonetics": "sem-kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "འི་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "ཕྱི",
+            "wylie": "phyi",
+            "phonetics": "chi",
+            "meaning": "outside"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "big"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག",
+            "wylie": "skrag",
+            "phonetics": "trak",
+            "meaning": "is afraid"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག་གམ",
+            "wylie": "skrag-gam",
+            "phonetics": "trak-gam",
+            "meaning": "is afraid? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མི་སྐྲག",
+            "wylie": "mi-skrag",
+            "phonetics": "mi-trak",
+            "meaning": "is not afraid"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཟླ་བ",
+      "titleTransliteration": "zla-ba",
+      "titleEnglish": "Dawa",
+      "textTibetan": "ཟླ་བ་ནི་ཤིང་ལ་རྩེ་གི་ཡོད།\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན།\n\nཟླ་བ་ནི་ཤིང་ལ་སྐྲག་གམ།\nཟླ་བ་ནི་ཤིང་ལ་མི་སྐྲག།\n\nཟླ་བ་ནི་ཡལ་ག་གི་སྟེང་ལ་ཡོད།\nཟླ་བ་ནི་ཡལ་ག་གི་སྟེང་ལ་སྐྱིད་པོ་ཡིན།\n\nནོར་བུ་ནི་ཟླ་བ་ལ་མཐོང།\nནོར་བུ་ནི་ཤིང་ལ་འཛེགས་འདོད་དམ།\nནོར་བུ་ནི་ཤིང་ལ་འཛེགས་མི་འདོད།",
+      "textWylie": "zla-ba ni shing la rtse-gi-yod.\nzla-ba ni skyid-po yin.\n\nzla-ba ni shing la skrag-gam.\nzla-ba ni shing la mi-skrag.\n\nzla-ba ni yal-ga gi steng la yod.\nzla-ba ni yal-ga gi steng la skyid-po yin.\n\nnor-bu ni zla-ba la mthong.\nnor-bu ni shing la 'dzegs-'dod-dam.\nnor-bu ni shing la 'dzegs-mi-'dod.",
+      "lineTranslations": [
+        "Dawa is playing in the tree.",
+        "Dawa is happy.",
+        "",
+        "Is Dawa afraid of the tree?",
+        "Dawa is not afraid of the tree.",
+        "",
+        "Dawa is on top of the branch.",
+        "Dawa is happy on top of the branch.",
+        "",
+        "Norbu sees Dawa.",
+        "Does Norbu want to climb the tree?",
+        "Norbu does not want to climb the tree."
+      ],
+      "words": [
+        {
+          "tibetan": "ཟླ་བ",
+          "wylie": "zla-ba",
+          "phonetics": "da-wa",
+          "meaning": "Dawa"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "རྩེ་གི་ཡོད",
+          "wylie": "rtse-gi-yod",
+          "phonetics": "tse-gi-yö",
+          "meaning": "is playing"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "སྐྲག་གམ",
+          "wylie": "skrag-gam",
+          "phonetics": "trak-gam",
+          "meaning": "is afraid? (question)"
+        },
+        {
+          "tibetan": "མི་སྐྲག",
+          "wylie": "mi-skrag",
+          "phonetics": "mi-trak",
+          "meaning": "is not afraid"
+        },
+        {
+          "tibetan": "ཡལ་ག",
+          "wylie": "yal-ga",
+          "phonetics": "yal-ga",
+          "meaning": "branch"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "སྟེང",
+          "wylie": "steng",
+          "phonetics": "teng",
+          "meaning": "on top of / above"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "thong",
+          "meaning": "sees"
+        },
+        {
+          "tibetan": "འཛེགས་འདོད་དམ",
+          "wylie": "'dzegs-'dod-dam",
+          "phonetics": "dzek-dö-dam",
+          "meaning": "wants to climb? (question)"
+        },
+        {
+          "tibetan": "འཛེགས་མི་འདོད",
+          "wylie": "'dzegs-mi-'dod",
+          "phonetics": "dzek-mi-dö",
+          "meaning": "does not want to climb"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "རྩེ་གི་ཡོད",
+            "wylie": "rtse-gi-yod",
+            "phonetics": "tse-gi-yö",
+            "meaning": "is playing"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག་གམ",
+            "wylie": "skrag-gam",
+            "phonetics": "trak-gam",
+            "meaning": "is afraid? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མི་སྐྲག",
+            "wylie": "mi-skrag",
+            "phonetics": "mi-trak",
+            "meaning": "is not afraid"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡལ་ག",
+            "wylie": "yal-ga",
+            "phonetics": "yal-ga",
+            "meaning": "branch"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "སྟེང",
+            "wylie": "steng",
+            "phonetics": "teng",
+            "meaning": "on top of / above"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡལ་ག",
+            "wylie": "yal-ga",
+            "phonetics": "yal-ga",
+            "meaning": "branch"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "སྟེང",
+            "wylie": "steng",
+            "phonetics": "teng",
+            "meaning": "on top of / above"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་འདོད་དམ",
+            "wylie": "'dzegs-'dod-dam",
+            "phonetics": "dzek-dö-dam",
+            "meaning": "wants to climb? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་མི་འདོད",
+            "wylie": "'dzegs-mi-'dod",
+            "phonetics": "dzek-mi-dö",
+            "meaning": "does not want to climb"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཤིང",
+      "titleTransliteration": "shing",
+      "titleEnglish": "The Tree",
+      "textTibetan": "ཤིང་ནི་ཆེན་པོ་ཡིན།\nཤིང་ལ་ཡལ་ག་མང་པོ་ཡོད།\n\nཟླ་བ་ནི་ཤིང་ལ་འཛེགས།\nཟླ་བ་ནི་ཤིང་ལ་འཛེགས་སམ།\nནོར་བུ་ནི་ཤིང་ལ་མི་འཛེགས།\n\nཟླ་བ་ནི་འཛེགས་ཐུབ།\nནོར་བུ་ནི་འཛེགས་མི་ཐུབ།\n\nཟླ་བ་དང་ནོར་བུ་ནི་གྲོགས་པོ་ཡིན།",
+      "textWylie": "shing ni chen-po yin.\nshing la yal-ga mang-po yod.\n\nzla-ba ni shing la 'dzegs.\nzla-ba ni shing la 'dzegs-sam.\nnor-bu ni shing la mi-'dzegs.\n\nzla-ba ni 'dzegs-thub.\nnor-bu ni 'dzegs-mi-thub.\n\nzla-ba dang nor-bu ni grogs-po yin.",
+      "lineTranslations": [
+        "The tree is big.",
+        "The tree has many branches.",
+        "",
+        "Dawa climbs the tree.",
+        "Does Dawa climb the tree?",
+        "Norbu does not climb the tree.",
+        "",
+        "Dawa can climb.",
+        "Norbu cannot climb.",
+        "",
+        "Dawa and Norbu are friends."
+      ],
+      "words": [
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "big"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "ཡལ་ག",
+          "wylie": "yal-ga",
+          "phonetics": "yal-ga",
+          "meaning": "branch"
+        },
+        {
+          "tibetan": "མང་པོ",
+          "wylie": "mang-po",
+          "phonetics": "mang-po",
+          "meaning": "many"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "ཟླ་བ",
+          "wylie": "zla-ba",
+          "phonetics": "da-wa",
+          "meaning": "Dawa"
+        },
+        {
+          "tibetan": "འཛེགས",
+          "wylie": "'dzegs",
+          "phonetics": "dzek",
+          "meaning": "climbs"
+        },
+        {
+          "tibetan": "འཛེགས་སམ",
+          "wylie": "'dzegs-sam",
+          "phonetics": "dzek-sam",
+          "meaning": "climbs? (question)"
+        },
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "མི་འཛེགས",
+          "wylie": "mi-'dzegs",
+          "phonetics": "mi-dzek",
+          "meaning": "does not climb"
+        },
+        {
+          "tibetan": "འཛེགས་ཐུབ",
+          "wylie": "'dzegs-thub",
+          "phonetics": "dzek-thup",
+          "meaning": "can climb"
+        },
+        {
+          "tibetan": "འཛེགས་མི་ཐུབ",
+          "wylie": "'dzegs-mi-thub",
+          "phonetics": "dzek-mi-thup",
+          "meaning": "cannot climb"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        },
+        {
+          "tibetan": "གྲོགས་པོ",
+          "wylie": "grogs-po",
+          "phonetics": "drok-po",
+          "meaning": "friend"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "big"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡལ་ག",
+            "wylie": "yal-ga",
+            "phonetics": "yal-ga",
+            "meaning": "branch"
+          },
+          "་",
+          {
+            "tibetan": "མང་པོ",
+            "wylie": "mang-po",
+            "phonetics": "mang-po",
+            "meaning": "many"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས",
+            "wylie": "'dzegs",
+            "phonetics": "dzek",
+            "meaning": "climbs"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་སམ",
+            "wylie": "'dzegs-sam",
+            "phonetics": "dzek-sam",
+            "meaning": "climbs? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མི་འཛེགས",
+            "wylie": "mi-'dzegs",
+            "phonetics": "mi-dzek",
+            "meaning": "does not climb"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་ཐུབ",
+            "wylie": "'dzegs-thub",
+            "phonetics": "dzek-thup",
+            "meaning": "can climb"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་མི་ཐུབ",
+            "wylie": "'dzegs-mi-thub",
+            "phonetics": "dzek-mi-thup",
+            "meaning": "cannot climb"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གྲོགས་པོ",
+            "wylie": "grogs-po",
+            "phonetics": "drok-po",
+            "meaning": "friend"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཁྱིམ",
+      "titleTransliteration": "khyim",
+      "titleEnglish": "The House",
+      "textTibetan": "ནོར་བུ་ནི་ཁྱིམ་ལ་འགྲོ།\nནོར་བུ་ནི་ཁྱིམ་ལ་འགྲོ་གམ།\n\nཟླ་བ་ནི་ཁྱིམ་ལ་མི་འགྲོ།\nཟླ་བ་ནི་ཤིང་ལ་ཡོད།\n\nནོར་བུ་ནི་ཁྱིམ་ནང་ལ་ཡོད།\nནོར་བུ་ནི་སྒེའུ་ཁུང་ནས་ཤིང་ལ་ལྟ་གི་ཡོད།\nནོར་བུ་ནི་སེམས་སྐྱོ་པོ་ཡིན།",
+      "textWylie": "nor-bu ni khyim la 'gro.\nnor-bu ni khyim la 'gro-gam.\n\nzla-ba ni khyim la mi-'gro.\nzla-ba ni shing la yod.\n\nnor-bu ni khyim nang la yod.\nnor-bu ni sge'u-khung nas shing la lta-gi-yod.\nnor-bu ni sems-skyo-po yin.",
+      "lineTranslations": [
+        "Norbu goes home.",
+        "Does Norbu go home?",
+        "",
+        "Dawa does not go home.",
+        "Dawa is in the tree.",
+        "",
+        "Norbu is inside the house.",
+        "Norbu is looking at the tree from the window.",
+        "Norbu is sad."
+      ],
+      "words": [
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཁྱིམ",
+          "wylie": "khyim",
+          "phonetics": "khyim",
+          "meaning": "home"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "འགྲོ་གམ",
+          "wylie": "'gro-gam",
+          "phonetics": "dro-gam",
+          "meaning": "goes? (question)"
+        },
+        {
+          "tibetan": "ཟླ་བ",
+          "wylie": "zla-ba",
+          "phonetics": "da-wa",
+          "meaning": "Dawa"
+        },
+        {
+          "tibetan": "མི་འགྲོ",
+          "wylie": "mi-'gro",
+          "phonetics": "mi-dro",
+          "meaning": "does not go"
+        },
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "ནང",
+          "wylie": "nang",
+          "phonetics": "nang",
+          "meaning": "inside"
+        },
+        {
+          "tibetan": "སྒེའུ་ཁུང",
+          "wylie": "sge'u-khung",
+          "phonetics": "geu-khung",
+          "meaning": "window"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ལྟ་གི་ཡོད",
+          "wylie": "lta-gi-yod",
+          "phonetics": "ta-gi-yö",
+          "meaning": "is looking"
+        },
+        {
+          "tibetan": "སེམས་སྐྱོ་པོ",
+          "wylie": "sems-skyo-po",
+          "phonetics": "sem-kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ་གམ",
+            "wylie": "'gro-gam",
+            "phonetics": "dro-gam",
+            "meaning": "goes? (question)"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མི་འགྲོ",
+            "wylie": "mi-'gro",
+            "phonetics": "mi-dro",
+            "meaning": "does not go"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཟླ་བ",
+            "wylie": "zla-ba",
+            "phonetics": "da-wa",
+            "meaning": "Dawa"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ནང",
+            "wylie": "nang",
+            "phonetics": "nang",
+            "meaning": "inside"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྒེའུ་ཁུང",
+            "wylie": "sge'u-khung",
+            "phonetics": "geu-khung",
+            "meaning": "window"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ལྟ་གི་ཡོད",
+            "wylie": "lta-gi-yod",
+            "phonetics": "ta-gi-yö",
+            "meaning": "is looking"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་སྐྱོ་པོ",
+            "wylie": "sems-skyo-po",
+            "phonetics": "sem-kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ནོར་བུ་ཅི་མཐོང།",
+      "titleTransliteration": "nor-bu ci mthong.",
+      "titleEnglish": "What Does Norbu See?",
+      "textTibetan": "ནོར་བུ་ནི་ཡང་སྒེའུ་ཁུང་ནས་ལྟ་གི་ཡོད།\nནོར་བུ་ནི་ཅི་མཐོང།\n\nཤིང་གི་སྟེང་ལ་གཟུགས་ཡོད།\nགཟུགས་དེ་ནི་ཅི་ཡིན།\n\nནོར་བུ་ནི་གཟུགས་ལ་མཐོང།\nནོར་བུ་ནི་སྐྲག།",
+      "textWylie": "nor-bu ni yang sge'u-khung nas lta-gi-yod.\nnor-bu ni ci mthong.\n\nshing gi steng la gzugs yod.\ngzugs de ni ci yin.\n\nnor-bu ni gzugs la mthong.\nnor-bu ni skrag.",
+      "lineTranslations": [
+        "Norbu is looking from the window again.",
+        "What does Norbu see?",
+        "",
+        "On top of the tree there is a figure.",
+        "What is that figure?",
+        "",
+        "Norbu sees the figure.",
+        "Norbu is afraid."
+      ],
+      "words": [
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཡང",
+          "wylie": "yang",
+          "phonetics": "yang",
+          "meaning": "also / again"
+        },
+        {
+          "tibetan": "སྒེའུ་ཁུང",
+          "wylie": "sge'u-khung",
+          "phonetics": "geu-khung",
+          "meaning": "window"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ལྟ་གི་ཡོད",
+          "wylie": "lta-gi-yod",
+          "phonetics": "ta-gi-yö",
+          "meaning": "is looking"
+        },
+        {
+          "tibetan": "ཅི",
+          "wylie": "ci",
+          "phonetics": "chi",
+          "meaning": "what"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "thong",
+          "meaning": "sees"
+        },
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "སྟེང",
+          "wylie": "steng",
+          "phonetics": "teng",
+          "meaning": "on top of / above"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "གཟུགས",
+          "wylie": "gzugs",
+          "phonetics": "zuk",
+          "meaning": "figure / shape"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "དེ",
+          "wylie": "de",
+          "phonetics": "de",
+          "meaning": "that"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "སྐྲག",
+          "wylie": "skrag",
+          "phonetics": "trak",
+          "meaning": "is afraid"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡང",
+            "wylie": "yang",
+            "phonetics": "yang",
+            "meaning": "also / again"
+          },
+          "་",
+          {
+            "tibetan": "སྒེའུ་ཁུང",
+            "wylie": "sge'u-khung",
+            "phonetics": "geu-khung",
+            "meaning": "window"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "ལྟ་གི་ཡོད",
+            "wylie": "lta-gi-yod",
+            "phonetics": "ta-gi-yö",
+            "meaning": "is looking"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཅི",
+            "wylie": "ci",
+            "phonetics": "chi",
+            "meaning": "what"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "སྟེང",
+            "wylie": "steng",
+            "phonetics": "teng",
+            "meaning": "on top of / above"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "གཟུགས",
+            "wylie": "gzugs",
+            "phonetics": "zuk",
+            "meaning": "figure / shape"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "གཟུགས",
+            "wylie": "gzugs",
+            "phonetics": "zuk",
+            "meaning": "figure / shape"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཅི",
+            "wylie": "ci",
+            "phonetics": "chi",
+            "meaning": "what"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གཟུགས",
+            "wylie": "gzugs",
+            "phonetics": "zuk",
+            "meaning": "figure / shape"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག",
+            "wylie": "skrag",
+            "phonetics": "trak",
+            "meaning": "is afraid"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "སྲིན་པོ",
+      "titleTransliteration": "srin-po",
+      "titleEnglish": "The Demon",
+      "textTibetan": "གཟུགས་དེ་ནི་སྲིན་པོ་ཡིན་ནམ།\nནོར་བུའི་སེམས་ལ་གཟུགས་དེ་ནི་སྲིན་པོ་ཡིན།\n\nནོར་བུ་ནི་སྲིན་པོ་ལ་སྐྲག།\nནོར་བུ་ནི་སྲིན་པོ་ལ་སྐྲག་གམ།\n\nནོར་བུ་ནི་སྒེའུ་ཁུང་ནས་མི་ལྟ།\nནོར་བུ་ནི་སེམས་སྐྱོ་པོ་ཡིན།\nནོར་བུ་ནི་སྐྲག།",
+      "textWylie": "gzugs de ni srin-po yin-nam.\nnor-bu'i sems la gzugs de ni srin-po yin.\n\nnor-bu ni srin-po la skrag.\nnor-bu ni srin-po la skrag-gam.\n\nnor-bu ni sge'u-khung nas mi-lta.\nnor-bu ni sems-skyo-po yin.\nnor-bu ni skrag.",
+      "lineTranslations": [
+        "Is that figure a demon?",
+        "In Norbu's mind, that figure is a demon.",
+        "",
+        "Norbu is afraid of the demon.",
+        "Is Norbu afraid of the demon?",
+        "",
+        "Norbu does not look from the window.",
+        "Norbu is sad.",
+        "Norbu is afraid."
+      ],
+      "words": [
+        {
+          "tibetan": "གཟུགས",
+          "wylie": "gzugs",
+          "phonetics": "zuk",
+          "meaning": "figure / shape"
+        },
+        {
+          "tibetan": "དེ",
+          "wylie": "de",
+          "phonetics": "de",
+          "meaning": "that"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སྲིན་པོ",
+          "wylie": "srin-po",
+          "phonetics": "sin-po",
+          "meaning": "demon"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "སེམས",
+          "wylie": "sems",
+          "phonetics": "sem",
+          "meaning": "mind / heart"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "སྐྲག",
+          "wylie": "skrag",
+          "phonetics": "trak",
+          "meaning": "is afraid"
+        },
+        {
+          "tibetan": "སྐྲག་གམ",
+          "wylie": "skrag-gam",
+          "phonetics": "trak-gam",
+          "meaning": "is afraid? (question)"
+        },
+        {
+          "tibetan": "སྒེའུ་ཁུང",
+          "wylie": "sge'u-khung",
+          "phonetics": "geu-khung",
+          "meaning": "window"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "མི་ལྟ",
+          "wylie": "mi-lta",
+          "phonetics": "mi-ta",
+          "meaning": "does not look"
+        },
+        {
+          "tibetan": "སེམས་སྐྱོ་པོ",
+          "wylie": "sems-skyo-po",
+          "phonetics": "sem-kyo-po",
+          "meaning": "sad"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "གཟུགས",
+            "wylie": "gzugs",
+            "phonetics": "zuk",
+            "meaning": "figure / shape"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "འི་",
+          {
+            "tibetan": "སེམས",
+            "wylie": "sems",
+            "phonetics": "sem",
+            "meaning": "mind / heart"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "གཟུགས",
+            "wylie": "gzugs",
+            "phonetics": "zuk",
+            "meaning": "figure / shape"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག",
+            "wylie": "skrag",
+            "phonetics": "trak",
+            "meaning": "is afraid"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག་གམ",
+            "wylie": "skrag-gam",
+            "phonetics": "trak-gam",
+            "meaning": "is afraid? (question)"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྒེའུ་ཁུང",
+            "wylie": "sge'u-khung",
+            "phonetics": "geu-khung",
+            "meaning": "window"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "མི་ལྟ",
+            "wylie": "mi-lta",
+            "phonetics": "mi-ta",
+            "meaning": "does not look"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་སྐྱོ་པོ",
+            "wylie": "sems-skyo-po",
+            "phonetics": "sem-kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྲག",
+            "wylie": "skrag",
+            "phonetics": "trak",
+            "meaning": "is afraid"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ནོར་བུ་མི་སྐྲག།",
+      "titleTransliteration": "nor-bu mi-skrag.",
+      "titleEnglish": "Norbu is Not Afraid",
+      "textTibetan": "སྲིན་པོ་དེ་ནི་ཁྱིམ་ལ་ཡོང།\nསྲིན་པོ་དེ་ནི་ཁྱིམ་ལ་ཡོང་ངམ།\n\nསྲིན་པོ་དེ་མིན། བསྟན་འཛིན་ཡིན།\n\nནོར་བུ་ནི་བསྟན་འཛིན་ལ་མཐོང།\nནོར་བུ་ནི་མི་སྐྲག།\n\nནོར་བུ་དང་བསྟན་འཛིན་ནི་སྐྱིད་པོ་ཡིན།",
+      "textWylie": "srin-po de ni khyim la yong.\nsrin-po de ni khyim la yong-ngam.\n\nsrin-po de min. bstan-'dzin yin.\n\nnor-bu ni bstan-'dzin la mthong.\nnor-bu ni mi-skrag.\n\nnor-bu dang bstan-'dzin ni skyid-po yin.",
+      "lineTranslations": [
+        "That demon comes toward the house.",
+        "Does that demon come toward the house?",
+        "",
+        "That is not a demon. It is Tenzin.",
+        "",
+        "Norbu sees Tenzin.",
+        "Norbu is not afraid.",
+        "",
+        "Norbu and Tenzin are happy."
+      ],
+      "words": [
+        {
+          "tibetan": "སྲིན་པོ",
+          "wylie": "srin-po",
+          "phonetics": "sin-po",
+          "meaning": "demon"
+        },
+        {
+          "tibetan": "དེ",
+          "wylie": "de",
+          "phonetics": "de",
+          "meaning": "that"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཁྱིམ",
+          "wylie": "khyim",
+          "phonetics": "khyim",
+          "meaning": "home"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "ཡོང",
+          "wylie": "yong",
+          "phonetics": "yong",
+          "meaning": "comes"
+        },
+        {
+          "tibetan": "ཡོང་ངམ",
+          "wylie": "yong-ngam",
+          "phonetics": "yong-ngam",
+          "meaning": "comes? (question)"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "thong",
+          "meaning": "sees"
+        },
+        {
+          "tibetan": "མི་སྐྲག",
+          "wylie": "mi-skrag",
+          "phonetics": "mi-trak",
+          "meaning": "is not afraid"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོང",
+            "wylie": "yong",
+            "phonetics": "yong",
+            "meaning": "comes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོང་ངམ",
+            "wylie": "yong-ngam",
+            "phonetics": "yong-ngam",
+            "meaning": "comes? (question)"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྲིན་པོ",
+            "wylie": "srin-po",
+            "phonetics": "sin-po",
+            "meaning": "demon"
+          },
+          "་",
+          {
+            "tibetan": "དེ",
+            "wylie": "de",
+            "phonetics": "de",
+            "meaning": "that"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "། ",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི་སྐྲག",
+            "wylie": "mi-skrag",
+            "phonetics": "mi-trak",
+            "meaning": "is not afraid"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "འཛེགས།",
+      "titleTransliteration": "'dzegs.",
+      "titleEnglish": "Climb!",
+      "textTibetan": "བསྟན་འཛིན་ནི་འཛེགས་ཐུབ།\nནོར་བུ་ནི་ཡང་འཛེགས་ཐུབ།\n\nནོར་བུ་ནི་ཡར་འཛེགས།\nནོར་བུ་ནི་ཡར་འཛེགས་སམ།\n\nཤིང་གི་སྟེང་ནས་ཡུལ་ལྗོངས་ནི་མཛེས་པོ་ཡིན།\nནོར་བུ་ནི་སྐྱིད་པོ་ཡིན།\n\nནོར་བུ་ནི་མར་འཛེགས་འདོད།\nནོར་བུ་ནི་མར་འཛེགས་མི་ཐུབ།\nནོར་བུ་ནི་ཇི་ལྟར་མར་འཛེགས།",
+      "textWylie": "bstan-'dzin ni 'dzegs-thub.\nnor-bu ni yang 'dzegs-thub.\n\nnor-bu ni yar 'dzegs.\nnor-bu ni yar 'dzegs-sam.\n\nshing gi steng nas yul-ljongs ni mdzes-po yin.\nnor-bu ni skyid-po yin.\n\nnor-bu ni mar 'dzegs-'dod.\nnor-bu ni mar 'dzegs-mi-thub.\nnor-bu ni ji-ltar mar 'dzegs.",
+      "lineTranslations": [
+        "Tenzin can climb.",
+        "Norbu can also climb.",
+        "",
+        "Norbu climbs up.",
+        "Does Norbu climb up?",
+        "",
+        "From the top of the tree, the view is beautiful.",
+        "Norbu is happy.",
+        "",
+        "Norbu wants to climb down.",
+        "Norbu cannot climb down!",
+        "How will Norbu climb down?"
+      ],
+      "words": [
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "འཛེགས་ཐུབ",
+          "wylie": "'dzegs-thub",
+          "phonetics": "dzek-thup",
+          "meaning": "can climb"
+        },
+        {
+          "tibetan": "ནོར་བུ",
+          "wylie": "nor-bu",
+          "phonetics": "nor-bu",
+          "meaning": "Norbu"
+        },
+        {
+          "tibetan": "ཡང",
+          "wylie": "yang",
+          "phonetics": "yang",
+          "meaning": "also / again"
+        },
+        {
+          "tibetan": "ཡར",
+          "wylie": "yar",
+          "phonetics": "yar",
+          "meaning": "up"
+        },
+        {
+          "tibetan": "འཛེགས",
+          "wylie": "'dzegs",
+          "phonetics": "dzek",
+          "meaning": "climbs"
+        },
+        {
+          "tibetan": "འཛེགས་སམ",
+          "wylie": "'dzegs-sam",
+          "phonetics": "dzek-sam",
+          "meaning": "climbs? (question)"
+        },
+        {
+          "tibetan": "ཤིང",
+          "wylie": "shing",
+          "phonetics": "shing",
+          "meaning": "tree"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "སྟེང",
+          "wylie": "steng",
+          "phonetics": "teng",
+          "meaning": "on top of / above"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ཡུལ་ལྗོངས",
+          "wylie": "yul-ljongs",
+          "phonetics": "yul-jong",
+          "meaning": "view / scenery"
+        },
+        {
+          "tibetan": "མཛེས་པོ",
+          "wylie": "mdzes-po",
+          "phonetics": "dzé-po",
+          "meaning": "beautiful"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        },
+        {
+          "tibetan": "མར",
+          "wylie": "mar",
+          "phonetics": "mar",
+          "meaning": "down"
+        },
+        {
+          "tibetan": "འཛེགས་འདོད",
+          "wylie": "'dzegs-'dod",
+          "phonetics": "dzek-dö",
+          "meaning": "wants to climb"
+        },
+        {
+          "tibetan": "འཛེགས་མི་ཐུབ",
+          "wylie": "'dzegs-mi-thub",
+          "phonetics": "dzek-mi-thup",
+          "meaning": "cannot climb"
+        },
+        {
+          "tibetan": "ཇི་ལྟར",
+          "wylie": "ji-ltar",
+          "phonetics": "ji-tar",
+          "meaning": "how"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་ཐུབ",
+            "wylie": "'dzegs-thub",
+            "phonetics": "dzek-thup",
+            "meaning": "can climb"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡང",
+            "wylie": "yang",
+            "phonetics": "yang",
+            "meaning": "also / again"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་ཐུབ",
+            "wylie": "'dzegs-thub",
+            "phonetics": "dzek-thup",
+            "meaning": "can climb"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡར",
+            "wylie": "yar",
+            "phonetics": "yar",
+            "meaning": "up"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས",
+            "wylie": "'dzegs",
+            "phonetics": "dzek",
+            "meaning": "climbs"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཡར",
+            "wylie": "yar",
+            "phonetics": "yar",
+            "meaning": "up"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་སམ",
+            "wylie": "'dzegs-sam",
+            "phonetics": "dzek-sam",
+            "meaning": "climbs? (question)"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཤིང",
+            "wylie": "shing",
+            "phonetics": "shing",
+            "meaning": "tree"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "སྟེང",
+            "wylie": "steng",
+            "phonetics": "teng",
+            "meaning": "on top of / above"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "ཡུལ་ལྗོངས",
+            "wylie": "yul-ljongs",
+            "phonetics": "yul-jong",
+            "meaning": "view / scenery"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མར",
+            "wylie": "mar",
+            "phonetics": "mar",
+            "meaning": "down"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་འདོད",
+            "wylie": "'dzegs-'dod",
+            "phonetics": "dzek-dö",
+            "meaning": "wants to climb"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མར",
+            "wylie": "mar",
+            "phonetics": "mar",
+            "meaning": "down"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས་མི་ཐུབ",
+            "wylie": "'dzegs-mi-thub",
+            "phonetics": "dzek-mi-thup",
+            "meaning": "cannot climb"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ནོར་བུ",
+            "wylie": "nor-bu",
+            "phonetics": "nor-bu",
+            "meaning": "Norbu"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཇི་ལྟར",
+            "wylie": "ji-ltar",
+            "phonetics": "ji-tar",
+            "meaning": "how"
+          },
+          "་",
+          {
+            "tibetan": "མར",
+            "wylie": "mar",
+            "phonetics": "mar",
+            "meaning": "down"
+          },
+          "་",
+          {
+            "tibetan": "འཛེགས",
+            "wylie": "'dzegs",
+            "phonetics": "dzek",
+            "meaning": "climbs"
+          },
+          "།"
+        ]
+      ]
+    }
+  ]
+}

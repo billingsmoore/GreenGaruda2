@@ -5,15 +5,22 @@ import '../styles/StoryView.css';
 const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNavigate }) => {
   const [tooltipMode, setTooltipMode] = useState('word');
   const [chapterIndex, setChapterIndex] = useState(0);
+  const [selectedLevel, setSelectedLevel] = useState(0);
 
   useEffect(() => {
     setChapterIndex(Array.isArray(story.chapters) && story.chapters.length > 0 ? -1 : 0);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [story.id]);
 
+  useEffect(() => {
+    setSelectedLevel(0);
+  }, [story.id, chapterIndex]);
+
   const hasChapters = Array.isArray(story.chapters) && story.chapters.length > 0;
   const showingToc = hasChapters && chapterIndex === -1;
   const chapter = hasChapters ? (showingToc ? null : story.chapters[chapterIndex]) : story;
+  const hasLevels = !!chapter && Array.isArray(chapter.levels) && chapter.levels.length > 0;
+  const levelData = hasLevels ? chapter.levels[selectedLevel] : chapter;
 
   const currentIndex = stories.findIndex(s => s.id === story.id);
   const prevStory = currentIndex > 0 ? stories[currentIndex - 1] : null;
@@ -53,10 +60,16 @@ const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNaviga
   const getLinePhonetics = (line) =>
     line.filter(token => typeof token !== 'string').map(token => token.phonetics).join(' ');
 
-  const renderStoryText = () => {
-    if (!chapter || !chapter.lines) return null;
+  const handleLevelChange = (idx) => {
+    setSelectedLevel(idx);
+    setTooltipMode('word');
+    onWordClick(null);
+  };
 
-    return chapter.lines.map((line, lineIdx) => (
+  const renderStoryText = () => {
+    if (!levelData || !levelData.lines) return null;
+
+    return levelData.lines.map((line, lineIdx) => (
       <div key={lineIdx} className="story-line-group">
         <div className="story-line">
           {line.map((token, tokenIdx) =>
@@ -128,6 +141,20 @@ const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNaviga
                 {hasChapters && ` · Chapter ${chapterIndex + 1} of ${story.chapters.length}: ${chapter.titleEnglish}`}
               </p>
 
+              {hasLevels && (
+                <div className="level-selector">
+                  {chapter.levels.map((level, idx) => (
+                    <button
+                      key={idx}
+                      className={`level-btn ${selectedLevel === idx ? 'active' : ''}`}
+                      onClick={() => handleLevelChange(idx)}
+                    >
+                      {level.label || `Level ${idx + 1}`}
+                    </button>
+                  ))}
+                </div>
+              )}
+
               <div className="story-text">
                 {renderStoryText()}
               </div>
@@ -157,10 +184,10 @@ const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNaviga
                 {tooltipMode === 'sentence' ? (
                   <>
                     <div className="tooltip-header">
-                      <div className="tooltip-wylie">{getLineWylie(chapter.lines[selectedWord.lineIdx])}</div>
-                      <div className="tooltip-phonetics">{getLinePhonetics(chapter.lines[selectedWord.lineIdx])}</div>
+                      <div className="tooltip-wylie">{getLineWylie(levelData.lines[selectedWord.lineIdx])}</div>
+                      <div className="tooltip-phonetics">{getLinePhonetics(levelData.lines[selectedWord.lineIdx])}</div>
                     </div>
-                    <div className="tooltip-meaning">{chapter.lineTranslations?.[selectedWord.lineIdx]}</div>
+                    <div className="tooltip-meaning">{levelData.lineTranslations?.[selectedWord.lineIdx]}</div>
                   </>
                 ) : (
                   <>

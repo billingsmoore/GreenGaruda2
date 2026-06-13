@@ -1,0 +1,3678 @@
+{
+  "id": 5,
+  "title": "རྒྱལ་བུ་སེམས་ཁྲལ།",
+  "titleTransliteration": "rgyal-bu sems-khral.",
+  "titleEnglish": "The Prince is Troubled",
+  "description": "Döndrub wishes to see the world beyond the palace walls. What does he find on the road — and how does it change him?",
+  "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=400&fit=crop",
+  "series": "The Life of the Buddha",
+  "uniqueWords": 40,
+  "chapters": [
+    {
+      "title": "རྒྱལ་བུ་ཕྱི་རོལ་འགྲོ་འདོད",
+      "titleTransliteration": "rgyal-bu phyi-rol 'gro 'dod.",
+      "titleEnglish": "The Prince Wishes to Go Outside",
+      "textTibetan": "རྒྱལ་བུ་ནི་ཕོ་བྲང་ལ་ཡོད།\nརྒྱལ་བུ་ནི་ཕོ་བྲང་ལ་ཡོད་དམ།\nརྒྱལ་བུ་ནི་ཕོ་བྲང་ལ་ཡོད།\n\nརྒྱལ་བུ་ནི་ཕྱི་རོལ་འགྲོ་འདོད།\nརྒྱལ་བུ་འགྲོ།\nརྒྱལ་བུ་འགྲོ་སམ།\nརྒྱལ་བུ་འགྲོ།\n\nརྒྱལ་བུ་ནི་ཕོ་བྲང་ནས་འགྲོ།\nརྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ་སམ།\nརྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།",
+      "textWylie": "rgyal-bu ni pho-brang la yod.\nrgyal-bu ni pho-brang la yod-dam.\nrgyal-bu ni pho-brang la yod.\n\nrgyal-bu ni phyi-rol 'gro 'dod.\nrgyal-bu 'gro.\nrgyal-bu 'gro-sam.\nrgyal-bu 'gro.\n\nrgyal-bu ni pho-brang nas 'gro.\nrgyal-bu ni lam la 'gro.\nrgyal-bu ni lam la 'gro-sam.\nrgyal-bu ni lam la 'gro.",
+      "lineTranslations": [
+        "The prince is at the palace.",
+        "Is the prince at the palace?",
+        "The prince is at the palace.",
+        "",
+        "The prince wishes to go outside.",
+        "The prince goes.",
+        "Does the prince go?",
+        "The prince goes.",
+        "",
+        "The prince goes from the palace.",
+        "The prince goes onto the road.",
+        "Does the prince go onto the road?",
+        "The prince goes onto the road."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཕོ་བྲང",
+          "wylie": "pho-brang",
+          "phonetics": "po-drang",
+          "meaning": "palace"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "ཡོད",
+          "wylie": "yod",
+          "phonetics": "yö",
+          "meaning": "there is / has"
+        },
+        {
+          "tibetan": "ཡོད་དམ",
+          "wylie": "yod-dam",
+          "phonetics": "yö-dam",
+          "meaning": "is there? / has? (question)"
+        },
+        {
+          "tibetan": "ཕྱི་རོལ",
+          "wylie": "phyi-rol",
+          "phonetics": "chi-röl",
+          "meaning": "outside"
+        },
+        {
+          "tibetan": "འགྲོ་འདོད",
+          "wylie": "'gro-'dod",
+          "phonetics": "dro-dö",
+          "meaning": "wishes to go"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "འགྲོ་སམ",
+          "wylie": "'gro-sam",
+          "phonetics": "dro-sam",
+          "meaning": "goes? (question)"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ལམ",
+          "wylie": "lam",
+          "phonetics": "lam",
+          "meaning": "road, path"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད་དམ",
+            "wylie": "yod-dam",
+            "phonetics": "yö-dam",
+            "meaning": "is there? / has? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོད",
+            "wylie": "yod",
+            "phonetics": "yö",
+            "meaning": "there is / has"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕྱི་རོལ",
+            "wylie": "phyi-rol",
+            "phonetics": "chi-röl",
+            "meaning": "outside"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ་འདོད",
+            "wylie": "'gro-'dod",
+            "phonetics": "dro-dö",
+            "meaning": "wishes to go"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ་སམ",
+            "wylie": "'gro-sam",
+            "phonetics": "dro-sam",
+            "meaning": "goes? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ་སམ",
+            "wylie": "'gro-sam",
+            "phonetics": "dro-sam",
+            "meaning": "goes? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཙུད་དོ་དན་སྐྱོ་པོ",
+      "titleTransliteration": "tsu-do-dan skyo-po.",
+      "titleEnglish": "Śuddhodana is Sad",
+      "textTibetan": "ཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\n\nརྒྱལ་བུ་འགྲོ།\nརྒྱལ་བུ་འགྲོ་སམ།\nརྒྱལ་བུ་འགྲོ།\n\nཙུད་དོ་དན་མི་འགྲོ།\nཙུད་དོ་དན་ནི་འདིར་སྐྱོ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་འདིར་སྐྱོ་པོ་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་འདིར་སྐྱོ་པོ་ཡིན།",
+      "textWylie": "tsu-do-dan ni skyo-po yin.\ntsu-do-dan ni skyo-po yin-nam.\ntsu-do-dan ni skyo-po yin.\n\nrgyal-bu 'gro.\nrgyal-bu 'gro-sam.\nrgyal-bu 'gro.\n\ntsu-do-dan mi-'gro.\ntsu-do-dan ni 'dir skyo-po yin.\ntsu-do-dan ni 'dir skyo-po yin-nam.\ntsu-do-dan ni 'dir skyo-po yin.",
+      "lineTranslations": [
+        "Śuddhodana is sad.",
+        "Is Śuddhodana sad?",
+        "Śuddhodana is sad.",
+        "",
+        "The prince goes.",
+        "Does the prince go?",
+        "The prince goes.",
+        "",
+        "Śuddhodana does not go.",
+        "Śuddhodana is sad about this.",
+        "Is Śuddhodana sad about this?",
+        "Śuddhodana is sad about this."
+      ],
+      "words": [
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སྐྱོ་པོ",
+          "wylie": "skyo-po",
+          "phonetics": "kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "འགྲོ་སམ",
+          "wylie": "'gro-sam",
+          "phonetics": "dro-sam",
+          "meaning": "goes? (question)"
+        },
+        {
+          "tibetan": "མི་འགྲོ",
+          "wylie": "mi-'gro",
+          "phonetics": "mi-dro",
+          "meaning": "does not go"
+        },
+        {
+          "tibetan": "འདི",
+          "wylie": "'di",
+          "phonetics": "di",
+          "meaning": "this"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ་སམ",
+            "wylie": "'gro-sam",
+            "phonetics": "dro-sam",
+            "meaning": "goes? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "མི་འགྲོ",
+            "wylie": "mi-'gro",
+            "phonetics": "mi-dro",
+            "meaning": "does not go"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "ར་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "ར་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "ར་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "མི་རྒན་པོ",
+      "titleTransliteration": "mi rgan-po.",
+      "titleEnglish": "An Old Man",
+      "textTibetan": "རྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་མི་མཐོང།\nརྒྱལ་བུ་ནི་མི་མཐོང་སམ།\nརྒྱལ་བུ་ནི་མི་མཐོང།\n\nམི་འདི་ནི་རྒན་པོ་ཡིན།\nམི་འདི་ནི་རྒན་པོ་ཡིན་ནམ།\nམི་འདི་ནི་རྒན་པོ་ཡིན།\n\nརྒྱལ་བུ་ནི་རྒན་པོ་མིན།\nརྒྱལ་བུ་ནི་རྒན་པོ་འགྱུར་རམ།\nརྒྱལ་བུ་ནི་རྒན་པོ་འགྱུར།",
+      "textWylie": "rgyal-bu ni lam la 'gro.\nrgyal-bu ni mi mthong.\nrgyal-bu ni mi mthong-sam.\nrgyal-bu ni mi mthong.\n\nmi 'di ni rgan-po yin.\nmi 'di ni rgan-po yin-nam.\nmi 'di ni rgan-po yin.\n\nrgyal-bu ni rgan-po min.\nrgyal-bu ni rgan-po 'gyur-ram.\nrgyal-bu ni rgan-po 'gyur.",
+      "lineTranslations": [
+        "The prince goes on the road.",
+        "The prince sees a man.",
+        "Does the prince see a man?",
+        "The prince sees a man.",
+        "",
+        "This man is old.",
+        "Is this man old?",
+        "This man is old.",
+        "",
+        "The prince is not old.",
+        "Will the prince become old?",
+        "The prince will become old."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ལམ",
+          "wylie": "lam",
+          "phonetics": "lam",
+          "meaning": "road, path"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "མི",
+          "wylie": "mi",
+          "phonetics": "mi",
+          "meaning": "person, man"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "མཐོང་སམ",
+          "wylie": "mthong-sam",
+          "phonetics": "tong-sam",
+          "meaning": "saw? (question)"
+        },
+        {
+          "tibetan": "རྒན་པོ",
+          "wylie": "rgan-po",
+          "phonetics": "gen-po",
+          "meaning": "old"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "འདི",
+          "wylie": "'di",
+          "phonetics": "di",
+          "meaning": "this"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "འགྱུར",
+          "wylie": "'gyur",
+          "phonetics": "gyur",
+          "meaning": "will become"
+        },
+        {
+          "tibetan": "འགྱུར་རམ",
+          "wylie": "'gyur-ram",
+          "phonetics": "gyur-ram",
+          "meaning": "will become? (question)"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང་སམ",
+            "wylie": "mthong-sam",
+            "phonetics": "tong-sam",
+            "meaning": "saw? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར་རམ",
+            "wylie": "'gyur-ram",
+            "phonetics": "gyur-ram",
+            "meaning": "will become? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒན་པོ",
+            "wylie": "rgan-po",
+            "phonetics": "gen-po",
+            "meaning": "old"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར",
+            "wylie": "'gyur",
+            "phonetics": "gyur",
+            "meaning": "will become"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "མི་ན",
+      "titleTransliteration": "mi na.",
+      "titleEnglish": "A Sick Man",
+      "textTibetan": "རྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་མི་གཞན་མཐོང།\nརྒྱལ་བུ་ནི་མི་གཞན་མཐོང་སམ།\nརྒྱལ་བུ་ནི་མི་གཞན་མཐོང།\n\nམི་འདི་ན།\nམི་འདི་ན་སམ།\nམི་འདི་ན།\n\nརྒྱལ་བུ་མ་ན།\nརྒྱལ་བུ་ན་འགྱུར་རམ།\nརྒྱལ་བུ་ན་འགྱུར།",
+      "textWylie": "rgyal-bu ni lam la 'gro.\nrgyal-bu ni mi gzhan mthong.\nrgyal-bu ni mi gzhan mthong-sam.\nrgyal-bu ni mi gzhan mthong.\n\nmi 'di na.\nmi 'di na-sam.\nmi 'di na.\n\nrgyal-bu ma-na.\nrgyal-bu na 'gyur-ram.\nrgyal-bu na 'gyur.",
+      "lineTranslations": [
+        "The prince goes on the road.",
+        "The prince sees another person.",
+        "Does the prince see another person?",
+        "The prince sees another person.",
+        "",
+        "This person is sick.",
+        "Is this person sick?",
+        "This person is sick.",
+        "",
+        "The prince is not sick.",
+        "Will the prince become sick?",
+        "The prince will become sick."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ལམ",
+          "wylie": "lam",
+          "phonetics": "lam",
+          "meaning": "road, path"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "མི",
+          "wylie": "mi",
+          "phonetics": "mi",
+          "meaning": "person, man"
+        },
+        {
+          "tibetan": "གཞན",
+          "wylie": "gzhan",
+          "phonetics": "shen",
+          "meaning": "other, another"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "མཐོང་སམ",
+          "wylie": "mthong-sam",
+          "phonetics": "tong-sam",
+          "meaning": "saw? (question)"
+        },
+        {
+          "tibetan": "ན",
+          "wylie": "na",
+          "phonetics": "na",
+          "meaning": "is sick, hurts"
+        },
+        {
+          "tibetan": "ན་སམ",
+          "wylie": "na-sam",
+          "phonetics": "na-sam",
+          "meaning": "is sick? (question)"
+        },
+        {
+          "tibetan": "མ་ན",
+          "wylie": "ma-na",
+          "phonetics": "ma-na",
+          "meaning": "is not sick"
+        },
+        {
+          "tibetan": "འགྱུར",
+          "wylie": "'gyur",
+          "phonetics": "gyur",
+          "meaning": "will become"
+        },
+        {
+          "tibetan": "འགྱུར་རམ",
+          "wylie": "'gyur-ram",
+          "phonetics": "gyur-ram",
+          "meaning": "will become? (question)"
+        },
+        {
+          "tibetan": "འདི",
+          "wylie": "'di",
+          "phonetics": "di",
+          "meaning": "this"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "གཞན",
+            "wylie": "gzhan",
+            "phonetics": "shen",
+            "meaning": "other, another"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "གཞན",
+            "wylie": "gzhan",
+            "phonetics": "shen",
+            "meaning": "other, another"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང་སམ",
+            "wylie": "mthong-sam",
+            "phonetics": "tong-sam",
+            "meaning": "saw? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "གཞན",
+            "wylie": "gzhan",
+            "phonetics": "shen",
+            "meaning": "other, another"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ན",
+            "wylie": "na",
+            "phonetics": "na",
+            "meaning": "is sick, hurts"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ན་སམ",
+            "wylie": "na-sam",
+            "phonetics": "na-sam",
+            "meaning": "is sick? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ན",
+            "wylie": "na",
+            "phonetics": "na",
+            "meaning": "is sick, hurts"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "མ་ན",
+            "wylie": "ma-na",
+            "phonetics": "ma-na",
+            "meaning": "is not sick"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ན",
+            "wylie": "na",
+            "phonetics": "na",
+            "meaning": "is sick, hurts"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར་རམ",
+            "wylie": "'gyur-ram",
+            "phonetics": "gyur-ram",
+            "meaning": "will become? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ན",
+            "wylie": "na",
+            "phonetics": "na",
+            "meaning": "is sick, hurts"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར",
+            "wylie": "'gyur",
+            "phonetics": "gyur",
+            "meaning": "will become"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "མི་ཤི",
+      "titleTransliteration": "mi shi.",
+      "titleEnglish": "A Dead Man",
+      "textTibetan": "རྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་མི་གཞན་མཐོང།\n\nམི་འདི་ཤི།\nམི་འདི་ཤི་སམ།\nམི་འདི་ཤི།\n\nརྒྱལ་བུ་མ་ཤི།\nརྒྱལ་བུ་ཤི་འགྱུར་རམ།\nརྒྱལ་བུ་ཤི་འགྱུར།\n\nརྒྱལ་བུ་ནི་སྐྱོ་པོ་ཡིན།\nརྒྱལ་བུ་ནི་སྐྱོ་པོ་ཡིན་ནམ།\nརྒྱལ་བུ་ནི་སྐྱོ་པོ་ཡིན།",
+      "textWylie": "rgyal-bu ni lam la 'gro.\nrgyal-bu ni mi gzhan mthong.\n\nmi 'di shi.\nmi 'di shi-sam.\nmi 'di shi.\n\nrgyal-bu ma-shi.\nrgyal-bu shi 'gyur-ram.\nrgyal-bu shi 'gyur.\n\nrgyal-bu ni skyo-po yin.\nrgyal-bu ni skyo-po yin-nam.\nrgyal-bu ni skyo-po yin.",
+      "lineTranslations": [
+        "The prince goes on the road.",
+        "The prince sees another person.",
+        "",
+        "This person died.",
+        "Did this person die?",
+        "This person died.",
+        "",
+        "The prince did not die.",
+        "Will the prince die?",
+        "The prince will die.",
+        "",
+        "The prince is sad.",
+        "Is the prince sad?",
+        "The prince is sad."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ལམ",
+          "wylie": "lam",
+          "phonetics": "lam",
+          "meaning": "road, path"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "མི",
+          "wylie": "mi",
+          "phonetics": "mi",
+          "meaning": "person, man"
+        },
+        {
+          "tibetan": "གཞན",
+          "wylie": "gzhan",
+          "phonetics": "shen",
+          "meaning": "other, another"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "ཤི",
+          "wylie": "shi",
+          "phonetics": "shi",
+          "meaning": "died"
+        },
+        {
+          "tibetan": "ཤི་སམ",
+          "wylie": "shi-sam",
+          "phonetics": "shi-sam",
+          "meaning": "died? (question)"
+        },
+        {
+          "tibetan": "མ་ཤི",
+          "wylie": "ma-shi",
+          "phonetics": "ma-shi",
+          "meaning": "did not die"
+        },
+        {
+          "tibetan": "འགྱུར",
+          "wylie": "'gyur",
+          "phonetics": "gyur",
+          "meaning": "will become"
+        },
+        {
+          "tibetan": "འགྱུར་རམ",
+          "wylie": "'gyur-ram",
+          "phonetics": "gyur-ram",
+          "meaning": "will become? (question)"
+        },
+        {
+          "tibetan": "འདི",
+          "wylie": "'di",
+          "phonetics": "di",
+          "meaning": "this"
+        },
+        {
+          "tibetan": "སྐྱོ་པོ",
+          "wylie": "skyo-po",
+          "phonetics": "kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "གཞན",
+            "wylie": "gzhan",
+            "phonetics": "shen",
+            "meaning": "other, another"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ཤི",
+            "wylie": "shi",
+            "phonetics": "shi",
+            "meaning": "died"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ཤི་སམ",
+            "wylie": "shi-sam",
+            "phonetics": "shi-sam",
+            "meaning": "died? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ཤི",
+            "wylie": "shi",
+            "phonetics": "shi",
+            "meaning": "died"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "མ་ཤི",
+            "wylie": "ma-shi",
+            "phonetics": "ma-shi",
+            "meaning": "did not die"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ཤི",
+            "wylie": "shi",
+            "phonetics": "shi",
+            "meaning": "died"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར་རམ",
+            "wylie": "'gyur-ram",
+            "phonetics": "gyur-ram",
+            "meaning": "will become? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ཤི",
+            "wylie": "shi",
+            "phonetics": "shi",
+            "meaning": "died"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར",
+            "wylie": "'gyur",
+            "phonetics": "gyur",
+            "meaning": "will become"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཙུད་དོ་དན་སྡུག་བསྔལ་མཐོང",
+      "titleTransliteration": "tsu-do-dan sdug-bsngal mthong.",
+      "titleEnglish": "Śuddhodana Sees the Suffering",
+      "textTibetan": "རྒྱལ་བུ་ནི་ཕོ་བྲང་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་སྡུག་བསྔལ་མཐོང།\nརྒྱལ་བུ་ནི་སྡུག་བསྔལ་མཐོང་སམ།\nརྒྱལ་བུ་ནི་སྡུག་བསྔལ་མཐོང།\n\nཙུད་དོ་དན་ནི་རྒྱལ་བུ་མཐོང།\nཙུད་དོ་དན་ནི་རྒྱལ་བུ་ལ་སྡུག་བསྔལ་མཐོང།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\n\nཙུད་དོ་དན་དང་རྒྱལ་བུ་ནི་སྐྱོ་པོ་ཡིན།",
+      "textWylie": "rgyal-bu ni pho-brang la 'gro.\nrgyal-bu ni sdug-bsngal mthong.\nrgyal-bu ni sdug-bsngal mthong-sam.\nrgyal-bu ni sdug-bsngal mthong.\n\ntsu-do-dan ni rgyal-bu mthong.\ntsu-do-dan ni rgyal-bu la sdug-bsngal mthong.\ntsu-do-dan ni skyo-po yin.\ntsu-do-dan ni skyo-po yin-nam.\ntsu-do-dan ni skyo-po yin.\n\ntsu-do-dan dang rgyal-bu ni skyo-po yin.",
+      "lineTranslations": [
+        "The prince goes to the palace.",
+        "The prince saw suffering.",
+        "Did the prince see suffering?",
+        "The prince saw suffering.",
+        "",
+        "Śuddhodana sees the prince.",
+        "Śuddhodana sees the suffering in the prince.",
+        "Śuddhodana is sad.",
+        "Is Śuddhodana sad?",
+        "Śuddhodana is sad.",
+        "",
+        "Śuddhodana and the prince are sad."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཕོ་བྲང",
+          "wylie": "pho-brang",
+          "phonetics": "po-drang",
+          "meaning": "palace"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "སྡུག་བསྔལ",
+          "wylie": "sdug-bsngal",
+          "phonetics": "duk-ngel",
+          "meaning": "suffering"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "མཐོང་སམ",
+          "wylie": "mthong-sam",
+          "phonetics": "tong-sam",
+          "meaning": "saw? (question)"
+        },
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
+        },
+        {
+          "tibetan": "སྐྱོ་པོ",
+          "wylie": "skyo-po",
+          "phonetics": "kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྡུག་བསྔལ",
+            "wylie": "sdug-bsngal",
+            "phonetics": "duk-ngel",
+            "meaning": "suffering"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྡུག་བསྔལ",
+            "wylie": "sdug-bsngal",
+            "phonetics": "duk-ngel",
+            "meaning": "suffering"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང་སམ",
+            "wylie": "mthong-sam",
+            "phonetics": "tong-sam",
+            "meaning": "saw? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྡུག་བསྔལ",
+            "wylie": "sdug-bsngal",
+            "phonetics": "duk-ngel",
+            "meaning": "suffering"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "སྡུག་བསྔལ",
+            "wylie": "sdug-bsngal",
+            "phonetics": "duk-ngel",
+            "meaning": "suffering"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "དགེ་སློང",
+      "titleTransliteration": "dge-slong.",
+      "titleEnglish": "A Monk",
+      "textTibetan": "རྒྱལ་བུ་ནི་ལམ་ལ་འགྲོ།\nརྒྱལ་བུ་ནི་མི་གཞན་མཐོང།\n\nམི་འདི་ནི་དགེ་སློང་ཡིན།\nམི་འདི་ནི་དགེ་སློང་ཡིན་ནམ།\nམི་འདི་ནི་དགེ་སློང་ཡིན།\n\nདགེ་སློང་ནི་སྐྱིད་པོ་ཡིན།\nདགེ་སློང་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nདགེ་སློང་ནི་སྐྱིད་པོ་ཡིན།\n\nརྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན།",
+      "textWylie": "rgyal-bu ni lam la 'gro.\nrgyal-bu ni mi gzhan mthong.\n\nmi 'di ni dge-slong yin.\nmi 'di ni dge-slong yin-nam.\nmi 'di ni dge-slong yin.\n\ndge-slong ni skyid-po yin.\ndge-slong ni skyid-po yin-nam.\ndge-slong ni skyid-po yin.\n\nrgyal-bu ni sems-khral yin.",
+      "lineTranslations": [
+        "The prince goes on the road.",
+        "The prince sees another person.",
+        "",
+        "This person is a monk.",
+        "Is this person a monk?",
+        "This person is a monk.",
+        "",
+        "The monk is happy.",
+        "Is the monk happy?",
+        "The monk is happy.",
+        "",
+        "The prince is troubled."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ལམ",
+          "wylie": "lam",
+          "phonetics": "lam",
+          "meaning": "road, path"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "མི",
+          "wylie": "mi",
+          "phonetics": "mi",
+          "meaning": "person, man"
+        },
+        {
+          "tibetan": "གཞན",
+          "wylie": "gzhan",
+          "phonetics": "shen",
+          "meaning": "other, another"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "འདི",
+          "wylie": "'di",
+          "phonetics": "di",
+          "meaning": "this"
+        },
+        {
+          "tibetan": "དགེ་སློང",
+          "wylie": "dge-slong",
+          "phonetics": "ge-long",
+          "meaning": "monk"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        },
+        {
+          "tibetan": "སེམས་ཁྲལ",
+          "wylie": "sems-khral",
+          "phonetics": "sem-tral",
+          "meaning": "troubled, worried"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལམ",
+            "wylie": "lam",
+            "phonetics": "lam",
+            "meaning": "road, path"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "གཞན",
+            "wylie": "gzhan",
+            "phonetics": "shen",
+            "meaning": "other, another"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མི",
+            "wylie": "mi",
+            "phonetics": "mi",
+            "meaning": "person, man"
+          },
+          "་",
+          {
+            "tibetan": "འདི",
+            "wylie": "'di",
+            "phonetics": "di",
+            "meaning": "this"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "རྒྱལ་བུ་སེམས་ཁྲལ",
+      "titleTransliteration": "rgyal-bu sems-khral.",
+      "titleEnglish": "The Prince is Troubled",
+      "textTibetan": "རྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན།\nརྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན་ནམ།\nརྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན།\n\nརྒྱལ་བུ་ནི་ཕོ་བྲང་ལ་འགྲོ།\nཙུད་དོ་དན་ནི་རྒྱལ་བུ་མཐོང།\nརྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན་ནམ།\nརྒྱལ་བུ་ནི་སེམས་ཁྲལ་ཡིན།\n\nཙུད་དོ་དན་ཡང་སེམས་ཁྲལ་ཡིན།\nཙུད་དོ་དན་ཡང་སེམས་ཁྲལ་ཡིན་ནམ།\nཙུད་དོ་དན་ཡང་སེམས་ཁྲལ་ཡིན།",
+      "textWylie": "rgyal-bu ni sems-khral yin.\nrgyal-bu ni sems-khral yin-nam.\nrgyal-bu ni sems-khral yin.\n\nrgyal-bu ni pho-brang la 'gro.\ntsu-do-dan ni rgyal-bu mthong.\nrgyal-bu ni sems-khral yin-nam.\nrgyal-bu ni sems-khral yin.\n\ntsu-do-dan yang sems-khral yin.\ntsu-do-dan yang sems-khral yin-nam.\ntsu-do-dan yang sems-khral yin.",
+      "lineTranslations": [
+        "The prince is troubled.",
+        "Is the prince troubled?",
+        "The prince is troubled.",
+        "",
+        "The prince goes to the palace.",
+        "Śuddhodana sees the prince.",
+        "Is the prince troubled?",
+        "The prince is troubled.",
+        "",
+        "Śuddhodana is also troubled.",
+        "Is Śuddhodana also troubled?",
+        "Śuddhodana is also troubled."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སེམས་ཁྲལ",
+          "wylie": "sems-khral",
+          "phonetics": "sem-tral",
+          "meaning": "troubled, worried"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "ཕོ་བྲང",
+          "wylie": "pho-brang",
+          "phonetics": "po-drang",
+          "meaning": "palace"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/for (particle)"
+        },
+        {
+          "tibetan": "འགྲོ",
+          "wylie": "'gro",
+          "phonetics": "dro",
+          "meaning": "goes"
+        },
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "tong",
+          "meaning": "saw / sees"
+        },
+        {
+          "tibetan": "ཡང",
+          "wylie": "yang",
+          "phonetics": "yang",
+          "meaning": "also, too"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཕོ་བྲང",
+            "wylie": "pho-brang",
+            "phonetics": "po-drang",
+            "meaning": "palace"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/for (particle)"
+          },
+          "་",
+          {
+            "tibetan": "འགྲོ",
+            "wylie": "'gro",
+            "phonetics": "dro",
+            "meaning": "goes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "tong",
+            "meaning": "saw / sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ཡང",
+            "wylie": "yang",
+            "phonetics": "yang",
+            "meaning": "also, too"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ཡང",
+            "wylie": "yang",
+            "phonetics": "yang",
+            "meaning": "also, too"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ཡང",
+            "wylie": "yang",
+            "phonetics": "yang",
+            "meaning": "also, too"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "རྒྱལ་བུ་དགེ་སློང་འགྱུར་འདོད",
+      "titleTransliteration": "rgyal-bu dge-slong 'gyur 'dod.",
+      "titleEnglish": "The Prince Wishes to Become a Monk",
+      "textTibetan": "རྒྱལ་བུ་ནི་དགེ་སློང་འགྱུར་འདོད།\n\nརྒྱལ་བུ་ནི་དགེ་སློང་འགྱུར་རམ།\nརྒྱལ་བུ་ནི་དགེ་སློང་འགྱུར།\n\nཙུད་དོ་དན་ནི་མི་འདོད།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་སྐྱོ་པོ་ཡིན།\n\nརྒྱལ་བུ་དང་ཙུད་དོ་དན་ནི་སེམས་ཁྲལ་ཡིན།",
+      "textWylie": "rgyal-bu ni dge-slong 'gyur 'dod.\n\nrgyal-bu ni dge-slong 'gyur-ram.\nrgyal-bu ni dge-slong 'gyur.\n\ntsu-do-dan ni mi-'dod.\ntsu-do-dan ni skyo-po yin.\ntsu-do-dan ni skyo-po yin-nam.\ntsu-do-dan ni skyo-po yin.\n\nrgyal-bu dang tsu-do-dan ni sems-khral yin.",
+      "lineTranslations": [
+        "The prince wishes to become a monk.",
+        "",
+        "Will the prince become a monk?",
+        "The prince will become a monk.",
+        "",
+        "Śuddhodana does not wish it.",
+        "Śuddhodana is sad.",
+        "Is Śuddhodana sad?",
+        "Śuddhodana is sad.",
+        "",
+        "The prince and Śuddhodana are troubled."
+      ],
+      "words": [
+        {
+          "tibetan": "རྒྱལ་བུ",
+          "wylie": "rgyal-bu",
+          "phonetics": "gyal-bu",
+          "meaning": "prince"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "དགེ་སློང",
+          "wylie": "dge-slong",
+          "phonetics": "ge-long",
+          "meaning": "monk"
+        },
+        {
+          "tibetan": "འགྱུར་འདོད",
+          "wylie": "'gyur-'dod",
+          "phonetics": "gyur-dö",
+          "meaning": "wishes to become"
+        },
+        {
+          "tibetan": "འགྱུར་རམ",
+          "wylie": "'gyur-ram",
+          "phonetics": "gyur-ram",
+          "meaning": "will become? (question)"
+        },
+        {
+          "tibetan": "འགྱུར",
+          "wylie": "'gyur",
+          "phonetics": "gyur",
+          "meaning": "will become"
+        },
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
+        },
+        {
+          "tibetan": "མི་འདོད",
+          "wylie": "mi-'dod",
+          "phonetics": "mi-dö",
+          "meaning": "does not wish"
+        },
+        {
+          "tibetan": "སྐྱོ་པོ",
+          "wylie": "skyo-po",
+          "phonetics": "kyo-po",
+          "meaning": "sad"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        },
+        {
+          "tibetan": "སེམས་ཁྲལ",
+          "wylie": "sems-khral",
+          "phonetics": "sem-tral",
+          "meaning": "troubled, worried"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར་འདོད",
+            "wylie": "'gyur-'dod",
+            "phonetics": "gyur-dö",
+            "meaning": "wishes to become"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར་རམ",
+            "wylie": "'gyur-ram",
+            "phonetics": "gyur-ram",
+            "meaning": "will become? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "འགྱུར",
+            "wylie": "'gyur",
+            "phonetics": "gyur",
+            "meaning": "will become"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མི་འདོད",
+            "wylie": "mi-'dod",
+            "phonetics": "mi-dö",
+            "meaning": "does not wish"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱོ་པོ",
+            "wylie": "skyo-po",
+            "phonetics": "kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྒྱལ་བུ",
+            "wylie": "rgyal-bu",
+            "phonetics": "gyal-bu",
+            "meaning": "prince"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་ཁྲལ",
+            "wylie": "sems-khral",
+            "phonetics": "sem-tral",
+            "meaning": "troubled, worried"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    }
+  ]
+}

@@ -155,3 +155,26 @@ for new toggle-style UI.
   rewrite-to-`index.html` that `BrowserRouter` needs for direct links/
   refreshes on non-root routes. `HashRouter` (`/#/story/3`) works on any
   static host with no server config.
+
+- **Tibetan script-learning section**: a Duolingo-Devanagari-style intro to
+  the Tibetan alphabet. Tibetan's traditional teaching order (30 consonants
+  in 8 rows of 4) maps naturally to lesson groups — no invented grouping
+  needed. Sketch:
+  - New `'script'` view added to `currentView` in `TibetanLesson.jsx` + nav
+    entry, following the existing `'home' | 'start-here' | 'library' |
+    'story'` pattern.
+  - New data files `src/data/tibetanScript/consonants.json` (30 letters,
+    each with `tibetan`/`wylie`/`phonetics`/`group` 1-8) and `vowels.json`
+    (the 4 vowel signs i/u/e/o).
+  - Self-contained `ScriptView.jsx` + `ScriptView.css`, internally managing
+    group-list → group-detail → practice sub-states (mirroring the
+    chapters/TOC pattern already in `StoryView.jsx`). Flashcards reuse the
+    `.story-word`/tooltip click-to-reveal interaction.
+  - Phasing: (1) consonant flashcards (reference/study only), (2)
+    multiple-choice practice quiz per group, (3) vowel signs attached to a
+    base consonant + quiz, (4) stretch — memory-match game, stacked/conjunct
+    letters.
+  - Open questions for whenever this is picked up: whether to add audio,
+    whether to persist practice progress via `localStorage`, and whether
+    this lives as its own top-level nav item or as an extension of
+    "Start Here" → "Reading Tibetan Script".
