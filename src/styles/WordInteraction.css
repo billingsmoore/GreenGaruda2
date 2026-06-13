@@ -1,0 +1,93 @@
+/*
+ * Click-word-for-definition styles shared by StoryView.jsx and WordDemo.jsx.
+ * Edit here if you're changing how clickable words or the definition
+ * tooltip look or behave in either place.
+ */
+
+.story-text {
+  font-size: 1.4rem;
+  line-height: 2;
+  color: #e0e0e0;
+  padding: 2rem;
+  background-color: #252525;
+  border-radius: 8px;
+  font-family: 'Arial Unicode MS', sans-serif;
+  white-space: pre-wrap;
+}
+
+.story-line {
+  word-spacing: 0.3em;
+}
+
+.story-word {
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  transition: all 0.15s ease;
+  position: relative;
+}
+
+.story-word:hover {
+  background-color: #333;
+  color: #c9302c;
+}
+
+.story-word.selected {
+  background-color: #c9302c;
+  color: #fff;
+}
+
+.word-tooltip {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  animation: slideUp 0.2s ease;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+.tooltip-content {
+  background-color: #252525;
+  border: 2px solid #c9302c;
+  border-radius: 8px;
+  padding: 1rem;
+  max-width: 300px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.tooltip-header {
+  margin-bottom: 0.75rem;
+}
+
+.tooltip-wylie {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #fff;
+  font-family: monospace;
+  margin-bottom: 0.25rem;
+}
+
+.tooltip-phonetics {
+  font-size: 1rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+.tooltip-meaning {
+  font-size: 1rem;
+  color: #e0e0e0;
+  line-height: 1.5;
+  border-top: 1px solid #333;
+  padding-top: 0.75rem;
+}

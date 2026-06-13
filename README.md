@@ -1,180 +1,88 @@
----
-title: Tibetan Language Learner
-emoji: 🇧🇹
-colorFrom: 1a1a1a
-colorTo: c9302c
-sdk: docker
-sdk_version: latest
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 # Tibetan Language Learner
 
-A fully functional React-based language learning interface for Tibetan language instruction, deployed on Hugging Face Spaces.
-
-**Live Demo**: https://huggingface.co/spaces/billingsmoore/test
+A React app for learning Tibetan through short stories, inspired by amarahasa.com. Stories are shown in Tibetan script (བོད་ཡིག); click any highlighted word for its Wylie transliteration, phonetic pronunciation, and English meaning.
 
 ## Features
 
-- **Script Switching**: Toggle between Wylie transliteration and Tibetan script (བོད་ཡིག)
-- **Word Breakdown**: Interactive word cards showing meanings, parts of speech, and transliterations
-- **Grammar Analysis**: Sentence structure explanations and grammar notes
-- **Context Information**: Cultural and usage context for each lesson
-- **Responsive Design**: Clean, dark-themed interface that works across devices
-- **JSON Story Import**: Load lessons from `public/stories.json` for easy content management
+- **Home & Start Here**: landing page and onboarding guide for new visitors
+- **Library**: browse stories, filter by series, sort by difficulty (unique word count)
+- **Word Lookup**: click any highlighted word for its Wylie, phonetics, and meaning
+- **Translations**: toggle English line-by-line translations on/off
+- **Story Navigation**: move between stories with Previous/Next
 
-## Hugging Face Spaces Deployment
+## Getting Started
 
-This application is configured to run on Hugging Face Spaces using Docker.
+```bash
+npm install
+npm start
+```
 
-### Configuration
+Opens at `http://localhost:3000`.
 
-- **Docker Port**: 7860 (HF Spaces default)
-- **Build**: Multi-stage build compiles React app and serves with `serve`
-- **Storage**: Persists `public/stories.json` in the built image
+```bash
+npm run build
+```
 
-### Deploying Updates
-
-1. Edit `public/stories.json` to add/modify stories
-2. Commit and push to the Space repository
-3. HF Spaces automatically rebuilds and deploys
-
-### Managing the Space
-
-Visit: https://huggingface.co/spaces/billingsmoore/test
-
-Settings available:
-- Toggle public/private visibility
-- Configure hardware (free tier sufficient)
-- View build logs
-- Restart the Space if needed
+builds a production bundle to `build/`.
 
 ## Project Structure
 
 ```
-├── Dockerfile              # HF Spaces Docker configuration
 ├── public/
-│   ├── index.html
-│   └── stories.json        # Lesson content (edit this to add stories)
+│   └── stories.json              # Story content
 ├── src/
 │   ├── components/
-│   │   └── TibetanLesson.jsx
+│   │   ├── TibetanLesson.jsx     # App shell: state, header/nav/footer, view routing
+│   │   ├── HomeView.jsx          # Landing page
+│   │   ├── StartHereView.jsx     # Onboarding guide
+│   │   ├── LibraryView.jsx       # Story browser (filter/sort/table)
+│   │   ├── StoryView.jsx         # Single story reader
+│   │   └── WordDemo.jsx          # Shared click-word-for-definition widget
 │   ├── styles/
-│   │   └── TibetanLesson.css
+│   │   ├── shared.css            # Reset, app shell, shared buttons, scrollbar
+│   │   ├── ContentSections.css   # Shared boxed-section styles (Home/Start Here/Library)
+│   │   ├── WordInteraction.css   # Clickable-word & tooltip styles (StoryView/WordDemo)
+│   │   ├── HomeView.css
+│   │   ├── StartHereView.css
+│   │   ├── LibraryView.css
+│   │   └── StoryView.css
+│   ├── data/
+│   │   └── defaultStories.js     # Fallback data if stories.json fails to load
 │   ├── App.jsx
-│   ├── App.css
 │   └── index.jsx
-├── package.json
-└── README.md
+└── package.json
 ```
 
-## Local Development
+Each view is a self-contained `.jsx` + `.css` pair — see `CLAUDE.md` for the
+full module map and conventions for working on this codebase.
 
-### Installation
+## Adding a Story
 
-```bash
-npm install
-```
-
-### Running Locally
-
-```bash
-npm start
-```
-
-The app will open at `http://localhost:3000`
-
-### Building for Production
-
-```bash
-npm run build
-npx serve -s build
-```
-
-## Adding New Stories
-
-Edit `public/stories.json` and add to the `stories` array:
+Add an entry to the `stories` array in `public/stories.json`:
 
 ```json
 {
-  "id": 4,
+  "id": 5,
   "title": "Tibetan text",
-  "titleTransliteration": "Wylie transliteration",
-  "titleEnglish": "English translation",
+  "titleTransliteration": "Wylie title",
+  "titleEnglish": "English title",
   "image": "https://image-url.com/image.jpg",
-  "series": "Category Name",
+  "series": "Series Name",
   "uniqueWords": 5,
-  "wordBreakdown": [
-    {
-      "tibetan": "Word in Tibetan",
-      "wylie": "wylie",
-      "meaning": "English meaning",
-      "partOfSpeech": "noun|verb|adjective|particle|etc"
-    }
-  ],
-  "sentenceBreakdown": "Detailed grammar explanation...",
-  "context": "Usage context and cultural notes..."
+  "textTibetan": "Full story in Tibetan script, lines separated by \\n",
+  "lineTranslations": ["English translation of line 1", "..."],
+  "words": [
+    { "tibetan": "Word", "wylie": "wylie", "phonetics": "pronunciation", "meaning": "English meaning" }
+  ]
 }
 ```
 
-## Component Architecture
+`lineTranslations` should have one entry per line of `textTibetan` (use `""` for blank separator lines).
 
-### TibetanLesson Component
+## Styling
 
-Main component (`src/components/TibetanLesson.jsx`) handles:
-- Loading stories from `public/stories.json`
-- Script toggling (Wylie ↔ Tibetan)
-- View switching (Library ↔ Lesson)
-- Story selection and display
-
-### Story Data Structure
-
-Each story includes:
-- **Metadata**: ID, title, English translation, series, image, unique word count
-- **Word Breakdown**: Each word with Tibetan, Wylie, meaning, part of speech
-- **Grammar**: Sentence structure analysis
-- **Context**: Cultural usage information
-
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers
-
-## Customization
-
-### Styling
-
-All styles in `src/styles/TibetanLesson.css`:
-- Primary background: `#1a1a1a`
-- Secondary background: `#252525`
-- Accent color: `#c9302c`
-- Text color: `#e0e0e0`
-
-### Script Output
-
-Toggle between Wylie transliteration and Tibetan script via the UI buttons.
-
-## Troubleshooting
-
-**App not loading on HF Spaces:**
-- Check Space Settings → Logs for build errors
-- Ensure all required files are uploaded (Dockerfile, package.json, public/, src/)
-- Restart the Space from Settings
-
-**Stories not appearing:**
-- Verify `public/stories.json` is properly formatted JSON
-- Check browser console for errors
-- Rebuild the Space
-
-**Build fails:**
-- Check logs in HF Spaces settings
-- Ensure `package.json` is valid
-- Verify all dependencies are correct
-
-## License
-
-Proof-of-concept educational application.
+Each view has its own CSS file in `src/styles/`, plus a few shared files
+(`shared.css`, `ContentSections.css`, `WordInteraction.css`). Dark theme palette:
+- Background: `#1a1a1a` / `#252525`
+- Accent: `#c9302c`
+- Text: `#e0e0e0`

@@ -1,0 +1,139 @@
+{
+  "textTibetan": "བོད་སྐད་ནི་སྐད་ཡིག་ཡིན།\nབོད་སྐད་ནི་མཛེས་པོ་ཡིན།\nབོད་སྐད་ནི་མཛེས་པོའི་སྐད་ཡིག་ཡིན།",
+  "lineTranslations": [
+    "Tibetan is a language.",
+    "Tibetan is beautiful.",
+    "Tibetan is a beautiful language."
+  ],
+  "words": [
+    {
+      "tibetan": "བོད་སྐད",
+      "wylie": "bod-skad",
+      "phonetics": "bö-ké",
+      "meaning": "Tibetan (language)"
+    },
+    {
+      "tibetan": "ནི",
+      "wylie": "ni",
+      "phonetics": "ni",
+      "meaning": "topic marker"
+    },
+    {
+      "tibetan": "སྐད་ཡིག",
+      "wylie": "skad-yig",
+      "phonetics": "ké-yig",
+      "meaning": "language"
+    },
+    {
+      "tibetan": "མཛེས་པོ",
+      "wylie": "mdzes-po",
+      "phonetics": "dzé-po",
+      "meaning": "beautiful"
+    },
+    {
+      "tibetan": "ཡིན",
+      "wylie": "yin",
+      "phonetics": "yin",
+      "meaning": "is"
+    }
+  ],
+  "lines": [
+    [
+      {
+        "tibetan": "བོད་སྐད",
+        "wylie": "bod-skad",
+        "phonetics": "bö-ké",
+        "meaning": "Tibetan (language)"
+      },
+      "་",
+      {
+        "tibetan": "ནི",
+        "wylie": "ni",
+        "phonetics": "ni",
+        "meaning": "topic marker"
+      },
+      "་",
+      {
+        "tibetan": "སྐད་ཡིག",
+        "wylie": "skad-yig",
+        "phonetics": "ké-yig",
+        "meaning": "language"
+      },
+      "་",
+      {
+        "tibetan": "ཡིན",
+        "wylie": "yin",
+        "phonetics": "yin",
+        "meaning": "is"
+      },
+      "།"
+    ],
+    [
+      {
+        "tibetan": "བོད་སྐད",
+        "wylie": "bod-skad",
+        "phonetics": "bö-ké",
+        "meaning": "Tibetan (language)"
+      },
+      "་",
+      {
+        "tibetan": "ནི",
+        "wylie": "ni",
+        "phonetics": "ni",
+        "meaning": "topic marker"
+      },
+      "་",
+      {
+        "tibetan": "མཛེས་པོ",
+        "wylie": "mdzes-po",
+        "phonetics": "dzé-po",
+        "meaning": "beautiful"
+      },
+      "་",
+      {
+        "tibetan": "ཡིན",
+        "wylie": "yin",
+        "phonetics": "yin",
+        "meaning": "is"
+      },
+      "།"
+    ],
+    [
+      {
+        "tibetan": "བོད་སྐད",
+        "wylie": "bod-skad",
+        "phonetics": "bö-ké",
+        "meaning": "Tibetan (language)"
+      },
+      "་",
+      {
+        "tibetan": "ནི",
+        "wylie": "ni",
+        "phonetics": "ni",
+        "meaning": "topic marker"
+      },
+      "་",
+      {
+        "tibetan": "མཛེས་པོ",
+        "wylie": "mdzes-po",
+        "phonetics": "dzé-po",
+        "meaning": "beautiful"
+      },
+      "འི་",
+      {
+        "tibetan": "སྐད་ཡིག",
+        "wylie": "skad-yig",
+        "phonetics": "ké-yig",
+        "meaning": "language"
+      },
+      "་",
+      {
+        "tibetan": "ཡིན",
+        "wylie": "yin",
+        "phonetics": "yin",
+        "meaning": "is"
+      },
+      "།"
+    ]
+  ]
+}

@@ -1,0 +1,220 @@
+/*
+ * Styles specific to StoryView.jsx (toolbar, layout grid, line groups,
+ * translations, prev/next nav, image). Word-click/tooltip styles shared
+ * with WordDemo.jsx live in WordInteraction.css.
+ */
+
+.story-view {
+  flex: 1;
+  padding: 2rem 1rem;
+  overflow-y: auto;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.story-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.back-btn {
+  padding: 0.5rem 1rem;
+  background-color: #333;
+  border: 1px solid #444;
+  color: #aaa;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.back-btn:hover {
+  background-color: #444;
+  color: #fff;
+}
+
+.story-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+@media (max-width: 1024px) {
+  .story-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+.story-text-section {
+  position: relative;
+}
+
+.story-heading {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #fff;
+  font-family: 'Arial Unicode MS', sans-serif;
+}
+
+.story-subtitle-text {
+  color: #888;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.story-line-group {
+  margin-bottom: 1rem;
+}
+
+.story-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.nav-btn {
+  padding: 0.5rem 1rem;
+  background-color: #333;
+  border: 1px solid #444;
+  color: #aaa;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.nav-btn:hover:not(:disabled) {
+  background-color: #444;
+  color: #fff;
+}
+
+.nav-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.story-image-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #252525;
+  border-radius: 8px;
+  overflow: hidden;
+  min-height: 400px;
+}
+
+.story-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.toc-tibetan-title {
+  font-size: 1.3rem;
+  color: #fff;
+  font-family: 'Arial Unicode MS', sans-serif;
+  margin-bottom: 0.25rem;
+}
+
+.toc-transliteration {
+  color: #888;
+  font-style: italic;
+  margin-bottom: 0.25rem;
+}
+
+.toc-description {
+  color: #ccc;
+  margin-bottom: 1.5rem;
+}
+
+.book-toc {
+  margin-top: 2rem;
+}
+
+.toc-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.chapter-toc {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.chapter-toc-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  background-color: #252525;
+  border: 1px solid #333;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chapter-toc-item:hover {
+  background-color: #2e2e2e;
+  border-color: #444;
+}
+
+.chapter-toc-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: #333;
+  color: #aaa;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.chapter-toc-titles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.chapter-toc-tibetan {
+  color: #fff;
+  font-family: 'Arial Unicode MS', sans-serif;
+  font-size: 1.05rem;
+}
+
+.chapter-toc-english {
+  color: #888;
+  font-size: 0.85rem;
+}
+
+.toc-start-btn {
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.5rem;
+  background-color: #c9302c;
+  border: 1px solid #c9302c;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.toc-start-btn:hover {
+  background-color: #b32b27;
+}

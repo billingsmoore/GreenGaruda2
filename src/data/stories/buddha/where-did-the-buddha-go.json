@@ -1,0 +1,2513 @@
+{
+  "id": 2,
+  "title": "སངས་རྒྱས་གང་དུ་བྱོན།",
+  "titleTransliteration": "sangs-rgyas gang-du byon.",
+  "titleEnglish": "Where Did the Buddha Go?",
+  "description": "Siddhartha, who later became the Buddha, traveled to many places during his life. Where did he go, and what happened there?",
+  "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
+  "series": "The Life of the Buddha",
+  "uniqueWords": 39,
+  "chapters": [
+    {
+      "title": "ལུམ་བི་ནི",
+      "titleTransliteration": "lum-bi-ni",
+      "titleEnglish": "Lumbinī",
+      "textTibetan": "ལུམ་བི་ནི་ནི་ནགས་ཡིན།\nལུམ་བི་ནི་ནི་ནགས་མཛེས་པོ་ཡིན།\n\nལུམ་བི་ནི་མཛེས་པོ་ཡིན་ནམ།\nལུམ་བི་ནི་མཛེས་པོ་ཡིན།\n\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་འཁྲུངས།\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་འཁྲུངས་སམ།\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་འཁྲུངས།\n\nསིད་དྷར་ཐ་ནི་རྩྭ་མཆོག་གྲོང་ལ་འཁྲུངས་སམ།\nསིད་དྷར་ཐ་ནི་རྩྭ་མཆོག་གྲོང་ལ་མ་འཁྲུངས།\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་འཁྲུངས།\n\nསིད་དྷར་ཐ་ནི་མ་ཡའི་བུ་ཡིན།\nམ་ཡ་ནི་སིད་དྷར་ཐའི་ཡུམ་ཡིན།",
+      "textWylie": "lum-bi-ni ni nags yin.\nlum-bi-ni ni nags mdzes-po yin.\n\nlum-bi-ni mdzes-po yin-nam.\nlum-bi-ni mdzes-po yin.\n\nsid-dhar-tha ni lum-bi-nir 'khrungs.\nsid-dhar-tha ni lum-bi-nir 'khrungs-sam.\nsid-dhar-tha ni lum-bi-nir 'khrungs.\n\nsid-dhar-tha ni rtswa-mchog-grong la 'khrungs-sam.\nsid-dhar-tha ni rtswa-mchog-grong la ma-'khrungs.\nsid-dhar-tha ni lum-bi-nir 'khrungs.\n\nsid-dhar-tha ni ma-ya'i bu yin.\nma-ya ni sid-dhar-tha'i yum yin.",
+      "lineTranslations": [
+        "Lumbinī is a forest.",
+        "Lumbinī is a beautiful forest.",
+        "",
+        "Is Lumbinī beautiful?",
+        "Lumbinī is beautiful.",
+        "",
+        "Siddhartha was born in Lumbinī.",
+        "Was Siddhartha born in Lumbinī?",
+        "Siddhartha was born in Lumbinī.",
+        "",
+        "Was Siddhartha born in Kushinagar?",
+        "Siddhartha was not born in Kushinagar.",
+        "Siddhartha was born in Lumbinī.",
+        "",
+        "Siddhartha is Māyā's son.",
+        "Māyā is Siddhartha's mother."
+      ],
+      "words": [
+        {
+          "tibetan": "ལུམ་བི་ནི",
+          "wylie": "lum-bi-ni",
+          "phonetics": "lum-bi-ni",
+          "meaning": "Lumbinī"
+        },
+        {
+          "tibetan": "ནགས",
+          "wylie": "nags",
+          "phonetics": "nak",
+          "meaning": "forest"
+        },
+        {
+          "tibetan": "མཛེས་པོ",
+          "wylie": "mdzes-po",
+          "phonetics": "dzé-po",
+          "meaning": "beautiful"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "སིད་དྷར་ཐ",
+          "wylie": "sid-dhar-tha",
+          "phonetics": "si-dar-ta",
+          "meaning": "Siddhartha"
+        },
+        {
+          "tibetan": "འཁྲུངས",
+          "wylie": "'khrungs",
+          "phonetics": "trung",
+          "meaning": "was born"
+        },
+        {
+          "tibetan": "འཁྲུངས་སམ",
+          "wylie": "'khrungs-sam",
+          "phonetics": "trung-sam",
+          "meaning": "was born? (question)"
+        },
+        {
+          "tibetan": "མ་འཁྲུངས",
+          "wylie": "ma-'khrungs",
+          "phonetics": "ma-trung",
+          "meaning": "was not born"
+        },
+        {
+          "tibetan": "རྩྭ་མཆོག་གྲོང",
+          "wylie": "rtswa-mchog-grong",
+          "phonetics": "tsa-chok-drong",
+          "meaning": "Kushinagar"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/at/in (locative particle)"
+        },
+        {
+          "tibetan": "མ་ཡ",
+          "wylie": "ma-ya",
+          "phonetics": "ma-ya",
+          "meaning": "Māyā"
+        },
+        {
+          "tibetan": "བུ",
+          "wylie": "bu",
+          "phonetics": "bu",
+          "meaning": "son"
+        },
+        {
+          "tibetan": "ཡུམ",
+          "wylie": "yum",
+          "phonetics": "yum",
+          "meaning": "mother (honorific)"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ནགས",
+            "wylie": "nags",
+            "phonetics": "nak",
+            "meaning": "forest"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ནགས",
+            "wylie": "nags",
+            "phonetics": "nak",
+            "meaning": "forest"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འཁྲུངས",
+            "wylie": "'khrungs",
+            "phonetics": "trung",
+            "meaning": "was born"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འཁྲུངས་སམ",
+            "wylie": "'khrungs-sam",
+            "phonetics": "trung-sam",
+            "meaning": "was born? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འཁྲུངས",
+            "wylie": "'khrungs",
+            "phonetics": "trung",
+            "meaning": "was born"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འཁྲུངས་སམ",
+            "wylie": "'khrungs-sam",
+            "phonetics": "trung-sam",
+            "meaning": "was born? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "མ་འཁྲུངས",
+            "wylie": "ma-'khrungs",
+            "phonetics": "ma-trung",
+            "meaning": "was not born"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འཁྲུངས",
+            "wylie": "'khrungs",
+            "phonetics": "trung",
+            "meaning": "was born"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "འི་",
+          {
+            "tibetan": "ཡུམ",
+            "wylie": "yum",
+            "phonetics": "yum",
+            "meaning": "mother (honorific)"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "རྡོ་རྗེ་གདན",
+      "titleTransliteration": "rdo-rje gdan",
+      "titleEnglish": "The Vajra Seat",
+      "textTibetan": "རྡོ་རྗེ་གདན་ནི་གནས་ཆེན་ཡིན།\nརྡོ་རྗེ་གདན་ནི་གནས་ཆེན་མཛེས་པོ་ཡིན།\n\nརྡོ་རྗེ་གདན་ནི་ལུམ་བི་ནི་ཡིན་ནམ།\nརྡོ་རྗེ་གདན་ནི་ལུམ་བི་ནི་མིན།\nརྡོ་རྗེ་གདན་ནི་གནས་ཆེན་ཡིན།\n\nསིད་དྷར་ཐ་ནི་རྡོ་རྗེ་གདན་ལ་བྱོན།\nསིད་དྷར་ཐ་ནི་རྡོ་རྗེ་གདན་ལ་བྱོན་སམ།\nསིད་དྷར་ཐ་ནི་རྡོ་རྗེ་གདན་ལ་བྱོན།\n\nསིད་དྷར་ཐ་ནི་རྡོ་རྗེ་གདན་ལ་བྱང་ཆུབ་ཐོབ།\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་བྱང་ཆུབ་ཐོབ་སམ།\nསིད་དྷར་ཐ་ནི་ལུམ་བི་ནིར་བྱང་ཆུབ་མ་ཐོབ།\nསིད་དྷར་ཐ་ནི་རྡོ་རྗེ་གདན་ལ་བྱང་ཆུབ་ཐོབ།\n\nད་ལྟ་ནི་སིད་དྷར་ཐ་མིན།\nད་ལྟ་ནི་སངས་རྒྱས་ཡིན།",
+      "textWylie": "rdo-rje-gdan ni gnas-chen yin.\nrdo-rje-gdan ni gnas-chen mdzes-po yin.\n\nrdo-rje-gdan ni lum-bi-ni yin-nam.\nrdo-rje-gdan ni lum-bi-ni min.\nrdo-rje-gdan ni gnas-chen yin.\n\nsid-dhar-tha ni rdo-rje-gdan la byon.\nsid-dhar-tha ni rdo-rje-gdan la byon-sam.\nsid-dhar-tha ni rdo-rje-gdan la byon.\n\nsid-dhar-tha ni rdo-rje-gdan la byang-chub thob.\nsid-dhar-tha ni lum-bi-nir byang-chub thob-sam.\nsid-dhar-tha ni lum-bi-nir byang-chub ma-thob.\nsid-dhar-tha ni rdo-rje-gdan la byang-chub thob.\n\nda-lta ni sid-dhar-tha min.\nda-lta ni sangs-rgyas yin.",
+      "lineTranslations": [
+        "The Vajra Seat is a sacred place.",
+        "The Vajra Seat is a beautiful sacred place.",
+        "",
+        "Is the Vajra Seat Lumbinī?",
+        "The Vajra Seat is not Lumbinī.",
+        "The Vajra Seat is a sacred place.",
+        "",
+        "Siddhartha went to the Vajra Seat.",
+        "Did Siddhartha go to the Vajra Seat?",
+        "Siddhartha went to the Vajra Seat.",
+        "",
+        "Siddhartha attained enlightenment at the Vajra Seat.",
+        "Did Siddhartha attain enlightenment in Lumbinī?",
+        "Siddhartha did not attain enlightenment in Lumbinī.",
+        "Siddhartha attained enlightenment at the Vajra Seat.",
+        "",
+        "Now he is not Siddhartha.",
+        "Now he is the Buddha."
+      ],
+      "words": [
+        {
+          "tibetan": "རྡོ་རྗེ་གདན",
+          "wylie": "rdo-rje-gdan",
+          "phonetics": "dor-jé-den",
+          "meaning": "the Vajra Seat (Bodh Gaya)"
+        },
+        {
+          "tibetan": "གནས་ཆེན",
+          "wylie": "gnas-chen",
+          "phonetics": "né-chen",
+          "meaning": "sacred place"
+        },
+        {
+          "tibetan": "མཛེས་པོ",
+          "wylie": "mdzes-po",
+          "phonetics": "dzé-po",
+          "meaning": "beautiful"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "ལུམ་བི་ནི",
+          "wylie": "lum-bi-ni",
+          "phonetics": "lum-bi-ni",
+          "meaning": "Lumbinī"
+        },
+        {
+          "tibetan": "སིད་དྷར་ཐ",
+          "wylie": "sid-dhar-tha",
+          "phonetics": "si-dar-ta",
+          "meaning": "Siddhartha"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/at/in (locative particle)"
+        },
+        {
+          "tibetan": "བྱོན",
+          "wylie": "byon",
+          "phonetics": "jön",
+          "meaning": "went (honorific)"
+        },
+        {
+          "tibetan": "བྱོན་སམ",
+          "wylie": "byon-sam",
+          "phonetics": "jön-sam",
+          "meaning": "went? (question)"
+        },
+        {
+          "tibetan": "བྱང་ཆུབ",
+          "wylie": "byang-chub",
+          "phonetics": "jang-chup",
+          "meaning": "enlightenment"
+        },
+        {
+          "tibetan": "ཐོབ",
+          "wylie": "thob",
+          "phonetics": "thob",
+          "meaning": "attained"
+        },
+        {
+          "tibetan": "ཐོབ་སམ",
+          "wylie": "thob-sam",
+          "phonetics": "thob-sam",
+          "meaning": "attained? (question)"
+        },
+        {
+          "tibetan": "མ་ཐོབ",
+          "wylie": "ma-thob",
+          "phonetics": "ma-thob",
+          "meaning": "did not attain"
+        },
+        {
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
+        },
+        {
+          "tibetan": "ད་ལྟ",
+          "wylie": "da-lta",
+          "phonetics": "ta-ta",
+          "meaning": "now"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གནས་ཆེན",
+            "wylie": "gnas-chen",
+            "phonetics": "né-chen",
+            "meaning": "sacred place"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གནས་ཆེན",
+            "wylie": "gnas-chen",
+            "phonetics": "né-chen",
+            "meaning": "sacred place"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གནས་ཆེན",
+            "wylie": "gnas-chen",
+            "phonetics": "né-chen",
+            "meaning": "sacred place"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱོན",
+            "wylie": "byon",
+            "phonetics": "jön",
+            "meaning": "went (honorific)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱོན་སམ",
+            "wylie": "byon-sam",
+            "phonetics": "jön-sam",
+            "meaning": "went? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱོན",
+            "wylie": "byon",
+            "phonetics": "jön",
+            "meaning": "went (honorific)"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱང་ཆུབ",
+            "wylie": "byang-chub",
+            "phonetics": "jang-chup",
+            "meaning": "enlightenment"
+          },
+          "་",
+          {
+            "tibetan": "ཐོབ",
+            "wylie": "thob",
+            "phonetics": "thob",
+            "meaning": "attained"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "བྱང་ཆུབ",
+            "wylie": "byang-chub",
+            "phonetics": "jang-chup",
+            "meaning": "enlightenment"
+          },
+          "་",
+          {
+            "tibetan": "ཐོབ་སམ",
+            "wylie": "thob-sam",
+            "phonetics": "thob-sam",
+            "meaning": "attained? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "བྱང་ཆུབ",
+            "wylie": "byang-chub",
+            "phonetics": "jang-chup",
+            "meaning": "enlightenment"
+          },
+          "་",
+          {
+            "tibetan": "མ་ཐོབ",
+            "wylie": "ma-thob",
+            "phonetics": "ma-thob",
+            "meaning": "did not attain"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱང་ཆུབ",
+            "wylie": "byang-chub",
+            "phonetics": "jang-chup",
+            "meaning": "enlightenment"
+          },
+          "་",
+          {
+            "tibetan": "ཐོབ",
+            "wylie": "thob",
+            "phonetics": "thob",
+            "meaning": "attained"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ད་ལྟ",
+            "wylie": "da-lta",
+            "phonetics": "ta-ta",
+            "meaning": "now"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ད་ལྟ",
+            "wylie": "da-lta",
+            "phonetics": "ta-ta",
+            "meaning": "now"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "རི་དྭགས་ནགས",
+      "titleTransliteration": "ri-dwags nags",
+      "titleEnglish": "The Deer Park",
+      "textTibetan": "རི་དྭགས་ནགས་ནི་ནགས་ཡིན།\nརི་དྭགས་ནགས་ནི་ནགས་མཛེས་པོ་ཡིན།\n\nརི་དྭགས་ནགས་ནི་རྡོ་རྗེ་གདན་ཡིན་ནམ།\nརི་དྭགས་ནགས་ནི་རྡོ་རྗེ་གདན་མིན།\nརི་དྭགས་ནགས་ནི་ནགས་ཡིན།\n\nསངས་རྒྱས་ནི་རྡོ་རྗེ་གདན་ནས་རི་དྭགས་ནགས་ལ་བྱོན།\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ལ་ཆོས་བསྟན།\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ལ་ཆོས་བསྟན་སམ།\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ལ་ཆོས་བསྟན།\n\nསངས་རྒྱས་ནི་ལུམ་བི་ནིར་ཆོས་བསྟན་སམ།\nསངས་རྒྱས་ནི་ལུམ་བི་ནིར་ཆོས་མ་བསྟན།\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ལ་ཆོས་བསྟན།",
+      "textWylie": "ri-dwags-nags ni nags yin.\nri-dwags-nags ni nags mdzes-po yin.\n\nri-dwags-nags ni rdo-rje-gdan yin-nam.\nri-dwags-nags ni rdo-rje-gdan min.\nri-dwags-nags ni nags yin.\n\nsangs-rgyas ni rdo-rje-gdan nas ri-dwags-nags la byon.\nsangs-rgyas ni ri-dwags-nags la chos bstan.\nsangs-rgyas ni ri-dwags-nags la chos bstan-sam.\nsangs-rgyas ni ri-dwags-nags la chos bstan.\n\nsangs-rgyas ni lum-bi-nir chos bstan-sam.\nsangs-rgyas ni lum-bi-nir chos ma-bstan.\nsangs-rgyas ni ri-dwags-nags la chos bstan.",
+      "lineTranslations": [
+        "The Deer Park is a forest.",
+        "The Deer Park is a beautiful forest.",
+        "",
+        "Is the Deer Park the Vajra Seat?",
+        "The Deer Park is not the Vajra Seat.",
+        "The Deer Park is a forest.",
+        "",
+        "The Buddha went from the Vajra Seat to the Deer Park.",
+        "The Buddha taught the Dharma at the Deer Park.",
+        "Did the Buddha teach the Dharma at the Deer Park?",
+        "The Buddha taught the Dharma at the Deer Park.",
+        "",
+        "Did the Buddha teach the Dharma in Lumbinī?",
+        "The Buddha did not teach the Dharma in Lumbinī.",
+        "The Buddha taught the Dharma at the Deer Park."
+      ],
+      "words": [
+        {
+          "tibetan": "རི་དྭགས་ནགས",
+          "wylie": "ri-dwags-nags",
+          "phonetics": "ri-dak-nak",
+          "meaning": "the Deer Park"
+        },
+        {
+          "tibetan": "ནགས",
+          "wylie": "nags",
+          "phonetics": "nak",
+          "meaning": "forest"
+        },
+        {
+          "tibetan": "མཛེས་པོ",
+          "wylie": "mdzes-po",
+          "phonetics": "dzé-po",
+          "meaning": "beautiful"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "རྡོ་རྗེ་གདན",
+          "wylie": "rdo-rje-gdan",
+          "phonetics": "dor-jé-den",
+          "meaning": "the Vajra Seat (Bodh Gaya)"
+        },
+        {
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ལུམ་བི་ནི",
+          "wylie": "lum-bi-ni",
+          "phonetics": "lum-bi-ni",
+          "meaning": "Lumbinī"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/at/in (locative particle)"
+        },
+        {
+          "tibetan": "བྱོན",
+          "wylie": "byon",
+          "phonetics": "jön",
+          "meaning": "went (honorific)"
+        },
+        {
+          "tibetan": "ཆོས",
+          "wylie": "chos",
+          "phonetics": "chö",
+          "meaning": "Dharma, teaching"
+        },
+        {
+          "tibetan": "བསྟན",
+          "wylie": "bstan",
+          "phonetics": "ten",
+          "meaning": "taught"
+        },
+        {
+          "tibetan": "བསྟན་སམ",
+          "wylie": "bstan-sam",
+          "phonetics": "ten-sam",
+          "meaning": "taught? (question)"
+        },
+        {
+          "tibetan": "མ་བསྟན",
+          "wylie": "ma-bstan",
+          "phonetics": "ma-ten",
+          "meaning": "did not teach"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ནགས",
+            "wylie": "nags",
+            "phonetics": "nak",
+            "meaning": "forest"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ནགས",
+            "wylie": "nags",
+            "phonetics": "nak",
+            "meaning": "forest"
+          },
+          "་",
+          {
+            "tibetan": "མཛེས་པོ",
+            "wylie": "mdzes-po",
+            "phonetics": "dzé-po",
+            "meaning": "beautiful"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ནགས",
+            "wylie": "nags",
+            "phonetics": "nak",
+            "meaning": "forest"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱོན",
+            "wylie": "byon",
+            "phonetics": "jön",
+            "meaning": "went (honorific)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན",
+            "wylie": "bstan",
+            "phonetics": "ten",
+            "meaning": "taught"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་སམ",
+            "wylie": "bstan-sam",
+            "phonetics": "ten-sam",
+            "meaning": "taught? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན",
+            "wylie": "bstan",
+            "phonetics": "ten",
+            "meaning": "taught"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་སམ",
+            "wylie": "bstan-sam",
+            "phonetics": "ten-sam",
+            "meaning": "taught? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "མ་བསྟན",
+            "wylie": "ma-bstan",
+            "phonetics": "ma-ten",
+            "meaning": "did not teach"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན",
+            "wylie": "bstan",
+            "phonetics": "ten",
+            "meaning": "taught"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "རྩྭ་མཆོག་གྲོང",
+      "titleTransliteration": "rtswa-mchog grong",
+      "titleEnglish": "Kushinagar",
+      "textTibetan": "རྩྭ་མཆོག་གྲོང་ནི་གྲོང་ཡིན།\nརྩྭ་མཆོག་གྲོང་ནི་གྲོང་ཆེན་པོ་མིན།\n\nརྩྭ་མཆོག་གྲོང་ནི་སིད་དྷར་ཐའི་འཁྲུངས་ཡུལ་ཡིན་ནམ།\nརྩྭ་མཆོག་གྲོང་ནི་སིད་དྷར་ཐའི་འཁྲུངས་ཡུལ་མིན།\nལུམ་བི་ནི་ནི་སིད་དྷར་ཐའི་འཁྲུངས་ཡུལ་ཡིན།\n\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ནས་རྩྭ་མཆོག་གྲོང་ལ་བྱོན།\nསངས་རྒྱས་ནི་རྩྭ་མཆོག་གྲོང་ལ་འདས།\nསངས་རྒྱས་ནི་རྩྭ་མཆོག་གྲོང་ལ་འདས་སམ།\nསངས་རྒྱས་ནི་རྩྭ་མཆོག་གྲོང་ལ་འདས།\n\nསངས་རྒྱས་ནི་ལུམ་བི་ནིར་འདས་སམ།\nསངས་རྒྱས་ནི་ལུམ་བི་ནིར་མ་འདས།\nསངས་རྒྱས་ནི་རྩྭ་མཆོག་གྲོང་ལ་འདས།\n\nསངས་རྒྱས་ནི་ལུམ་བི་ནིར་འཁྲུངས།\nསངས་རྒྱས་ནི་རྡོ་རྗེ་གདན་ལ་བྱང་ཆུབ་ཐོབ།\nསངས་རྒྱས་ནི་རི་དྭགས་ནགས་ལ་ཆོས་བསྟན།\nསངས་རྒྱས་ནི་རྩྭ་མཆོག་གྲོང་ལ་འདས།",
+      "textWylie": "rtswa-mchog-grong ni grong yin.\nrtswa-mchog-grong ni grong chen-po min.\n\nrtswa-mchog-grong ni sid-dhar-tha'i 'khrungs-yul yin-nam.\nrtswa-mchog-grong ni sid-dhar-tha'i 'khrungs-yul min.\nlum-bi-ni ni sid-dhar-tha'i 'khrungs-yul yin.\n\nsangs-rgyas ni ri-dwags-nags nas rtswa-mchog-grong la byon.\nsangs-rgyas ni rtswa-mchog-grong la 'das.\nsangs-rgyas ni rtswa-mchog-grong la 'das-sam.\nsangs-rgyas ni rtswa-mchog-grong la 'das.\n\nsangs-rgyas ni lum-bi-nir 'das-sam.\nsangs-rgyas ni lum-bi-nir ma-'das.\nsangs-rgyas ni rtswa-mchog-grong la 'das.\n\nsangs-rgyas ni lum-bi-nir 'khrungs.\nsangs-rgyas ni rdo-rje-gdan la byang-chub thob.\nsangs-rgyas ni ri-dwags-nags la chos bstan.\nsangs-rgyas ni rtswa-mchog-grong la 'das.",
+      "lineTranslations": [
+        "Kushinagar is a town.",
+        "Kushinagar is not a big town.",
+        "",
+        "Is Kushinagar Siddhartha's birthplace?",
+        "Kushinagar is not Siddhartha's birthplace.",
+        "Lumbinī is Siddhartha's birthplace.",
+        "",
+        "The Buddha went from the Deer Park to Kushinagar.",
+        "The Buddha passed away at Kushinagar.",
+        "Did the Buddha pass away at Kushinagar?",
+        "The Buddha passed away at Kushinagar.",
+        "",
+        "Did the Buddha pass away in Lumbinī?",
+        "The Buddha did not pass away in Lumbinī.",
+        "The Buddha passed away at Kushinagar.",
+        "",
+        "The Buddha was born in Lumbinī.",
+        "The Buddha attained enlightenment at the Vajra Seat.",
+        "The Buddha taught the Dharma at the Deer Park.",
+        "The Buddha passed away at Kushinagar."
+      ],
+      "words": [
+        {
+          "tibetan": "རྩྭ་མཆོག་གྲོང",
+          "wylie": "rtswa-mchog-grong",
+          "phonetics": "tsa-chok-drong",
+          "meaning": "Kushinagar"
+        },
+        {
+          "tibetan": "གྲོང",
+          "wylie": "grong",
+          "phonetics": "drong",
+          "meaning": "town"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "big, great"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སིད་དྷར་ཐ",
+          "wylie": "sid-dhar-tha",
+          "phonetics": "si-dar-ta",
+          "meaning": "Siddhartha"
+        },
+        {
+          "tibetan": "འཁྲུངས་ཡུལ",
+          "wylie": "'khrungs-yul",
+          "phonetics": "trung-yul",
+          "meaning": "birthplace"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "ལུམ་བི་ནི",
+          "wylie": "lum-bi-ni",
+          "phonetics": "lum-bi-ni",
+          "meaning": "Lumbinī"
+        },
+        {
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
+        },
+        {
+          "tibetan": "རི་དྭགས་ནགས",
+          "wylie": "ri-dwags-nags",
+          "phonetics": "ri-dak-nak",
+          "meaning": "the Deer Park"
+        },
+        {
+          "tibetan": "ནས",
+          "wylie": "nas",
+          "phonetics": "né",
+          "meaning": "from"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/at/in (locative particle)"
+        },
+        {
+          "tibetan": "བྱོན",
+          "wylie": "byon",
+          "phonetics": "jön",
+          "meaning": "went (honorific)"
+        },
+        {
+          "tibetan": "འདས",
+          "wylie": "'das",
+          "phonetics": "dé",
+          "meaning": "passed away"
+        },
+        {
+          "tibetan": "འདས་སམ",
+          "wylie": "'das-sam",
+          "phonetics": "dé-sam",
+          "meaning": "passed away? (question)"
+        },
+        {
+          "tibetan": "མ་འདས",
+          "wylie": "ma-'das",
+          "phonetics": "ma-dé",
+          "meaning": "did not pass away"
+        },
+        {
+          "tibetan": "འཁྲུངས",
+          "wylie": "'khrungs",
+          "phonetics": "trung",
+          "meaning": "was born"
+        },
+        {
+          "tibetan": "རྡོ་རྗེ་གདན",
+          "wylie": "rdo-rje-gdan",
+          "phonetics": "dor-jé-den",
+          "meaning": "the Vajra Seat (Bodh Gaya)"
+        },
+        {
+          "tibetan": "བྱང་ཆུབ",
+          "wylie": "byang-chub",
+          "phonetics": "jang-chup",
+          "meaning": "enlightenment"
+        },
+        {
+          "tibetan": "ཐོབ",
+          "wylie": "thob",
+          "phonetics": "thob",
+          "meaning": "attained"
+        },
+        {
+          "tibetan": "ཆོས",
+          "wylie": "chos",
+          "phonetics": "chö",
+          "meaning": "Dharma, teaching"
+        },
+        {
+          "tibetan": "བསྟན",
+          "wylie": "bstan",
+          "phonetics": "ten",
+          "meaning": "taught"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གྲོང",
+            "wylie": "grong",
+            "phonetics": "drong",
+            "meaning": "town"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "གྲོང",
+            "wylie": "grong",
+            "phonetics": "drong",
+            "meaning": "town"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "big, great"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "འི་",
+          {
+            "tibetan": "འཁྲུངས་ཡུལ",
+            "wylie": "'khrungs-yul",
+            "phonetics": "trung-yul",
+            "meaning": "birthplace"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "འི་",
+          {
+            "tibetan": "འཁྲུངས་ཡུལ",
+            "wylie": "'khrungs-yul",
+            "phonetics": "trung-yul",
+            "meaning": "birthplace"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སིད་དྷར་ཐ",
+            "wylie": "sid-dhar-tha",
+            "phonetics": "si-dar-ta",
+            "meaning": "Siddhartha"
+          },
+          "འི་",
+          {
+            "tibetan": "འཁྲུངས་ཡུལ",
+            "wylie": "'khrungs-yul",
+            "phonetics": "trung-yul",
+            "meaning": "birthplace"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ནས",
+            "wylie": "nas",
+            "phonetics": "né",
+            "meaning": "from"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱོན",
+            "wylie": "byon",
+            "phonetics": "jön",
+            "meaning": "went (honorific)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འདས",
+            "wylie": "'das",
+            "phonetics": "dé",
+            "meaning": "passed away"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འདས་སམ",
+            "wylie": "'das-sam",
+            "phonetics": "dé-sam",
+            "meaning": "passed away? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འདས",
+            "wylie": "'das",
+            "phonetics": "dé",
+            "meaning": "passed away"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འདས་སམ",
+            "wylie": "'das-sam",
+            "phonetics": "dé-sam",
+            "meaning": "passed away? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "མ་འདས",
+            "wylie": "ma-'das",
+            "phonetics": "ma-dé",
+            "meaning": "did not pass away"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འདས",
+            "wylie": "'das",
+            "phonetics": "dé",
+            "meaning": "passed away"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ལུམ་བི་ནི",
+            "wylie": "lum-bi-ni",
+            "phonetics": "lum-bi-ni",
+            "meaning": "Lumbinī"
+          },
+          "ར་",
+          {
+            "tibetan": "འཁྲུངས",
+            "wylie": "'khrungs",
+            "phonetics": "trung",
+            "meaning": "was born"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྡོ་རྗེ་གདན",
+            "wylie": "rdo-rje-gdan",
+            "phonetics": "dor-jé-den",
+            "meaning": "the Vajra Seat (Bodh Gaya)"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "བྱང་ཆུབ",
+            "wylie": "byang-chub",
+            "phonetics": "jang-chup",
+            "meaning": "enlightenment"
+          },
+          "་",
+          {
+            "tibetan": "ཐོབ",
+            "wylie": "thob",
+            "phonetics": "thob",
+            "meaning": "attained"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རི་དྭགས་ནགས",
+            "wylie": "ri-dwags-nags",
+            "phonetics": "ri-dak-nak",
+            "meaning": "the Deer Park"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཆོས",
+            "wylie": "chos",
+            "phonetics": "chö",
+            "meaning": "Dharma, teaching"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན",
+            "wylie": "bstan",
+            "phonetics": "ten",
+            "meaning": "taught"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩྭ་མཆོག་གྲོང",
+            "wylie": "rtswa-mchog-grong",
+            "phonetics": "tsa-chok-drong",
+            "meaning": "Kushinagar"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at/in (locative particle)"
+          },
+          "་",
+          {
+            "tibetan": "འདས",
+            "wylie": "'das",
+            "phonetics": "dé",
+            "meaning": "passed away"
+          },
+          "།"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1989 @@
+{
+  "id": 103,
+  "title": "སྒྲོལ་མ་ཉལ་འདོད།",
+  "titleTransliteration": "sgrol-ma nyal-'dod.",
+  "titleEnglish": "Drolma Wants to Sleep",
+  "description": "Drolma just wants to sleep, but baby Padma has other plans. Will the whole family ever get some rest?",
+  "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
+  "series": "Tenzin",
+  "uniqueWords": 35,
+  "chapters": [
+    {
+      "title": "སྒྲོལ་མ",
+      "titleTransliteration": "sgrol-ma",
+      "titleEnglish": "Drolma",
+      "textTibetan": "སྒྲོལ་མ་ནི་བསྟན་འཛིན་གི་ཨ་མ་ཡིན།\n\nསྒྲོལ་མ་ནི་ཉལ་འདོད།\nསྒྲོལ་མ་ནི་ཉལ་འདོད་དམ།\nསྒྲོལ་མ་ནི་ཉལ་འདོད།\n\nསྒྲོལ་མ་ནི་ཉལ་གི་ཡོད་དམ།\nསྒྲོལ་མ་ནི་ཉལ་གི་མེད།\n\nསྒྲོལ་མ་ནི་སེམས་སྐྱོ་པོ་ཡིན།",
+      "textWylie": "sgrol-ma ni bstan-'dzin gi a-ma yin.\n\nsgrol-ma ni nyal-'dod.\nsgrol-ma ni nyal-'dod-dam.\nsgrol-ma ni nyal-'dod.\n\nsgrol-ma ni nyal-gi-yod-dam.\nsgrol-ma ni nyal-gi-med.\n\nsgrol-ma ni sems-skyo-po yin.",
+      "lineTranslations": [
+        "Drolma is Tenzin's mother.",
+        "",
+        "Drolma wants to sleep.",
+        "Does Drolma want to sleep?",
+        "Drolma wants to sleep.",
+        "",
+        "Is Drolma sleeping?",
+        "Drolma is not sleeping.",
+        "",
+        "Drolma is sad."
+      ],
+      "words": [
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "ཨ་མ",
+          "wylie": "a-ma",
+          "phonetics": "a-ma",
+          "meaning": "mother"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཉལ",
+          "wylie": "nyal",
+          "phonetics": "nyal",
+          "meaning": "sleeps"
+        },
+        {
+          "tibetan": "འདོད",
+          "wylie": "'dod",
+          "phonetics": "dö",
+          "meaning": "wants"
+        },
+        {
+          "tibetan": "འདོད་དམ",
+          "wylie": "'dod-dam",
+          "phonetics": "dö-dam",
+          "meaning": "wants? (question)"
+        },
+        {
+          "tibetan": "ཉལ་གི་ཡོད་དམ",
+          "wylie": "nyal-gi-yod-dam",
+          "phonetics": "nyal-gi-yö-dam",
+          "meaning": "is sleeping? (question)"
+        },
+        {
+          "tibetan": "ཉལ་གི་མེད",
+          "wylie": "nyal-gi-med",
+          "phonetics": "nyal-gi-mé",
+          "meaning": "is not sleeping"
+        },
+        {
+          "tibetan": "སེམས་སྐྱོ་པོ",
+          "wylie": "sems-skyo-po",
+          "phonetics": "sem-kyo-po",
+          "meaning": "sad"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "ཨ་མ",
+            "wylie": "a-ma",
+            "phonetics": "a-ma",
+            "meaning": "mother"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད",
+            "wylie": "'dod",
+            "phonetics": "dö",
+            "meaning": "wants"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད་དམ",
+            "wylie": "'dod-dam",
+            "phonetics": "dö-dam",
+            "meaning": "wants? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད",
+            "wylie": "'dod",
+            "phonetics": "dö",
+            "meaning": "wants"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད་དམ",
+            "wylie": "nyal-gi-yod-dam",
+            "phonetics": "nyal-gi-yö-dam",
+            "meaning": "is sleeping? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་སྐྱོ་པོ",
+            "wylie": "sems-skyo-po",
+            "phonetics": "sem-kyo-po",
+            "meaning": "sad"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "པདྨ",
+      "titleTransliteration": "pad-ma",
+      "titleEnglish": "Padma",
+      "textTibetan": "པདྨ་ནི་སྒྲོལ་མའི་བུ་མོ་ཡིན།\n\nཔདྨ་ནི་བསྟན་འཛིན་གི་སྲིང་མོ་ཡིན།\nབསྟན་འཛིན་ནི་པདྨའི་ཕུ་བོ་ཡིན།\n\nཔདྨ་ནི་ཆུང་ཆུང་ཡིན་ནམ།\nཔདྨ་ནི་ཆུང་ཆུང་ཡིན།\nཔདྨ་ནི་ཆུང་ཆུང་ཡིན།",
+      "textWylie": "pad-ma ni sgrol-ma'i bu-mo yin.\n\npad-ma ni bstan-'dzin gi sring-mo yin.\nbstan-'dzin ni pad-ma'i phu-bo yin.\n\npad-ma ni chung-chung yin-nam.\npad-ma ni chung-chung yin.\npad-ma ni chung-chung yin.",
+      "lineTranslations": [
+        "Padma is Drolma's daughter.",
+        "",
+        "Padma is Tenzin's younger sister.",
+        "Tenzin is Padma's older brother.",
+        "",
+        "Is Padma small?",
+        "Padma is small.",
+        "Padma is small."
+      ],
+      "words": [
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "བུ་མོ",
+          "wylie": "bu-mo",
+          "phonetics": "bu-mo",
+          "meaning": "daughter / girl"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "སྲིང་མོ",
+          "wylie": "sring-mo",
+          "phonetics": "sing-mo",
+          "meaning": "younger sister"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ཕུ་བོ",
+          "wylie": "phu-bo",
+          "phonetics": "pu-wo",
+          "meaning": "older brother"
+        },
+        {
+          "tibetan": "ཆུང་ཆུང",
+          "wylie": "chung-chung",
+          "phonetics": "chung-chung",
+          "meaning": "small"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ་མོ",
+            "wylie": "bu-mo",
+            "phonetics": "bu-mo",
+            "meaning": "daughter / girl"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "སྲིང་མོ",
+            "wylie": "sring-mo",
+            "phonetics": "sing-mo",
+            "meaning": "younger sister"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "འི་",
+          {
+            "tibetan": "ཕུ་བོ",
+            "wylie": "phu-bo",
+            "phonetics": "pu-wo",
+            "meaning": "older brother"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆུང་ཆུང",
+            "wylie": "chung-chung",
+            "phonetics": "chung-chung",
+            "meaning": "small"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆུང་ཆུང",
+            "wylie": "chung-chung",
+            "phonetics": "chung-chung",
+            "meaning": "small"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆུང་ཆུང",
+            "wylie": "chung-chung",
+            "phonetics": "chung-chung",
+            "meaning": "small"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "པདྨ་ཉལ་མི་འདོད།",
+      "titleTransliteration": "pad-ma nyal mi-'dod.",
+      "titleEnglish": "Padma doesn't want to sleep",
+      "textTibetan": "པདྨ་ནི་ཉལ་འདོད་དམ།\nཔདྨ་ནི་ཉལ་མི་འདོད།\n\nཔདྨ་ནི་ཉལ་གི་ཡོད་དམ།\nཔདྨ་ནི་ཉལ་གི་མེད།\n\nསྒྲོལ་མ་ནི་སེམས་སྐྱོ་པོ་ཡིན།\nསྒྲོལ་མ་ནི་ཉལ་གི་མེད།",
+      "textWylie": "pad-ma ni nyal-'dod-dam.\npad-ma ni nyal mi-'dod.\n\npad-ma ni nyal-gi-yod-dam.\npad-ma ni nyal-gi-med.\n\nsgrol-ma ni sems-skyo-po yin.\nsgrol-ma ni nyal-gi-med.",
+      "lineTranslations": [
+        "Does Padma want to sleep?",
+        "Padma does not want to sleep.",
+        "",
+        "Is Padma sleeping?",
+        "Padma is not sleeping.",
+        "",
+        "Drolma is sad.",
+        "Drolma is not sleeping either."
+      ],
+      "words": [
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཉལ",
+          "wylie": "nyal",
+          "phonetics": "nyal",
+          "meaning": "sleeps"
+        },
+        {
+          "tibetan": "འདོད་དམ",
+          "wylie": "'dod-dam",
+          "phonetics": "dö-dam",
+          "meaning": "wants? (question)"
+        },
+        {
+          "tibetan": "མི་འདོད",
+          "wylie": "mi-'dod",
+          "phonetics": "mi-dö",
+          "meaning": "does not want"
+        },
+        {
+          "tibetan": "ཉལ་གི་ཡོད་དམ",
+          "wylie": "nyal-gi-yod-dam",
+          "phonetics": "nyal-gi-yö-dam",
+          "meaning": "is sleeping? (question)"
+        },
+        {
+          "tibetan": "ཉལ་གི་མེད",
+          "wylie": "nyal-gi-med",
+          "phonetics": "nyal-gi-mé",
+          "meaning": "is not sleeping"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "སེམས་སྐྱོ་པོ",
+          "wylie": "sems-skyo-po",
+          "phonetics": "sem-kyo-po",
+          "meaning": "sad"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད་དམ",
+            "wylie": "'dod-dam",
+            "phonetics": "dö-dam",
+            "meaning": "wants? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "མི་འདོད",
+            "wylie": "mi-'dod",
+            "phonetics": "mi-dö",
+            "meaning": "does not want"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད་དམ",
+            "wylie": "nyal-gi-yod-dam",
+            "phonetics": "nyal-gi-yö-dam",
+            "meaning": "is sleeping? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སེམས་སྐྱོ་པོ",
+            "wylie": "sems-skyo-po",
+            "phonetics": "sem-kyo-po",
+            "meaning": "sad"
+          },
+          "་ཡིན།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "པདྨ་ཟ་གི་ཡོད།",
+      "titleTransliteration": "pad-ma za-gi-yod.",
+      "titleEnglish": "Padma is eating",
+      "textTibetan": "པདྨ་ནི་ཟས་ཟ་གི་ཡོད།\nཔདྨ་ནི་ཟས་ཟ་གི་ཡོད་དམ།\nཔདྨ་ནི་ཟས་ཟ་གི་ཡོད།\n\nསྒྲོལ་མ་ནི་ཟས་ཟ་གི་མེད།\nསྒྲོལ་མ་ནི་ཉལ་འདོད།\n\nཔདྨ་ནི་ཟ་གི་ཡོད།\nཔདྨ་ནི་ཉལ་གི་མེད།",
+      "textWylie": "pad-ma ni zas za-gi-yod.\npad-ma ni zas za-gi-yod-dam.\npad-ma ni zas za-gi-yod.\n\nsgrol-ma ni zas za-gi-med.\nsgrol-ma ni nyal-'dod.\n\npad-ma ni za-gi-yod.\npad-ma ni nyal-gi-med.",
+      "lineTranslations": [
+        "Padma is eating food.",
+        "Is Padma eating food?",
+        "Padma is eating food.",
+        "",
+        "Drolma is not eating food.",
+        "Drolma wants to sleep.",
+        "",
+        "Padma is eating.",
+        "Padma is not sleeping."
+      ],
+      "words": [
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཟས",
+          "wylie": "zas",
+          "phonetics": "sé",
+          "meaning": "food"
+        },
+        {
+          "tibetan": "ཟ་གི་ཡོད",
+          "wylie": "za-gi-yod",
+          "phonetics": "za-gi-yö",
+          "meaning": "is eating"
+        },
+        {
+          "tibetan": "ཟ་གི་ཡོད་དམ",
+          "wylie": "za-gi-yod-dam",
+          "phonetics": "za-gi-yö-dam",
+          "meaning": "is eating? (question)"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "ཟ་གི་མེད",
+          "wylie": "za-gi-med",
+          "phonetics": "za-gi-mé",
+          "meaning": "is not eating"
+        },
+        {
+          "tibetan": "ཉལ",
+          "wylie": "nyal",
+          "phonetics": "nyal",
+          "meaning": "sleeps"
+        },
+        {
+          "tibetan": "འདོད",
+          "wylie": "'dod",
+          "phonetics": "dö",
+          "meaning": "wants"
+        },
+        {
+          "tibetan": "ཉལ་གི་མེད",
+          "wylie": "nyal-gi-med",
+          "phonetics": "nyal-gi-mé",
+          "meaning": "is not sleeping"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟས",
+            "wylie": "zas",
+            "phonetics": "sé",
+            "meaning": "food"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་ཡོད",
+            "wylie": "za-gi-yod",
+            "phonetics": "za-gi-yö",
+            "meaning": "is eating"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟས",
+            "wylie": "zas",
+            "phonetics": "sé",
+            "meaning": "food"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་ཡོད་དམ",
+            "wylie": "za-gi-yod-dam",
+            "phonetics": "za-gi-yö-dam",
+            "meaning": "is eating? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟས",
+            "wylie": "zas",
+            "phonetics": "sé",
+            "meaning": "food"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་ཡོད",
+            "wylie": "za-gi-yod",
+            "phonetics": "za-gi-yö",
+            "meaning": "is eating"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟས",
+            "wylie": "zas",
+            "phonetics": "sé",
+            "meaning": "food"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་མེད",
+            "wylie": "za-gi-med",
+            "phonetics": "za-gi-mé",
+            "meaning": "is not eating"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད",
+            "wylie": "'dod",
+            "phonetics": "dö",
+            "meaning": "wants"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་ཡོད",
+            "wylie": "za-gi-yod",
+            "phonetics": "za-gi-yö",
+            "meaning": "is eating"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "བསྟན་འཛིན",
+      "titleTransliteration": "bstan-'dzin",
+      "titleEnglish": "Tenzin",
+      "textTibetan": "བསྟན་འཛིན་ནི་ཁྱིམ་ལ་ཡོང།\nབསྟན་འཛིན་ནི་ཁྱིམ་ལ་ཡོང་ངམ།\nབསྟན་འཛིན་ནི་ཁྱིམ་ལ་ཡོང།\n\nཔདྨ་ནི་ཟས་ཟ་གི་ཡོད།\nསྒྲོལ་མ་ནི་ཉལ་འདོད།\n\nབསྟན་འཛིན་ནི་པདྨ་མཐོང།\nབསྟན་འཛིན་ནི་སྒྲོལ་མ་མཐོང།",
+      "textWylie": "bstan-'dzin ni khyim la yong.\nbstan-'dzin ni khyim la yong-ngam.\nbstan-'dzin ni khyim la yong.\n\npad-ma ni zas za-gi-yod.\nsgrol-ma ni nyal-'dod.\n\nbstan-'dzin ni pad-ma mthong.\nbstan-'dzin ni sgrol-ma mthong.",
+      "lineTranslations": [
+        "Tenzin comes home.",
+        "Does Tenzin come home?",
+        "Tenzin comes home.",
+        "",
+        "Padma is eating food.",
+        "Drolma wants to sleep.",
+        "",
+        "Tenzin sees Padma.",
+        "Tenzin sees Drolma."
+      ],
+      "words": [
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཁྱིམ",
+          "wylie": "khyim",
+          "phonetics": "khyim",
+          "meaning": "home"
+        },
+        {
+          "tibetan": "ལ",
+          "wylie": "la",
+          "phonetics": "la",
+          "meaning": "to/at (particle)"
+        },
+        {
+          "tibetan": "ཡོང",
+          "wylie": "yong",
+          "phonetics": "yong",
+          "meaning": "comes"
+        },
+        {
+          "tibetan": "ཡོང་ངམ",
+          "wylie": "yong-ngam",
+          "phonetics": "yong-ngam",
+          "meaning": "comes? (question)"
+        },
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ཟས",
+          "wylie": "zas",
+          "phonetics": "sé",
+          "meaning": "food"
+        },
+        {
+          "tibetan": "ཟ་གི་ཡོད",
+          "wylie": "za-gi-yod",
+          "phonetics": "za-gi-yö",
+          "meaning": "is eating"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "ཉལ",
+          "wylie": "nyal",
+          "phonetics": "nyal",
+          "meaning": "sleeps"
+        },
+        {
+          "tibetan": "འདོད",
+          "wylie": "'dod",
+          "phonetics": "dö",
+          "meaning": "wants"
+        },
+        {
+          "tibetan": "མཐོང",
+          "wylie": "mthong",
+          "phonetics": "thong",
+          "meaning": "sees"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོང",
+            "wylie": "yong",
+            "phonetics": "yong",
+            "meaning": "comes"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོང་ངམ",
+            "wylie": "yong-ngam",
+            "phonetics": "yong-ngam",
+            "meaning": "comes? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཁྱིམ",
+            "wylie": "khyim",
+            "phonetics": "khyim",
+            "meaning": "home"
+          },
+          "་",
+          {
+            "tibetan": "ལ",
+            "wylie": "la",
+            "phonetics": "la",
+            "meaning": "to/at (particle)"
+          },
+          "་",
+          {
+            "tibetan": "ཡོང",
+            "wylie": "yong",
+            "phonetics": "yong",
+            "meaning": "comes"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཟས",
+            "wylie": "zas",
+            "phonetics": "sé",
+            "meaning": "food"
+          },
+          "་",
+          {
+            "tibetan": "ཟ་གི་ཡོད",
+            "wylie": "za-gi-yod",
+            "phonetics": "za-gi-yö",
+            "meaning": "is eating"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ",
+            "wylie": "nyal",
+            "phonetics": "nyal",
+            "meaning": "sleeps"
+          },
+          "་",
+          {
+            "tibetan": "འདོད",
+            "wylie": "'dod",
+            "phonetics": "dö",
+            "meaning": "wants"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "མཐོང",
+            "wylie": "mthong",
+            "phonetics": "thong",
+            "meaning": "sees"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "པདྨ་རྩེ་གི་ཡོད།",
+      "titleTransliteration": "pad-ma rtse-gi-yod.",
+      "titleEnglish": "Padma is playing",
+      "textTibetan": "པདྨ་ནི་རྩེ་གི་ཡོད།\nཔདྨ་ནི་རྩེ་གི་ཡོད་དམ།\nཔདྨ་ནི་རྩེ་གི་ཡོད།\n\nབསྟན་འཛིན་དང་པདྨ་ནི་རྩེ་གི་ཡོད།\n\nཔདྨ་ནི་ཉལ་གི་མེད།\nསྒྲོལ་མ་ནི་ཉལ་གི་མེད།",
+      "textWylie": "pad-ma ni rtse-gi-yod.\npad-ma ni rtse-gi-yod-dam.\npad-ma ni rtse-gi-yod.\n\nbstan-'dzin dang pad-ma ni rtse-gi-yod.\n\npad-ma ni nyal-gi-med.\nsgrol-ma ni nyal-gi-med.",
+      "lineTranslations": [
+        "Padma is playing.",
+        "Is Padma playing?",
+        "Padma is playing.",
+        "",
+        "Tenzin and Padma are playing.",
+        "",
+        "Padma is not sleeping.",
+        "Drolma is not sleeping."
+      ],
+      "words": [
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "རྩེ་གི་ཡོད",
+          "wylie": "rtse-gi-yod",
+          "phonetics": "tse-gi-yö",
+          "meaning": "is playing"
+        },
+        {
+          "tibetan": "རྩེ་གི་ཡོད་དམ",
+          "wylie": "rtse-gi-yod-dam",
+          "phonetics": "tse-gi-yö-dam",
+          "meaning": "is playing? (question)"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        },
+        {
+          "tibetan": "ཉལ་གི་མེད",
+          "wylie": "nyal-gi-med",
+          "phonetics": "nyal-gi-mé",
+          "meaning": "is not sleeping"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩེ་གི་ཡོད",
+            "wylie": "rtse-gi-yod",
+            "phonetics": "tse-gi-yö",
+            "meaning": "is playing"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩེ་གི་ཡོད་དམ",
+            "wylie": "rtse-gi-yod-dam",
+            "phonetics": "tse-gi-yö-dam",
+            "meaning": "is playing? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩེ་གི་ཡོད",
+            "wylie": "rtse-gi-yod",
+            "phonetics": "tse-gi-yö",
+            "meaning": "is playing"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྩེ་གི་ཡོད",
+            "wylie": "rtse-gi-yod",
+            "phonetics": "tse-gi-yö",
+            "meaning": "is playing"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་མེད",
+            "wylie": "nyal-gi-med",
+            "phonetics": "nyal-gi-mé",
+            "meaning": "is not sleeping"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "སྒྲོལ་མ་སྐྱིད་པོ་ཡིན།",
+      "titleTransliteration": "sgrol-ma skyid-po yin.",
+      "titleEnglish": "Drolma is happy",
+      "textTibetan": "དེ་ནས་པདྨ་ནི་ཉལ་གི་ཡོད།\nཔདྨ་ནི་ཉལ་གི་ཡོད་དམ།\nཔདྨ་ནི་ཉལ་གི་ཡོད།\n\nསྒྲོལ་མ་ནི་ཉལ་གི་ཡོད།\nསྒྲོལ་མ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nསྒྲོལ་མ་ནི་སྐྱིད་པོ་ཡིན།\n\nསྒྲོལ་མ་དང་པདྨ་དང་བསྟན་འཛིན་ནི་སྐྱིད་པོ་ཡིན།",
+      "textWylie": "de-nas pad-ma ni nyal-gi-yod.\npad-ma ni nyal-gi-yod-dam.\npad-ma ni nyal-gi-yod.\n\nsgrol-ma ni nyal-gi-yod.\nsgrol-ma ni skyid-po yin-nam.\nsgrol-ma ni skyid-po yin.\n\nsgrol-ma dang pad-ma dang bstan-'dzin ni skyid-po yin.",
+      "lineTranslations": [
+        "Then Padma is sleeping.",
+        "Is Padma sleeping?",
+        "Padma is sleeping.",
+        "",
+        "Drolma is sleeping.",
+        "Is Drolma happy?",
+        "Drolma is happy.",
+        "",
+        "Drolma, Padma, and Tenzin are happy."
+      ],
+      "words": [
+        {
+          "tibetan": "དེ་ནས",
+          "wylie": "de-nas",
+          "phonetics": "de-né",
+          "meaning": "then"
+        },
+        {
+          "tibetan": "པདྨ",
+          "wylie": "pad-ma",
+          "phonetics": "pe-ma",
+          "meaning": "Padma"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "ཉལ་གི་ཡོད",
+          "wylie": "nyal-gi-yod",
+          "phonetics": "nyal-gi-yö",
+          "meaning": "is sleeping"
+        },
+        {
+          "tibetan": "ཉལ་གི་ཡོད་དམ",
+          "wylie": "nyal-gi-yod-dam",
+          "phonetics": "nyal-gi-yö-dam",
+          "meaning": "is sleeping? (question)"
+        },
+        {
+          "tibetan": "སྒྲོལ་མ",
+          "wylie": "sgrol-ma",
+          "phonetics": "drol-ma",
+          "meaning": "Drolma"
+        },
+        {
+          "tibetan": "སྐྱིད་པོ",
+          "wylie": "skyid-po",
+          "phonetics": "kyi-po",
+          "meaning": "happy"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "དང",
+          "wylie": "dang",
+          "phonetics": "dang",
+          "meaning": "and"
+        },
+        {
+          "tibetan": "བསྟན་འཛིན",
+          "wylie": "bstan-'dzin",
+          "phonetics": "ten-dzin",
+          "meaning": "Tenzin"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "དེ་ནས",
+            "wylie": "de-nas",
+            "phonetics": "de-né",
+            "meaning": "then"
+          },
+          "་",
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད",
+            "wylie": "nyal-gi-yod",
+            "phonetics": "nyal-gi-yö",
+            "meaning": "is sleeping"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད་དམ",
+            "wylie": "nyal-gi-yod-dam",
+            "phonetics": "nyal-gi-yö-dam",
+            "meaning": "is sleeping? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད",
+            "wylie": "nyal-gi-yod",
+            "phonetics": "nyal-gi-yö",
+            "meaning": "is sleeping"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཉལ་གི་ཡོད",
+            "wylie": "nyal-gi-yod",
+            "phonetics": "nyal-gi-yö",
+            "meaning": "is sleeping"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "སྒྲོལ་མ",
+            "wylie": "sgrol-ma",
+            "phonetics": "drol-ma",
+            "meaning": "Drolma"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "པདྨ",
+            "wylie": "pad-ma",
+            "phonetics": "pe-ma",
+            "meaning": "Padma"
+          },
+          "་",
+          {
+            "tibetan": "དང",
+            "wylie": "dang",
+            "phonetics": "dang",
+            "meaning": "and"
+          },
+          "་",
+          {
+            "tibetan": "བསྟན་འཛིན",
+            "wylie": "bstan-'dzin",
+            "phonetics": "ten-dzin",
+            "meaning": "Tenzin"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སྐྱིད་པོ",
+            "wylie": "skyid-po",
+            "phonetics": "kyi-po",
+            "meaning": "happy"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    }
+  ]
+}

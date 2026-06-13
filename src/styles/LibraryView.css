@@ -1,0 +1,133 @@
+/* Styles specific to LibraryView.jsx (sort/filter controls and story table). */
+
+.library-view {
+  flex: 1;
+  padding: 2rem 1rem;
+  overflow-y: auto;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.sort-controls {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.sort-label {
+  color: #888;
+  font-size: 0.9rem;
+  margin-right: 0.25rem;
+}
+
+.series-filter {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  background-color: #333;
+  border: 1px solid #444;
+  color: #aaa;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+  background-color: #444;
+  border-color: #555;
+  color: #fff;
+}
+
+.filter-btn.active {
+  background-color: #c9302c;
+  color: #fff;
+  border-color: #c9302c;
+}
+
+.stories-table {
+  border: 1px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table-header {
+  display: grid;
+  grid-template-columns: 80px 1fr 120px;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #252525;
+  border-bottom: 1px solid #333;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #888;
+}
+
+.table-row {
+  display: grid;
+  grid-template-columns: 80px 1fr 120px;
+  gap: 1rem;
+  padding: 1rem;
+  border-bottom: 1px solid #333;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.table-row:hover {
+  background-color: #252525;
+}
+
+.table-row:last-child {
+  border-bottom: none;
+}
+
+.table-cell {
+  display: flex;
+  align-items: center;
+}
+
+.series-col {
+  justify-content: center;
+}
+
+.title-col {
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.words-col {
+  text-align: right;
+  font-weight: 600;
+  color: #fff;
+}
+
+.series-badge {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  border: 2px solid #444;
+}
+
+.story-title {
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.story-subtitle {
+  color: #888;
+  font-size: 0.8rem;
+}

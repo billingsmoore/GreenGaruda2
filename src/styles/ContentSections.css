@@ -1,0 +1,123 @@
+/*
+ * Reusable "content page" building blocks shared across Library, Home and
+ * Start Here: page header blocks, boxed sections, and the demo/closing
+ * sections used on Home and Start Here.
+ */
+
+.library-header {
+  margin-bottom: 2rem;
+}
+
+.library-header h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: #fff;
+}
+
+.library-description {
+  color: #aaa;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  padding: 1rem;
+  background-color: #252525;
+  border-radius: 6px;
+}
+
+.series-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.series-card {
+  background-color: #252525;
+  border: 1px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.2s ease;
+}
+
+.series-card:hover {
+  border-color: #c9302c;
+}
+
+.series-card-image {
+  height: 100px;
+  background-size: cover;
+  background-position: center;
+}
+
+.series-card-body {
+  padding: 1rem;
+}
+
+.series-card-body h4 {
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 0.35rem;
+}
+
+.series-card-body p {
+  color: #888;
+  font-size: 0.85rem;
+}
+
+.philosophy-section,
+.start-here-section,
+.closing-section {
+  background-color: #252525;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.philosophy-section h3,
+.series-section h3,
+.demo-section h3,
+.start-here-section h3,
+.closing-section h3 {
+  color: #fff;
+  font-size: 1.3rem;
+  margin-bottom: 0.75rem;
+}
+
+.philosophy-section p,
+.start-here-section p,
+.closing-section p {
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.demo-section {
+  background-color: #252525;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.demo-section p {
+  color: #ccc;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.demo-text {
+  font-size: 1.3rem;
+}
+
+.closing-section {
+  text-align: center;
+}
+
+.closing-section p {
+  margin-bottom: 1rem;
+}
+
+.closing-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
