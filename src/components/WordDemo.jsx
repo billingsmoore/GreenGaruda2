@@ -1,10 +1,22 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import '../styles/WordInteraction.css';
 
 const WordDemo = ({ lines, lineTranslations }) => {
   const [selected, setSelected] = useState(null);
   const [tooltipMode, setTooltipMode] = useState('word');
   const selectedWord = selected ? lines[selected.lineIdx][selected.tokenIdx] : null;
+  const tooltipRef = useRef(null);
+
+  useEffect(() => {
+    if (!selected) return;
+    const handleClickOutside = (e) => {
+      if (tooltipRef.current && !tooltipRef.current.contains(e.target) && !e.target.closest('.story-word')) {
+        setSelected(null);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [selected]);
 
   const handleWordClick = (lineIdx, tokenIdx, token) => {
     if (selected?.lineIdx === lineIdx && selected?.tokenIdx === tokenIdx) {
@@ -51,7 +63,7 @@ const WordDemo = ({ lines, lineTranslations }) => {
       </div>
 
       {selectedWord && (
-        <div className="word-tooltip">
+        <div className="word-tooltip" ref={tooltipRef}>
           <div className="tooltip-content">
             {tooltipMode === 'sentence' ? (
               <>

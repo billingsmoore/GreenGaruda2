@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import '../styles/WordInteraction.css';
 import '../styles/StoryView.css';
 
@@ -6,6 +6,19 @@ const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNaviga
   const [tooltipMode, setTooltipMode] = useState('word');
   const [chapterIndex, setChapterIndex] = useState(0);
   const [selectedLevel, setSelectedLevel] = useState(0);
+  const tooltipRef = useRef(null);
+
+  useEffect(() => {
+    if (!selectedWord) return;
+    const handleClickOutside = (e) => {
+      if (tooltipRef.current && !tooltipRef.current.contains(e.target) && !e.target.closest('.story-word')) {
+        onWordClick(null);
+        setTooltipMode('word');
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [selectedWord, onWordClick]);
 
   useEffect(() => {
     setChapterIndex(Array.isArray(story.chapters) && story.chapters.length > 0 ? -1 : 0);
@@ -179,7 +192,7 @@ const StoryView = ({ story, stories, selectedWord, onWordClick, onBack, onNaviga
           </div>
 
           {!showingToc && selectedWord && (
-            <div className="word-tooltip">
+            <div className="word-tooltip" ref={tooltipRef}>
               <div className="tooltip-content">
                 {tooltipMode === 'sentence' ? (
                   <>
