@@ -66,7 +66,8 @@
 
 .philosophy-section,
 .start-here-section,
-.closing-section {
+.closing-section,
+.attribution-section {
   background-color: #252525;
   border-radius: 8px;
   padding: 1.5rem;
@@ -77,7 +78,8 @@
 .series-section h3,
 .demo-section h3,
 .start-here-section h3,
-.closing-section h3 {
+.closing-section h3,
+.attribution-section h3 {
   color: #fff;
   font-size: 1.3rem;
   margin-bottom: 0.75rem;
@@ -85,9 +87,19 @@
 
 .philosophy-section p,
 .start-here-section p,
-.closing-section p {
+.closing-section p,
+.attribution-section p {
   color: #ccc;
   line-height: 1.6;
+}
+
+.attribution-section p + p {
+  margin-top: 0.75rem;
+}
+
+.attribution-section a {
+  color: #e0e0e0;
+  text-decoration: underline;
 }
 
 .demo-section {

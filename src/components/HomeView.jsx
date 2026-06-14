@@ -60,6 +60,22 @@ const HomeView = ({ stories, onNavigate }) => {
         <WordDemo lines={demoSentence.lines} lineTranslations={demoSentence.lineTranslations} />
       </section>
 
+      <section className="attribution-section">
+        <h3>Acknowledgements</h3>
+        <p>
+          The stories on this site are Tibetan-language adaptations of the public domain content
+          created by <a href="https://www.amarahasa.com" target="_blank" rel="noreferrer">Amarahasa</a>.
+          Amarahasa produces beautifully crafted beginner reading material for Sanskrit and Pali
+          learners, freely available for reuse. We are grateful for their generosity in releasing
+          that work to the public domain, which made this Tibetan adaptation possible.
+        </p>
+        <p>
+          If you are interested in learning Sanskrit or Pali through the same story-based approach,
+          we highly recommend visiting{' '}
+          <a href="https://www.amarahasa.com" target="_blank" rel="noreferrer">amarahasa.com</a>.
+        </p>
+      </section>
+
       <section className="closing-section">
         <h3>New Here?</h3>
         <p>
