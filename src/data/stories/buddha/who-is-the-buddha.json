@@ -4,33 +4,21 @@
   "titleTransliteration": "sangs-rgyas ni su yin.",
   "titleEnglish": "Who is the Buddha?",
   "description": "Who is the Buddha, and who are his family members?",
-  "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
+  "image": "https://en.amarahasa.com/static/images/bu/buddha.jpg",
   "series": "The Life of the Buddha",
-  "uniqueWords": 23,
+  "uniqueWords": 17,
   "chapters": [
     {
       "title": "སངས་རྒྱས་ནི་དགེ་སློང་ཡིན།",
       "titleTransliteration": "sangs-rgyas ni dge-slong yin.",
       "titleEnglish": "The Buddha is a monk",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=400&fit=crop",
-      "textTibetan": "སངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་མིན།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།",
-      "textWylie": "sangs-rgyas ni dge-slong yin.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.\n\nsangs-rgyas ni dge-slong yin-nam.\nsangs-rgyas ni dge-slong yin.\n\nsangs-rgyas ni rgyal-po yin-nam.\nsangs-rgyas ni rgyal-po min.\nsangs-rgyas ni dge-slong yin.\n\nsangs-rgyas ni chen-po yin-nam.\nsangs-rgyas ni chen-po'i dge-slong yin-nam.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.",
+      "image": "https://en.amarahasa.com/static/images/bu/buddha.jpg",
+      "textTibetan": "སངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།",
+      "textWylie": "sangs-rgyas ni dge-slong yin.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.",
       "lineTranslations": [
-        "Buddha is a monk.",
-        "Buddha is great.",
-        "Buddha is a great monk.",
-        "",
-        "Is Buddha a monk?",
-        "Buddha is a monk.",
-        "",
-        "Is Buddha a king?",
-        "Buddha is not a king.",
-        "Buddha is a monk.",
-        "",
-        "Is Buddha great?",
-        "Is Buddha a great monk?",
-        "Buddha is great.",
-        "Buddha is a great monk."
+        "The Buddha is a monk.",
+        "The Buddha is great.",
+        "The Buddha is a great monk."
       ],
       "words": [
         {
@@ -62,24 +50,6 @@
           "wylie": "chen-po",
           "phonetics": "chen-po",
           "meaning": "great"
-        },
-        {
-          "tibetan": "རྒྱལ་པོ",
-          "wylie": "rgyal-po",
-          "phonetics": "gyal-po",
-          "meaning": "king"
-        },
-        {
-          "tibetan": "མིན",
-          "wylie": "min",
-          "phonetics": "min",
-          "meaning": "not"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
         }
       ],
       "lines": [
@@ -110,293 +80,6 @@
             "wylie": "yin",
             "phonetics": "yin",
             "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "great"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "great"
-          },
-          "འི་",
-          {
-            "tibetan": "དགེ་སློང",
-            "wylie": "dge-slong",
-            "phonetics": "ge-long",
-            "meaning": "monk"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "དགེ་སློང",
-            "wylie": "dge-slong",
-            "phonetics": "ge-long",
-            "meaning": "monk"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "དགེ་སློང",
-            "wylie": "dge-slong",
-            "phonetics": "ge-long",
-            "meaning": "monk"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
-          },
-          "་",
-          {
-            "tibetan": "མིན",
-            "wylie": "min",
-            "phonetics": "min",
-            "meaning": "not"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "དགེ་སློང",
-            "wylie": "dge-slong",
-            "phonetics": "ge-long",
-            "meaning": "monk"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "great"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "great"
-          },
-          "འི་",
-          {
-            "tibetan": "དགེ་སློང",
-            "wylie": "dge-slong",
-            "phonetics": "ge-long",
-            "meaning": "monk"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
           },
           "།"
         ],
@@ -473,23 +156,34 @@
       "title": "ཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།",
       "titleTransliteration": "tsu-do-dan ni rgyal-po yin.",
       "titleEnglish": "Śuddhodana is a king",
-      "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=400&fit=crop",
-      "textTibetan": "ཙུད་དོ་དན་ནི་དགེ་སློང་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་དགེ་སློང་མིན།\nཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།\n\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོའི་བུ་ཡིན།",
-      "textWylie": "tsu-do-dan ni dge-slong yin-nam.\ntsu-do-dan ni dge-slong min.\ntsu-do-dan ni rgyal-po yin.\n\nsangs-rgyas ni tsu-do-dan gi bu yin.\nsangs-rgyas ni rgyal-po'i bu yin.",
+      "image": "https://en.amarahasa.com/static/images/bu/shuddh.jpg",
+      "textTibetan": "སངས་རྒྱས་ནི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་མིན།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན་ནམ།\nསངས་རྒྱས་ནི་ཆེན་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\n\nཙུད་དོ་དན་ནི་དགེ་སློང་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་དགེ་སློང་མིན།\nཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་ཆེན་པོའི་རྒྱལ་པོ་ཡིན་ནམ།\nཙུད་དོ་དན་ནི་ཆེན་པོའི་རྒྱལ་པོ་ཡིན།\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོའི་བུ་ཡིན།",
+      "textWylie": "sangs-rgyas ni dge-slong yin-nam.\nsangs-rgyas ni dge-slong yin.\nsangs-rgyas ni rgyal-po yin-nam.\nsangs-rgyas ni rgyal-po min.\nsangs-rgyas ni dge-slong yin.\nsangs-rgyas ni chen-po yin-nam.\nsangs-rgyas ni chen-po'i dge-slong yin-nam.\nsangs-rgyas ni chen-po yin.\nsangs-rgyas ni chen-po'i dge-slong yin.\n\ntsu-do-dan ni dge-slong yin-nam.\ntsu-do-dan ni dge-slong min.\ntsu-do-dan ni rgyal-po yin.\ntsu-do-dan ni chen-po'i rgyal-po yin-nam.\ntsu-do-dan ni chen-po'i rgyal-po yin.\nsangs-rgyas ni tsu-do-dan gi bu yin.\nsangs-rgyas ni rgyal-po'i bu yin.",
       "lineTranslations": [
+        "Is the Buddha a monk?",
+        "The Buddha is a monk.",
+        "Is the Buddha a king?",
+        "The Buddha is not a king.",
+        "The Buddha is a monk.",
+        "Is the Buddha great?",
+        "Is the Buddha a great monk?",
+        "The Buddha is great.",
+        "The Buddha is a great monk.",
+        "",
         "Is Śuddhodana a monk?",
         "Śuddhodana is not a monk.",
         "Śuddhodana is a king.",
-        "",
-        "Buddha is Śuddhodana's son.",
-        "Buddha is the king's son."
+        "Is Śuddhodana a great king?",
+        "Śuddhodana is a great king.",
+        "The Buddha is Śuddhodana's son.",
+        "The Buddha is the king's son."
       ],
       "words": [
         {
-          "tibetan": "ཙུད་དོ་དན",
-          "wylie": "tsu-do-dan",
-          "phonetics": "tsu-do-den",
-          "meaning": "Śuddhodana"
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
         },
         {
           "tibetan": "ནི",
@@ -510,10 +204,10 @@
           "meaning": "is it? (question)"
         },
         {
-          "tibetan": "མིན",
-          "wylie": "min",
-          "phonetics": "min",
-          "meaning": "not"
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
         },
         {
           "tibetan": "རྒྱལ་པོ",
@@ -522,16 +216,22 @@
           "meaning": "king"
         },
         {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
         },
         {
-          "tibetan": "སངས་རྒྱས",
-          "wylie": "sangs-rgyas",
-          "phonetics": "sang-gyé",
-          "meaning": "Buddha"
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "great"
+        },
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
         },
         {
           "tibetan": "གི",
@@ -547,6 +247,291 @@
         }
       ],
       "lines": [
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
         [
           {
             "tibetan": "ཙུད་དོ་དན",
@@ -637,7 +622,80 @@
           },
           "།"
         ],
-        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
         [
           {
             "tibetan": "སངས་རྒྱས",
@@ -725,26 +783,45 @@
       "title": "མ་ཡ་ནི་རྒྱལ་མོ་ཡིན།",
       "titleTransliteration": "ma-ya ni rgyal-mo yin.",
       "titleEnglish": "Māyā is a queen",
-      "textTibetan": "མ་ཡ་ནི་རྒྱལ་མོ་ཡིན།\nམ་ཡ་ནི་ཡུམ་ཡིན།\nམ་ཡ་ནི་ཡུམ་ཆེན་མོ་ཡིན།\n\nམ་ཡ་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nམ་ཡ་ནི་རྒྱལ་པོ་མིན།\nམ་ཡ་ནི་རྒྱལ་མོ་ཡིན།\n\nསངས་རྒྱས་ནི་མ་ཡའི་བུ་ཡིན།\nམ་ཡ་ནི་སངས་རྒྱས་གི་ཡུམ་ཡིན།",
-      "textWylie": "ma-ya ni rgyal-mo yin.\nma-ya ni yum yin.\nma-ya ni yum chen-mo yin.\n\nma-ya ni rgyal-po yin-nam.\nma-ya ni rgyal-po min.\nma-ya ni rgyal-mo yin.\n\nsangs-rgyas ni ma-ya'i bu yin.\nma-ya ni sangs-rgyas gi yum yin.",
+      "image": "https://en.amarahasa.com/static/images/bu/maya.jpg",
+      "textTibetan": "སངས་རྒྱས་ནི་སུ་ཡིན།\nསངས་རྒྱས་ནི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\n\nཙུད་དོ་དན་ནི་སུ་ཡིན།\nཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།\nཙུད་དོ་དན་ནི་ཆེན་པོའི་རྒྱལ་པོ་ཡིན།\nཙུད་དོ་དན་གི་བུ་ཡིན་ནམ།\nཙུད་དོ་དན་གི་བུ་ཡིན།\nཙུད་དོ་དན་གི་བུ་ནི་སུ་ཡིན།\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\nཙུད་དོ་དན་གི་བུ་ནི་ཆེན་པོ་ཡིན།\nཙུད་དོ་དན་གི་བུ་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\n\nམ་ཡ་ནི་སུ་ཡིན།\nམ་ཡ་ནི་དགེ་སློང་མ་ཡིན་ནམ།\nམ་ཡ་ནི་དགེ་སློང་མ་མིན།\nམ་ཡ་ནི་རྒྱལ་མོ་ཡིན།\nམ་ཡ་ནི་ཙུད་དོ་དན་གི་རྒྱལ་མོ་ཡིན།\nམ་ཡའི་བུ་ཡིན་ནམ།\nམ་ཡའི་བུ་ཡིན།\nམ་ཡའི་བུ་ནི་སུ་ཡིན།\nསངས་རྒྱས་ནི་མ་ཡའི་བུ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་མོའི་བུ་ཡིན།\nསངས་རྒྱས་ནི་མ་ཡའི་ཆེན་པོའི་བུ་ཡིན།\nརྒྱལ་མོའི་བུ་ནི་ཆེན་པོ་ཡིན།\nརྒྱལ་མོའི་བུ་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།",
+      "textWylie": "sangs-rgyas ni su yin.\nsangs-rgyas ni dge-slong yin.\nsangs-rgyas ni chen-po'i dge-slong yin.\nsangs-rgyas ni tsu-do-dan gi bu yin.\n\ntsu-do-dan ni su yin.\ntsu-do-dan ni rgyal-po yin.\ntsu-do-dan ni chen-po'i rgyal-po yin.\ntsu-do-dan gi bu yin-nam.\ntsu-do-dan gi bu yin.\ntsu-do-dan gi bu ni su yin.\nsangs-rgyas ni tsu-do-dan gi bu yin.\ntsu-do-dan gi bu ni chen-po yin.\ntsu-do-dan gi bu ni chen-po'i dge-slong yin.\n\nma-ya ni su yin.\nma-ya ni dge-slong-ma yin-nam.\nma-ya ni dge-slong-ma min.\nma-ya ni rgyal-mo yin.\nma-ya ni tsu-do-dan gi rgyal-mo yin.\nma-ya'i bu yin-nam.\nma-ya'i bu yin.\nma-ya'i bu ni su yin.\nsangs-rgyas ni ma-ya'i bu yin.\nsangs-rgyas ni rgyal-mo'i bu yin.\nsangs-rgyas ni ma-ya'i chen-po'i bu yin.\nrgyal-mo'i bu ni chen-po yin.\nrgyal-mo'i bu ni chen-po'i dge-slong yin.",
       "lineTranslations": [
-        "Māyā is a queen.",
-        "Māyā is a mother.",
-        "Māyā is a great mother.",
+        "Who is the Buddha?",
+        "The Buddha is a monk.",
+        "The Buddha is a great monk.",
+        "The Buddha is Śuddhodana's son.",
         "",
-        "Is Māyā a king?",
-        "Māyā is not a king.",
-        "Māyā is a queen.",
+        "Who is Śuddhodana?",
+        "Śuddhodana is a king.",
+        "Śuddhodana is a great king.",
+        "Is he Śuddhodana's son?",
+        "He is Śuddhodana's son.",
+        "Who is Śuddhodana's son?",
+        "The Buddha is Śuddhodana's son.",
+        "Śuddhodana's son is great.",
+        "Śuddhodana's son is a great monk.",
         "",
-        "Buddha is Māyā's son.",
-        "Māyā is Buddha's mother."
+        "Who is Māyā?",
+        "Is Māyā a nun?",
+        "Māyā is not a nun.",
+        "Māyā is a queen.",
+        "Māyā is Śuddhodana's queen.",
+        "Is he Māyā's son?",
+        "He is Māyā's son.",
+        "Who is Māyā's son?",
+        "The Buddha is Māyā's son.",
+        "The Buddha is the queen's son.",
+        "The Buddha is Māyā's great son.",
+        "The queen's son is great.",
+        "The queen's son is a great monk."
       ],
       "words": [
         {
-          "tibetan": "མ་ཡ",
-          "wylie": "ma-ya",
-          "phonetics": "ma-ya",
-          "meaning": "Māyā"
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
         },
         {
           "tibetan": "ནི",
@@ -753,10 +830,10 @@
           "meaning": "topic marker"
         },
         {
-          "tibetan": "རྒྱལ་མོ",
-          "wylie": "rgyal-mo",
-          "phonetics": "gyal-mo",
-          "meaning": "queen"
+          "tibetan": "སུ",
+          "wylie": "su",
+          "phonetics": "su",
+          "meaning": "who"
         },
         {
           "tibetan": "ཡིན",
@@ -765,40 +842,22 @@
           "meaning": "is"
         },
         {
-          "tibetan": "ཡུམ",
-          "wylie": "yum",
-          "phonetics": "yum",
-          "meaning": "mother (honorific)"
+          "tibetan": "དགེ་སློང",
+          "wylie": "dge-slong",
+          "phonetics": "ge-long",
+          "meaning": "monk"
         },
         {
-          "tibetan": "ཆེན་མོ",
-          "wylie": "chen-mo",
-          "phonetics": "chen-mo",
-          "meaning": "great (feminine)"
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "great"
         },
         {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "མིན",
-          "wylie": "min",
-          "phonetics": "min",
-          "meaning": "not"
-        },
-        {
-          "tibetan": "རྒྱལ་པོ",
-          "wylie": "rgyal-po",
-          "phonetics": "gyal-po",
-          "meaning": "king"
-        },
-        {
-          "tibetan": "སངས་རྒྱས",
-          "wylie": "sangs-rgyas",
-          "phonetics": "sang-gyé",
-          "meaning": "Buddha"
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
         },
         {
           "tibetan": "གི",
@@ -811,15 +870,51 @@
           "wylie": "bu",
           "phonetics": "bu",
           "meaning": "son"
+        },
+        {
+          "tibetan": "རྒྱལ་པོ",
+          "wylie": "rgyal-po",
+          "phonetics": "gyal-po",
+          "meaning": "king"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "མ་ཡ",
+          "wylie": "ma-ya",
+          "phonetics": "ma-ya",
+          "meaning": "Māyā"
+        },
+        {
+          "tibetan": "དགེ་སློང་མ",
+          "wylie": "dge-slong-ma",
+          "phonetics": "ge-long-ma",
+          "meaning": "nun"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "རྒྱལ་མོ",
+          "wylie": "rgyal-mo",
+          "phonetics": "gyal-mo",
+          "meaning": "queen"
         }
       ],
       "lines": [
         [
           {
-            "tibetan": "མ་ཡ",
-            "wylie": "ma-ya",
-            "phonetics": "ma-ya",
-            "meaning": "Māyā"
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
           },
           "་",
           {
@@ -830,10 +925,10 @@
           },
           "་",
           {
-            "tibetan": "རྒྱལ་མོ",
-            "wylie": "rgyal-mo",
-            "phonetics": "gyal-mo",
-            "meaning": "queen"
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
           },
           "་",
           {
@@ -846,10 +941,10 @@
         ],
         [
           {
-            "tibetan": "མ་ཡ",
-            "wylie": "ma-ya",
-            "phonetics": "ma-ya",
-            "meaning": "Māyā"
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
           },
           "་",
           {
@@ -860,10 +955,10 @@
           },
           "་",
           {
-            "tibetan": "ཡུམ",
-            "wylie": "yum",
-            "phonetics": "yum",
-            "meaning": "mother (honorific)"
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
           },
           "་",
           {
@@ -876,10 +971,10 @@
         ],
         [
           {
-            "tibetan": "མ་ཡ",
-            "wylie": "ma-ya",
-            "phonetics": "ma-ya",
-            "meaning": "Māyā"
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
           },
           "་",
           {
@@ -890,17 +985,402 @@
           },
           "་",
           {
-            "tibetan": "ཡུམ",
-            "wylie": "yum",
-            "phonetics": "yum",
-            "meaning": "mother (honorific)"
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
           },
           "་",
           {
-            "tibetan": "ཆེན་མོ",
-            "wylie": "chen-mo",
-            "phonetics": "chen-mo",
-            "meaning": "great (feminine)"
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
           },
           "་",
           {
@@ -928,10 +1408,40 @@
           },
           "་",
           {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང་མ",
+            "wylie": "dge-slong-ma",
+            "phonetics": "ge-long-ma",
+            "meaning": "nun"
           },
           "་",
           {
@@ -958,10 +1468,10 @@
           },
           "་",
           {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
+            "tibetan": "དགེ་སློང་མ",
+            "wylie": "dge-slong-ma",
+            "phonetics": "ge-long-ma",
+            "meaning": "nun"
           },
           "་",
           {
@@ -1002,7 +1512,133 @@
           },
           "།"
         ],
-        [],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
         [
           {
             "tibetan": "སངས་རྒྱས",
@@ -1042,6 +1678,608 @@
         ],
         [
           {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ]
+      ]
+    },
+    {
+      "title": "ཡ་ཤོ་ཊ་ར་ནི་དགེ་སློང་མ་ཡིན།",
+      "titleTransliteration": "ya-sho-Ta-ra ni dge-slong-ma yin.",
+      "titleEnglish": "Yaśodharā is a nun",
+      "image": "https://en.amarahasa.com/static/images/bu/yashodhara.jpg",
+      "textTibetan": "སངས་རྒྱས་ནི་སུ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nསངས་རྒྱས་ནི་རྒྱལ་པོ་མིན།\nསངས་རྒྱས་ནི་ཆེན་པོའི་དགེ་སློང་ཡིན།\nསངས་རྒྱས་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན།\n\nཙུད་དོ་དན་ནི་སུ་ཡིན།\nཙུད་དོ་དན་ནི་རྒྱལ་པོ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་པོའི་བུ་ཡིན།\nསངས་རྒྱས་ནི་མ་ཡའི་བུ་ཡིན།\n\nམ་ཡ་ནི་སུ་ཡིན།\nམ་ཡ་ནི་རྒྱལ་མོ་ཡིན།\nསངས་རྒྱས་ནི་རྒྱལ་མོའི་བུ་ཡིན།\n\nཡ་ཤོ་ཊ་ར་ནི་སུ་ཡིན།\nཡ་ཤོ་ཊ་ར་ནི་རྒྱལ་མོ་ཡིན་ནམ།\nཡ་ཤོ་ཊ་ར་ནི་རྒྱལ་མོ་མིན།\nཡ་ཤོ་ཊ་ར་ནི་དགེ་སློང་མ་ཡིན་ནམ།\nཡ་ཤོ་ཊ་ར་ནི་དགེ་སློང་མ་ཡིན།\nཡ་ཤོ་ཊ་རའི་བུ་ཡིན་ནམ།\nཡ་ཤོ་ཊ་རའི་བུ་ནི་སུ་ཡིན།\nདགེ་སློང་མའི་བུ་ནི་སུ་ཡིན།",
+      "textWylie": "sangs-rgyas ni su yin.\nsangs-rgyas ni rgyal-po yin-nam.\nsangs-rgyas ni rgyal-po min.\nsangs-rgyas ni chen-po'i dge-slong yin.\nsangs-rgyas ni tsu-do-dan gi bu yin.\n\ntsu-do-dan ni su yin.\ntsu-do-dan ni rgyal-po yin.\nsangs-rgyas ni rgyal-po'i bu yin.\nsangs-rgyas ni ma-ya'i bu yin.\n\nma-ya ni su yin.\nma-ya ni rgyal-mo yin.\nsangs-rgyas ni rgyal-mo'i bu yin.\n\nya-sho-Ta-ra ni su yin.\nya-sho-Ta-ra ni rgyal-mo yin-nam.\nya-sho-Ta-ra ni rgyal-mo min.\nya-sho-Ta-ra ni dge-slong-ma yin-nam.\nya-sho-Ta-ra ni dge-slong-ma yin.\nya-sho-Ta-ra'i bu yin-nam.\nya-sho-Ta-ra'i bu ni su yin.\ndge-slong-ma'i bu ni su yin.",
+      "lineTranslations": [
+        "Who is the Buddha?",
+        "Is the Buddha a king?",
+        "The Buddha is not a king.",
+        "The Buddha is a great monk.",
+        "The Buddha is Śuddhodana's son.",
+        "",
+        "Who is Śuddhodana?",
+        "Śuddhodana is a king.",
+        "The Buddha is the king's son.",
+        "The Buddha is Māyā's son.",
+        "",
+        "Who is Māyā?",
+        "Māyā is a queen.",
+        "The Buddha is the queen's son.",
+        "",
+        "Who is Yaśodharā?",
+        "Is Yaśodharā a queen?",
+        "Yaśodharā is not a queen.",
+        "Is Yaśodharā a nun?",
+        "Yaśodharā is a nun.",
+        "Is he Yaśodharā's son?",
+        "Who is Yaśodharā's son?",
+        "Who is the nun's son?"
+      ],
+      "words": [
+        {
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
+        },
+        {
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སུ",
+          "wylie": "su",
+          "phonetics": "su",
+          "meaning": "who"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "རྒྱལ་པོ",
+          "wylie": "rgyal-po",
+          "phonetics": "gyal-po",
+          "meaning": "king"
+        },
+        {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
+          "tibetan": "མིན",
+          "wylie": "min",
+          "phonetics": "min",
+          "meaning": "not"
+        },
+        {
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "great"
+        },
+        {
+          "tibetan": "དགེ་སློང",
+          "wylie": "dge-slong",
+          "phonetics": "ge-long",
+          "meaning": "monk"
+        },
+        {
+          "tibetan": "ཙུད་དོ་དན",
+          "wylie": "tsu-do-dan",
+          "phonetics": "tsu-do-den",
+          "meaning": "Śuddhodana"
+        },
+        {
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "བུ",
+          "wylie": "bu",
+          "phonetics": "bu",
+          "meaning": "son"
+        },
+        {
+          "tibetan": "མ་ཡ",
+          "wylie": "ma-ya",
+          "phonetics": "ma-ya",
+          "meaning": "Māyā"
+        },
+        {
+          "tibetan": "རྒྱལ་མོ",
+          "wylie": "rgyal-mo",
+          "phonetics": "gyal-mo",
+          "meaning": "queen"
+        },
+        {
+          "tibetan": "ཡ་ཤོ་ཊ་ར",
+          "wylie": "ya-sho-Ta-ra",
+          "phonetics": "ya-sho-da-ra",
+          "meaning": "Yaśodharā"
+        },
+        {
+          "tibetan": "དགེ་སློང་མ",
+          "wylie": "dge-slong-ma",
+          "phonetics": "ge-long-ma",
+          "meaning": "nun"
+        }
+      ],
+      "lines": [
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "སངས་རྒྱས",
+            "wylie": "sangs-rgyas",
+            "phonetics": "sang-gyé",
+            "meaning": "Buddha"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
             "tibetan": "མ་ཡ",
             "wylie": "ma-ya",
             "phonetics": "ma-ya",
@@ -1056,6 +2294,52 @@
           },
           "་",
           {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "མ་ཡ",
+            "wylie": "ma-ya",
+            "phonetics": "ma-ya",
+            "meaning": "Māyā"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
             "tibetan": "སངས་རྒྱས",
             "wylie": "sangs-rgyas",
             "phonetics": "sang-gyé",
@@ -1063,131 +2347,6 @@
           },
           "་",
           {
-            "tibetan": "གི",
-            "wylie": "gi",
-            "phonetics": "gi",
-            "meaning": "of (possessive)"
-          },
-          "་",
-          {
-            "tibetan": "ཡུམ",
-            "wylie": "yum",
-            "phonetics": "yum",
-            "meaning": "mother (honorific)"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ]
-      ]
-    },
-    {
-      "title": "ཡ་ཤོ་ཊ་ར་ནི་ཆུང་མ་ཡིན།",
-      "titleTransliteration": "ya-sho-Ta-ra ni chung-ma yin.",
-      "titleEnglish": "Yaśodharā is a wife",
-      "textTibetan": "ཡ་ཤོ་ཊ་ར་ནི་ཆུང་མ་ཡིན།\nཡ་ཤོ་ཊ་ར་ནི་དགེ་སློང་མ་ཡིན།\nཡ་ཤོ་ཊ་ར་ནི་དགེ་སློང་མ་ཆེན་མོ་ཡིན།\n\nཡ་ཤོ་ཊ་ར་ནི་རྒྱལ་མོ་ཡིན་ནམ།\nཡ་ཤོ་ཊ་ར་ནི་རྒྱལ་མོ་མིན།\nཡ་ཤོ་ཊ་ར་ནི་ཆུང་མ་ཡིན།\n\nཡ་ཤོ་ཊ་ར་ནི་སངས་རྒྱས་གི་ཆུང་མ་ཡིན།\nསངས་རྒྱས་ནི་ཡ་ཤོ་ཊ་ར་གི་ཁྱོ་ག་ཡིན།",
-      "textWylie": "ya-sho-Ta-ra ni chung-ma yin.\nya-sho-Ta-ra ni dge-slong-ma yin.\nya-sho-Ta-ra ni dge-slong-ma chen-mo yin.\n\nya-sho-Ta-ra ni rgyal-mo yin-nam.\nya-sho-Ta-ra ni rgyal-mo min.\nya-sho-Ta-ra ni chung-ma yin.\n\nya-sho-Ta-ra ni sangs-rgyas gi chung-ma yin.\nsangs-rgyas ni ya-sho-Ta-ra gi khyo-ga yin.",
-      "lineTranslations": [
-        "Yaśodharā is a wife.",
-        "Yaśodharā is a nun.",
-        "Yaśodharā is a great nun.",
-        "",
-        "Is Yaśodharā a queen?",
-        "Yaśodharā is not a queen.",
-        "Yaśodharā is a wife.",
-        "",
-        "Yaśodharā is Buddha's wife.",
-        "Buddha is Yaśodharā's husband."
-      ],
-      "words": [
-        {
-          "tibetan": "ཡ་ཤོ་ཊ་ར",
-          "wylie": "ya-sho-Ta-ra",
-          "phonetics": "ya-sho-da-ra",
-          "meaning": "Yaśodharā"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "ཆུང་མ",
-          "wylie": "chung-ma",
-          "phonetics": "chung-ma",
-          "meaning": "wife"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "དགེ་སློང་མ",
-          "wylie": "dge-slong-ma",
-          "phonetics": "ge-long-ma",
-          "meaning": "nun"
-        },
-        {
-          "tibetan": "ཆེན་མོ",
-          "wylie": "chen-mo",
-          "phonetics": "chen-mo",
-          "meaning": "great (feminine)"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "རྒྱལ་མོ",
-          "wylie": "rgyal-mo",
-          "phonetics": "gyal-mo",
-          "meaning": "queen"
-        },
-        {
-          "tibetan": "མིན",
-          "wylie": "min",
-          "phonetics": "min",
-          "meaning": "not"
-        },
-        {
-          "tibetan": "སངས་རྒྱས",
-          "wylie": "sangs-rgyas",
-          "phonetics": "sang-gyé",
-          "meaning": "Buddha"
-        },
-        {
-          "tibetan": "གི",
-          "wylie": "gi",
-          "phonetics": "gi",
-          "meaning": "of (possessive)"
-        },
-        {
-          "tibetan": "ཁྱོ་ག",
-          "wylie": "khyo-ga",
-          "phonetics": "khyo-ga",
-          "meaning": "husband"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "ཡ་ཤོ་ཊ་ར",
-            "wylie": "ya-sho-Ta-ra",
-            "phonetics": "ya-sho-da-ra",
-            "meaning": "Yaśodharā"
-          },
-          "་",
-          {
             "tibetan": "ནི",
             "wylie": "ni",
             "phonetics": "ni",
@@ -1195,77 +2354,17 @@
           },
           "་",
           {
-            "tibetan": "ཆུང་མ",
-            "wylie": "chung-ma",
-            "phonetics": "chung-ma",
-            "meaning": "wife"
+            "tibetan": "རྒྱལ་མོ",
+            "wylie": "rgyal-mo",
+            "phonetics": "gyal-mo",
+            "meaning": "queen"
           },
-          "་",
+          "འི་",
           {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཡ་ཤོ་ཊ་ར",
-            "wylie": "ya-sho-Ta-ra",
-            "phonetics": "ya-sho-da-ra",
-            "meaning": "Yaśodharā"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "དགེ་སློང་མ",
-            "wylie": "dge-slong-ma",
-            "phonetics": "ge-long-ma",
-            "meaning": "nun"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཡ་ཤོ་ཊ་ར",
-            "wylie": "ya-sho-Ta-ra",
-            "phonetics": "ya-sho-da-ra",
-            "meaning": "Yaśodharā"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "དགེ་སློང་མ",
-            "wylie": "dge-slong-ma",
-            "phonetics": "ge-long-ma",
-            "meaning": "nun"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་མོ",
-            "wylie": "chen-mo",
-            "phonetics": "chen-mo",
-            "meaning": "great (feminine)"
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {
@@ -1277,6 +2376,36 @@
           "།"
         ],
         [],
+        [
+          {
+            "tibetan": "ཡ་ཤོ་ཊ་ར",
+            "wylie": "ya-sho-Ta-ra",
+            "phonetics": "ya-sho-da-ra",
+            "meaning": "Yaśodharā"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
         [
           {
             "tibetan": "ཡ་ཤོ་ཊ་ར",
@@ -1353,21 +2482,20 @@
           },
           "་",
           {
-            "tibetan": "ཆུང་མ",
-            "wylie": "chung-ma",
-            "phonetics": "chung-ma",
-            "meaning": "wife"
+            "tibetan": "དགེ་སློང་མ",
+            "wylie": "dge-slong-ma",
+            "phonetics": "ge-long-ma",
+            "meaning": "nun"
           },
           "་",
           {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
           },
           "།"
         ],
-        [],
         [
           {
             "tibetan": "ཡ་ཤོ་ཊ་ར",
@@ -1384,24 +2512,10 @@
           },
           "་",
           {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "གི",
-            "wylie": "gi",
-            "phonetics": "gi",
-            "meaning": "of (possessive)"
-          },
-          "་",
-          {
-            "tibetan": "ཆུང་མ",
-            "wylie": "chung-ma",
-            "phonetics": "chung-ma",
-            "meaning": "wife"
+            "tibetan": "དགེ་སློང་མ",
+            "wylie": "dge-slong-ma",
+            "phonetics": "ge-long-ma",
+            "meaning": "nun"
           },
           "་",
           {
@@ -1414,10 +2528,40 @@
         ],
         [
           {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
+            "tibetan": "ཡ་ཤོ་ཊ་ར",
+            "wylie": "ya-sho-Ta-ra",
+            "phonetics": "ya-sho-da-ra",
+            "meaning": "Yaśodharā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཡ་ཤོ་ཊ་ར",
+            "wylie": "ya-sho-Ta-ra",
+            "phonetics": "ya-sho-da-ra",
+            "meaning": "Yaśodharā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {
@@ -1428,24 +2572,47 @@
           },
           "་",
           {
-            "tibetan": "ཡ་ཤོ་ཊ་ར",
-            "wylie": "ya-sho-Ta-ra",
-            "phonetics": "ya-sho-da-ra",
-            "meaning": "Yaśodharā"
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
           },
           "་",
           {
-            "tibetan": "གི",
-            "wylie": "gi",
-            "phonetics": "gi",
-            "meaning": "of (possessive)"
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "དགེ་སློང་མ",
+            "wylie": "dge-slong-ma",
+            "phonetics": "ge-long-ma",
+            "meaning": "nun"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {
-            "tibetan": "ཁྱོ་ག",
-            "wylie": "khyo-ga",
-            "phonetics": "khyo-ga",
-            "meaning": "husband"
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
           },
           "་",
           {
@@ -1462,63 +2629,33 @@
       "title": "ར་ཧུ་ལ་ནི་དགེ་སློང་ཡིན།",
       "titleTransliteration": "ra-hu-la ni dge-slong yin.",
       "titleEnglish": "Rāhula is a monk",
-      "textTibetan": "ར་ཧུ་ལ་ནི་དགེ་སློང་ཡིན།\nར་ཧུ་ལ་ནི་ཕྲུ་གུ་ཡིན།\nར་ཧུ་ལ་ནི་སངས་རྒྱས་གི་བུ་ཡིན།\n\nར་ཧུ་ལ་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nར་ཧུ་ལ་ནི་རྒྱལ་པོ་མིན།\nར་ཧུ་ལ་ནི་དགེ་སློང་ཡིན།\n\nསངས་རྒྱས་ནི་ར་ཧུ་ལ་གི་པ་ཡིན།\nཡ་ཤོ་ཊ་ར་ནི་ར་ཧུ་ལ་གི་ཡུམ་ཡིན།\nཙུད་དོ་དན་ནི་ར་ཧུ་ལ་གི་མེས་པོ་ཡིན།",
-      "textWylie": "ra-hu-la ni dge-slong yin.\nra-hu-la ni phru-gu yin.\nra-hu-la ni sangs-rgyas gi bu yin.\n\nra-hu-la ni rgyal-po yin-nam.\nra-hu-la ni rgyal-po min.\nra-hu-la ni dge-slong yin.\n\nsangs-rgyas ni ra-hu-la gi pa yin.\nya-sho-Ta-ra ni ra-hu-la gi yum yin.\ntsu-do-dan ni ra-hu-la gi mes-po yin.",
+      "image": "https://en.amarahasa.com/static/images/bu/rahula.jpg",
+      "textTibetan": "ཡ་ཤོ་ཊ་རའི་བུ་ནི་སུ་ཡིན།\nཡ་ཤོ་ཊ་རའི་བུ་ནི་ར་ཧུ་ལ་ཡིན།\n\nར་ཧུ་ལ་ནི་རྒྱལ་པོ་ཡིན་ནམ།\nར་ཧུ་ལ་ནི་རྒྱལ་པོ་མིན།\nར་ཧུ་ལ་ནི་སུ་ཡིན།\nར་ཧུ་ལ་ནི་དགེ་སློང་ཡིན་ནམ།\nར་ཧུ་ལ་ནི་དགེ་སློང་ཡིན།\nར་ཧུ་ལ་ནི་ཙུད་དོ་དན་གི་བུ་ཡིན་ནམ།\nར་ཧུ་ལ་ནི་ཙུད་དོ་དན་གི་བུ་མིན།\n\nར་ཧུ་ལ་ནི་སུ་ཡིན།\nར་ཧུ་ལ་ནི་སུའི་བུ་ཡིན།\nར་ཧུ་ལ་ནི་སངས་རྒྱས་གི་བུ་ཡིན།\nར་ཧུ་ལ་ནི་དགེ་སློང་གི་བུ་ཡིན།\nར་ཧུ་ལ་ནི་ཆེན་པོའི་དགེ་སློང་གི་བུ་ཡིན།",
+      "textWylie": "ya-sho-Ta-ra'i bu ni su yin.\nya-sho-Ta-ra'i bu ni ra-hu-la yin.\n\nra-hu-la ni rgyal-po yin-nam.\nra-hu-la ni rgyal-po min.\nra-hu-la ni su yin.\nra-hu-la ni dge-slong yin-nam.\nra-hu-la ni dge-slong yin.\nra-hu-la ni tsu-do-dan gi bu yin-nam.\nra-hu-la ni tsu-do-dan gi bu min.\n\nra-hu-la ni su yin.\nra-hu-la ni su'i bu yin.\nra-hu-la ni sangs-rgyas gi bu yin.\nra-hu-la ni dge-slong gi bu yin.\nra-hu-la ni chen-po'i dge-slong gi bu yin.",
       "lineTranslations": [
-        "Rāhula is a monk.",
-        "Rāhula is a child.",
-        "Rāhula is Buddha's son.",
+        "Who is Yaśodharā's son?",
+        "Yaśodharā's son is Rāhula.",
         "",
         "Is Rāhula a king?",
         "Rāhula is not a king.",
+        "Who is Rāhula?",
+        "Is Rāhula a monk?",
         "Rāhula is a monk.",
+        "Is Rāhula Śuddhodana's son?",
+        "Rāhula is not Śuddhodana's son.",
         "",
-        "Buddha is Rāhula's father.",
-        "Yaśodharā is Rāhula's mother.",
-        "Śuddhodana is Rāhula's grandfather."
+        "Who is Rāhula?",
+        "Whose son is Rāhula?",
+        "Rāhula is the Buddha's son.",
+        "Rāhula is a monk's son.",
+        "Rāhula is a great monk's son."
       ],
       "words": [
         {
-          "tibetan": "ར་ཧུ་ལ",
-          "wylie": "ra-hu-la",
-          "phonetics": "ra-hu-la",
-          "meaning": "Rāhula"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "དགེ་སློང",
-          "wylie": "dge-slong",
-          "phonetics": "ge-long",
-          "meaning": "monk"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "ཕྲུ་གུ",
-          "wylie": "phru-gu",
-          "phonetics": "tru-gu",
-          "meaning": "child"
-        },
-        {
-          "tibetan": "སངས་རྒྱས",
-          "wylie": "sangs-rgyas",
-          "phonetics": "sang-gyé",
-          "meaning": "Buddha"
-        },
-        {
-          "tibetan": "གི",
-          "wylie": "gi",
-          "phonetics": "gi",
-          "meaning": "of (possessive)"
+          "tibetan": "ཡ་ཤོ་ཊ་ར",
+          "wylie": "ya-sho-Ta-ra",
+          "phonetics": "ya-sho-da-ra",
+          "meaning": "Yaśodharā"
         },
         {
           "tibetan": "བུ",
@@ -1527,10 +2664,28 @@
           "meaning": "son"
         },
         {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
+          "tibetan": "ནི",
+          "wylie": "ni",
+          "phonetics": "ni",
+          "meaning": "topic marker"
+        },
+        {
+          "tibetan": "སུ",
+          "wylie": "su",
+          "phonetics": "su",
+          "meaning": "who"
+        },
+        {
+          "tibetan": "ཡིན",
+          "wylie": "yin",
+          "phonetics": "yin",
+          "meaning": "is"
+        },
+        {
+          "tibetan": "ར་ཧུ་ལ",
+          "wylie": "ra-hu-la",
+          "phonetics": "ra-hu-la",
+          "meaning": "Rāhula"
         },
         {
           "tibetan": "རྒྱལ་པོ",
@@ -1539,28 +2694,22 @@
           "meaning": "king"
         },
         {
+          "tibetan": "ཡིན་ནམ",
+          "wylie": "yin-nam",
+          "phonetics": "yin-nam",
+          "meaning": "is it? (question)"
+        },
+        {
           "tibetan": "མིན",
           "wylie": "min",
           "phonetics": "min",
           "meaning": "not"
         },
         {
-          "tibetan": "པ",
-          "wylie": "pa",
-          "phonetics": "pa",
-          "meaning": "father"
-        },
-        {
-          "tibetan": "ཡ་ཤོ་ཊ་ར",
-          "wylie": "ya-sho-Ta-ra",
-          "phonetics": "ya-sho-da-ra",
-          "meaning": "Yaśodharā"
-        },
-        {
-          "tibetan": "ཡུམ",
-          "wylie": "yum",
-          "phonetics": "yum",
-          "meaning": "mother (honorific)"
+          "tibetan": "དགེ་སློང",
+          "wylie": "dge-slong",
+          "phonetics": "ge-long",
+          "meaning": "monk"
         },
         {
           "tibetan": "ཙུད་དོ་དན",
@@ -1569,13 +2718,220 @@
           "meaning": "Śuddhodana"
         },
         {
-          "tibetan": "མེས་པོ",
-          "wylie": "mes-po",
-          "phonetics": "mé-po",
-          "meaning": "grandfather"
+          "tibetan": "གི",
+          "wylie": "gi",
+          "phonetics": "gi",
+          "meaning": "of (possessive)"
+        },
+        {
+          "tibetan": "སངས་རྒྱས",
+          "wylie": "sangs-rgyas",
+          "phonetics": "sang-gyé",
+          "meaning": "Buddha"
+        },
+        {
+          "tibetan": "ཆེན་པོ",
+          "wylie": "chen-po",
+          "phonetics": "chen-po",
+          "meaning": "great"
         }
       ],
       "lines": [
+        [
+          {
+            "tibetan": "ཡ་ཤོ་ཊ་ར",
+            "wylie": "ya-sho-Ta-ra",
+            "phonetics": "ya-sho-da-ra",
+            "meaning": "Yaśodharā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ཡ་ཤོ་ཊ་ར",
+            "wylie": "ya-sho-Ta-ra",
+            "phonetics": "ya-sho-da-ra",
+            "meaning": "Yaśodharā"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "རྒྱལ་པོ",
+            "wylie": "rgyal-po",
+            "phonetics": "gyal-po",
+            "meaning": "king"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
         [
           {
             "tibetan": "ར་ཧུ་ལ",
@@ -1622,10 +2978,136 @@
           },
           "་",
           {
-            "tibetan": "ཕྲུ་གུ",
-            "wylie": "phru-gu",
-            "phonetics": "tru-gu",
-            "meaning": "child"
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན་ནམ",
+            "wylie": "yin-nam",
+            "phonetics": "yin-nam",
+            "meaning": "is it? (question)"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "ཙུད་དོ་དན",
+            "wylie": "tsu-do-dan",
+            "phonetics": "tsu-do-den",
+            "meaning": "Śuddhodana"
+          },
+          "་",
+          {
+            "tibetan": "གི",
+            "wylie": "gi",
+            "phonetics": "gi",
+            "meaning": "of (possessive)"
+          },
+          "་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
+          },
+          "་",
+          {
+            "tibetan": "མིན",
+            "wylie": "min",
+            "phonetics": "min",
+            "meaning": "not"
+          },
+          "།"
+        ],
+        [],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "་",
+          {
+            "tibetan": "ཡིན",
+            "wylie": "yin",
+            "phonetics": "yin",
+            "meaning": "is"
+          },
+          "།"
+        ],
+        [
+          {
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
+          },
+          "་",
+          {
+            "tibetan": "ནི",
+            "wylie": "ni",
+            "phonetics": "ni",
+            "meaning": "topic marker"
+          },
+          "་",
+          {
+            "tibetan": "སུ",
+            "wylie": "su",
+            "phonetics": "su",
+            "meaning": "who"
+          },
+          "འི་",
+          {
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {
@@ -1680,67 +3162,6 @@
           },
           "།"
         ],
-        [],
-        [
-          {
-            "tibetan": "ར་ཧུ་ལ",
-            "wylie": "ra-hu-la",
-            "phonetics": "ra-hu-la",
-            "meaning": "Rāhula"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ར་ཧུ་ལ",
-            "wylie": "ra-hu-la",
-            "phonetics": "ra-hu-la",
-            "meaning": "Rāhula"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "རྒྱལ་པོ",
-            "wylie": "rgyal-po",
-            "phonetics": "gyal-po",
-            "meaning": "king"
-          },
-          "་",
-          {
-            "tibetan": "མིན",
-            "wylie": "min",
-            "phonetics": "min",
-            "meaning": "not"
-          },
-          "།"
-        ],
         [
           {
             "tibetan": "ར་ཧུ་ལ",
@@ -1764,37 +3185,6 @@
           },
           "་",
           {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "སངས་རྒྱས",
-            "wylie": "sangs-rgyas",
-            "phonetics": "sang-gyé",
-            "meaning": "Buddha"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ར་ཧུ་ལ",
-            "wylie": "ra-hu-la",
-            "phonetics": "ra-hu-la",
-            "meaning": "Rāhula"
-          },
-          "་",
-          {
             "tibetan": "གི",
             "wylie": "gi",
             "phonetics": "gi",
@@ -1802,10 +3192,10 @@
           },
           "་",
           {
-            "tibetan": "པ",
-            "wylie": "pa",
-            "phonetics": "pa",
-            "meaning": "father"
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {
@@ -1818,10 +3208,10 @@
         ],
         [
           {
-            "tibetan": "ཡ་ཤོ་ཊ་ར",
-            "wylie": "ya-sho-Ta-ra",
-            "phonetics": "ya-sho-da-ra",
-            "meaning": "Yaśodharā"
+            "tibetan": "ར་ཧུ་ལ",
+            "wylie": "ra-hu-la",
+            "phonetics": "ra-hu-la",
+            "meaning": "Rāhula"
           },
           "་",
           {
@@ -1832,10 +3222,17 @@
           },
           "་",
           {
-            "tibetan": "ར་ཧུ་ལ",
-            "wylie": "ra-hu-la",
-            "phonetics": "ra-hu-la",
-            "meaning": "Rāhula"
+            "tibetan": "ཆེན་པོ",
+            "wylie": "chen-po",
+            "phonetics": "chen-po",
+            "meaning": "great"
+          },
+          "འི་",
+          {
+            "tibetan": "དགེ་སློང",
+            "wylie": "dge-slong",
+            "phonetics": "ge-long",
+            "meaning": "monk"
           },
           "་",
           {
@@ -1846,54 +3243,10 @@
           },
           "་",
           {
-            "tibetan": "ཡུམ",
-            "wylie": "yum",
-            "phonetics": "yum",
-            "meaning": "mother (honorific)"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཙུད་དོ་དན",
-            "wylie": "tsu-do-dan",
-            "phonetics": "tsu-do-den",
-            "meaning": "Śuddhodana"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ར་ཧུ་ལ",
-            "wylie": "ra-hu-la",
-            "phonetics": "ra-hu-la",
-            "meaning": "Rāhula"
-          },
-          "་",
-          {
-            "tibetan": "གི",
-            "wylie": "gi",
-            "phonetics": "gi",
-            "meaning": "of (possessive)"
-          },
-          "་",
-          {
-            "tibetan": "མེས་པོ",
-            "wylie": "mes-po",
-            "phonetics": "mé-po",
-            "meaning": "grandfather"
+            "tibetan": "བུ",
+            "wylie": "bu",
+            "phonetics": "bu",
+            "meaning": "son"
           },
           "་",
           {

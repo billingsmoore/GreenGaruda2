@@ -27,7 +27,7 @@ jobs:
       - name: Configure Git
         run: |
           git config user.email "billingsmoore@gmail.com"
-          git config user.name "Billing Moore"
+          git config user.name "billingsmoore"
 
       - name: Push build to HF Spaces
         env:
