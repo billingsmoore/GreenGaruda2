@@ -3,1975 +3,334 @@
   "title": "ནེ་ཙོ་ག་པར་འགྲོ།",
   "titleTransliteration": "ne-tso ga-par 'gro.",
   "titleEnglish": "Where Did the Parrot Go?",
-  "description": "Dawa's parrot has gone missing. Where did it go? Dawa and Tenzin search the tree to find out.",
-  "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=400&fit=crop",
+  "description": "Dawa's parrot has gone. Where did it go? Dawa searches tree after tree to find out.",
+  "image": "https://en.amarahasa.com/static/images/harini.png",
   "series": "Tenzin",
-  "uniqueWords": 30,
+  "uniqueWords": 38,
   "chapters": [
     {
-      "title": "ཟླ་བ་ལ་ནེ་ཙོ་ཡོད།",
-      "titleTransliteration": "zla-ba la ne-tso yod.",
-      "titleEnglish": "Dawa has a parrot",
-      "textTibetan": "ཟླ་བ་ནི་བསྟན་འཛིན་གི་གྲོགས་པོ་ཡིན།\nབསྟན་འཛིན་ནི་ཟླ་བའི་གྲོགས་པོ་ཡིན།\n\nཟླ་བ་ལ་ནེ་ཙོ་ཡོད།\nཟླ་བ་ལ་ནེ་ཙོ་ཡོད་དམ།\nཟླ་བ་ལ་ནེ་ཙོ་ཡོད།\n\nབསྟན་འཛིན་ལ་ནེ་ཙོ་ཡོད་དམ།\nབསྟན་འཛིན་ལ་ནེ་ཙོ་མེད།\n\nནེ་ཙོ་ནི་ཟླ་བའི་ནེ་ཙོ་ཡིན།\nནེ་ཙོ་ནི་སྐྱིད་པོ་ཡིན།",
-      "textWylie": "zla-ba ni bstan-'dzin gi grogs-po yin.\nbstan-'dzin ni zla-ba'i grogs-po yin.\n\nzla-ba la ne-tso yod.\nzla-ba la ne-tso yod-dam.\nzla-ba la ne-tso yod.\n\nbstan-'dzin la ne-tso yod-dam.\nbstan-'dzin la ne-tso med.\n\nne-tso ni zla-ba'i ne-tso yin.\nne-tso ni skyid-po yin.",
+      "title": "ཟླ་བ",
+      "titleTransliteration": "zla-ba",
+      "titleEnglish": "Dawa",
+      "image": "https://en.amarahasa.com/static/images/harini.png",
+      "textTibetan": "ཟླ་བ་ནི་བུ་མོ་ཡིན།\nཟླ་བ་ནི་ཕྲུ་གུ་ཡིན་ནམ།\nཟླ་བ་ནི་ཕྲུ་གུ་མིན།\nཟླ་བ་ནི་བུ་མོ་ཡིན།\n\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན།\n\nཅིའི་ཕྱིར།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་སྐྱིད་པོ།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་སྐྱིད་པའི་བུ་མོ་ཡིན།\n\nཟླ་བ་ནི་ཅི་མཐོང།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང།\nནེ་ཙོ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པའི་ནེ་ཙོ་མཐོང་ངམ།\nནེ་ཙོ་ནི་སྐྱིད་པོ་མིན།\n\nནེ་ཙོ་ནི་ཅི་འདོད།\nནེ་ཙོ་ནི་འགྲོ་འདོད།\nནེ་ཙོ་ནི་འགྲོ།\n\nཨོ་ཙི།\nནེ་ཙོ་ནི་འགྲོ།\nནེ་ཙོ་ནི་ག་པར་འགྲོ།\nག་པར་ནེ་ཙོ་འགྲོ།\nནེ་ཙོ་ནི་ག་པར་འགྲོ་འདོད།\nནེ་ཙོ་ནི་ཅི་མཐོང་འདོད།",
+      "textWylie": "zla-ba ni bu-mo yin.\nzla-ba ni phru-gu yin-nam.\nzla-ba ni phru-gu min.\nzla-ba ni bu-mo yin.\n\nzla-ba ni skyid-po yin-nam.\nzla-ba ni skyid-pa'i bu-mo yin-nam.\nzla-ba ni skyid-pa'i bu-mo yin.\n\nci'i phyir.\nzla-ba ni ci'i phyir skyid-po.\nzla-ba ni ci'i phyir skyid-pa'i bu-mo yin.\n\nzla-ba ni ci mthong.\nzla-ba ni ne-tso mthong.\nne-tso ni skyid-po yin-nam.\nzla-ba ni skyid-pa'i ne-tso mthong-ngam.\nne-tso ni skyid-po min.\n\nne-tso ni ci 'dod.\nne-tso ni 'gro-'dod.\nne-tso ni 'gro.\n\no tsi.\nne-tso ni 'gro.\nne-tso ni ga-par 'gro.\nga-par ne-tso 'gro.\nne-tso ni ga-par 'gro-'dod.\nne-tso ni ci mthong-'dod.",
       "lineTranslations": [
-        "Dawa is Tenzin's friend.",
-        "Tenzin is Dawa's friend.",
-        "",
-        "Dawa has a parrot.",
-        "Does Dawa have a parrot?",
-        "Dawa has a parrot.",
-        "",
-        "Does Tenzin have a parrot?",
-        "Tenzin does not have a parrot.",
-        "",
-        "The parrot is Dawa's parrot.",
-        "The parrot is happy."
-      ],
-      "words": [
-        {
-          "tibetan": "ཟླ་བ",
-          "wylie": "zla-ba",
-          "phonetics": "da-wa",
-          "meaning": "Dawa"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "བསྟན་འཛིན",
-          "wylie": "bstan-'dzin",
-          "phonetics": "ten-dzin",
-          "meaning": "Tenzin"
-        },
-        {
-          "tibetan": "གི",
-          "wylie": "gi",
-          "phonetics": "gi",
-          "meaning": "of (possessive)"
-        },
-        {
-          "tibetan": "གྲོགས་པོ",
-          "wylie": "grogs-po",
-          "phonetics": "drok-po",
-          "meaning": "friend"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "ལ",
-          "wylie": "la",
-          "phonetics": "la",
-          "meaning": "to/for (particle)"
-        },
-        {
-          "tibetan": "ནེ་ཙོ",
-          "wylie": "ne-tso",
-          "phonetics": "ne-tso",
-          "meaning": "parrot"
-        },
-        {
-          "tibetan": "ཡོད",
-          "wylie": "yod",
-          "phonetics": "yö",
-          "meaning": "there is / has"
-        },
-        {
-          "tibetan": "ཡོད་དམ",
-          "wylie": "yod-dam",
-          "phonetics": "yö-dam",
-          "meaning": "is there? / has? (question)"
-        },
-        {
-          "tibetan": "མེད",
-          "wylie": "med",
-          "phonetics": "mé",
-          "meaning": "there is not / does not have"
-        },
-        {
-          "tibetan": "སྐྱིད་པོ",
-          "wylie": "skyid-po",
-          "phonetics": "kyi-po",
-          "meaning": "happy"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "གི",
-            "wylie": "gi",
-            "phonetics": "gi",
-            "meaning": "of (possessive)"
-          },
-          "་",
-          {
-            "tibetan": "གྲོགས་པོ",
-            "wylie": "grogs-po",
-            "phonetics": "drok-po",
-            "meaning": "friend"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "འི་",
-          {
-            "tibetan": "གྲོགས་པོ",
-            "wylie": "grogs-po",
-            "phonetics": "drok-po",
-            "meaning": "friend"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད་དམ",
-            "wylie": "yod-dam",
-            "phonetics": "yö-dam",
-            "meaning": "is there? / has? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད་དམ",
-            "wylie": "yod-dam",
-            "phonetics": "yö-dam",
-            "meaning": "is there? / has? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "མེད",
-            "wylie": "med",
-            "phonetics": "mé",
-            "meaning": "there is not / does not have"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "འི་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ]
-      ]
-    },
-    {
-      "title": "ནེ་ཙོ་ནི་ག་པར་འགྲོ།",
-      "titleTransliteration": "ne-tso ni ga-par 'gro.",
-      "titleEnglish": "Where does the parrot go?",
-      "textTibetan": "ནེ་ཙོ་ནི་འགྲོ།\nནེ་ཙོ་ནི་འགྲོ་གམ།\nནེ་ཙོ་ནི་འགྲོ།\n\nནེ་ཙོ་ནི་ག་པར་འགྲོ།\n\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པོ་མིན།\nཟླ་བ་ནི་སེམས་སྐྱོ་པོ་ཡིན།\n\nཟླ་བ་ནི་ནེ་ཙོ་འདོད།\nཟླ་བ་ནི་ནེ་ཙོ་འདོད་དམ།\nཟླ་བ་ནི་ནེ་ཙོ་འདོད།",
-      "textWylie": "ne-tso ni 'gro.\nne-tso ni 'gro-gam.\nne-tso ni 'gro.\n\nne-tso ni ga-par 'gro.\n\nzla-ba ni skyid-po yin-nam.\nzla-ba ni skyid-po min.\nzla-ba ni sems-skyo-po yin.\n\nzla-ba ni ne-tso 'dod.\nzla-ba ni ne-tso 'dod-dam.\nzla-ba ni ne-tso 'dod.",
-      "lineTranslations": [
-        "The parrot goes.",
-        "Does the parrot go?",
-        "The parrot goes.",
-        "",
-        "Where does the parrot go?",
+        "Dawa is a girl.",
+        "Is Dawa a child?",
+        "Dawa is not a child.",
+        "Dawa is a girl.",
         "",
         "Is Dawa happy?",
-        "Dawa is not happy.",
-        "Dawa is sad.",
+        "Is Dawa a happy girl?",
+        "Dawa is a happy girl.",
         "",
-        "Dawa wants the parrot.",
-        "Does Dawa want the parrot?",
-        "Dawa wants the parrot."
+        "Why?",
+        "Why is Dawa happy?",
+        "Why is Dawa a happy girl?",
+        "",
+        "What does Dawa see?",
+        "Dawa sees a parrot.",
+        "Is the parrot happy?",
+        "Does Dawa see a happy parrot?",
+        "The parrot is not happy!",
+        "",
+        "What does the parrot want?",
+        "The parrot wants to go.",
+        "The parrot goes!",
+        "",
+        "Oh!",
+        "The parrot goes!",
+        "Where does the parrot go?",
+        "Where does the parrot go?",
+        "Where does the parrot want to go?",
+        "What does the parrot want to see?"
       ],
       "words": [
-        {
-          "tibetan": "ནེ་ཙོ",
-          "wylie": "ne-tso",
-          "phonetics": "ne-tso",
-          "meaning": "parrot"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "འགྲོ",
-          "wylie": "'gro",
-          "phonetics": "dro",
-          "meaning": "goes"
-        },
-        {
-          "tibetan": "འགྲོ་གམ",
-          "wylie": "'gro-gam",
-          "phonetics": "dro-gam",
-          "meaning": "goes? (question)"
-        },
-        {
-          "tibetan": "ག་པར",
-          "wylie": "ga-par",
-          "phonetics": "ga-par",
-          "meaning": "where"
-        },
-        {
-          "tibetan": "ཟླ་བ",
-          "wylie": "zla-ba",
-          "phonetics": "da-wa",
-          "meaning": "Dawa"
-        },
-        {
-          "tibetan": "སྐྱིད་པོ",
-          "wylie": "skyid-po",
-          "phonetics": "kyi-po",
-          "meaning": "happy"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "མིན",
-          "wylie": "min",
-          "phonetics": "min",
-          "meaning": "not"
-        },
-        {
-          "tibetan": "སེམས་སྐྱོ་པོ",
-          "wylie": "sems-skyo-po",
-          "phonetics": "sem-kyo-po",
-          "meaning": "sad"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "འདོད",
-          "wylie": "'dod",
-          "phonetics": "dö",
-          "meaning": "wants"
-        },
-        {
-          "tibetan": "འདོད་དམ",
-          "wylie": "'dod-dam",
-          "phonetics": "dö-dam",
-          "meaning": "wants? (question)"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "འགྲོ",
-            "wylie": "'gro",
-            "phonetics": "dro",
-            "meaning": "goes"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "འགྲོ་གམ",
-            "wylie": "'gro-gam",
-            "phonetics": "dro-gam",
-            "meaning": "goes? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "འགྲོ",
-            "wylie": "'gro",
-            "phonetics": "dro",
-            "meaning": "goes"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ག་པར",
-            "wylie": "ga-par",
-            "phonetics": "ga-par",
-            "meaning": "where"
-          },
-          "་",
-          {
-            "tibetan": "འགྲོ",
-            "wylie": "'gro",
-            "phonetics": "dro",
-            "meaning": "goes"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "མིན",
-            "wylie": "min",
-            "phonetics": "min",
-            "meaning": "not"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སེམས་སྐྱོ་པོ",
-            "wylie": "sems-skyo-po",
-            "phonetics": "sem-kyo-po",
-            "meaning": "sad"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "འདོད",
-            "wylie": "'dod",
-            "phonetics": "dö",
-            "meaning": "wants"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "འདོད་དམ",
-            "wylie": "'dod-dam",
-            "phonetics": "dö-dam",
-            "meaning": "wants? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "འདོད",
-            "wylie": "'dod",
-            "phonetics": "dö",
-            "meaning": "wants"
-          },
-          "།"
-        ]
+        { "tibetan": "ཟླ་བ", "wylie": "zla-ba", "phonetics": "da-wa", "meaning": "Dawa" },
+        { "tibetan": "ནི", "wylie": "ni", "phonetics": "ni", "meaning": "topic marker" },
+        { "tibetan": "བུ་མོ", "wylie": "bu-mo", "phonetics": "bu-mo", "meaning": "girl" },
+        { "tibetan": "ཡིན", "wylie": "yin", "phonetics": "yin", "meaning": "is" },
+        { "tibetan": "ཕྲུ་གུ", "wylie": "phru-gu", "phonetics": "tru-gu", "meaning": "child" },
+        { "tibetan": "ཡིན་ནམ", "wylie": "yin-nam", "phonetics": "yin-nam", "meaning": "is? (question)" },
+        { "tibetan": "མིན", "wylie": "min", "phonetics": "min", "meaning": "is not" },
+        { "tibetan": "སྐྱིད་པོ", "wylie": "skyid-po", "phonetics": "kyid-po", "meaning": "happy" },
+        { "tibetan": "སྐྱིད་པ", "wylie": "skyid-pa", "phonetics": "kyid-pa", "meaning": "happy (modifying a noun)" },
+        { "tibetan": "ཅིའི་ཕྱིར", "wylie": "ci'i phyir", "phonetics": "chii chir", "meaning": "why" },
+        { "tibetan": "ཅི", "wylie": "ci", "phonetics": "chi", "meaning": "what" },
+        { "tibetan": "མཐོང", "wylie": "mthong", "phonetics": "thong", "meaning": "sees" },
+        { "tibetan": "ནེ་ཙོ", "wylie": "ne-tso", "phonetics": "ne-tso", "meaning": "parrot" },
+        { "tibetan": "མཐོང་ངམ", "wylie": "mthong-ngam", "phonetics": "thong-ngam", "meaning": "sees? (question)" },
+        { "tibetan": "འདོད", "wylie": "'dod", "phonetics": "dö", "meaning": "wants" },
+        { "tibetan": "འགྲོ་འདོད", "wylie": "'gro-'dod", "phonetics": "dro-dö", "meaning": "wants to go" },
+        { "tibetan": "འགྲོ", "wylie": "'gro", "phonetics": "dro", "meaning": "goes" },
+        { "tibetan": "ག་པར", "wylie": "ga-par", "phonetics": "ga-par", "meaning": "where" },
+        { "tibetan": "མཐོང་འདོད", "wylie": "mthong-'dod", "phonetics": "thong-dö", "meaning": "wants to see" }
       ]
     },
     {
-      "title": "བསྟན་འཛིན་དང་ཟླ་བ་ནི་ཤིང་ལ་འགྲོ།",
-      "titleTransliteration": "bstan-'dzin dang zla-ba ni shing la 'gro.",
-      "titleEnglish": "Tenzin and Dawa go to the tree",
-      "textTibetan": "བསྟན་འཛིན་དང་ཟླ་བ་ནི་ཤིང་ལ་འགྲོ།\n\nཤིང་ནི་ཆེན་པོ་ཡིན་ནམ།\nཤིང་ནི་ཆེན་པོ་ཡིན།\n\nབསྟན་འཛིན་ནི་ཤིང་འཚོལ།\nབསྟན་འཛིན་ནི་ཤིང་འཚོལ་ལམ།\nབསྟན་འཛིན་ནི་ཤིང་འཚོལ།\n\nཟླ་བ་ནི་ཤིང་འཚོལ།\nཤིང་ལ་ནེ་ཙོ་ཡོད་དམ།\nཤིང་ལ་ནེ་ཙོ་མེད།\n\nཟླ་བ་ནི་སེམས་སྐྱོ་པོ་ཡིན།",
-      "textWylie": "bstan-'dzin dang zla-ba ni shing la 'gro.\n\nshing ni chen-po yin-nam.\nshing ni chen-po yin.\n\nbstan-'dzin ni shing 'tshol.\nbstan-'dzin ni shing 'tshol-lam.\nbstan-'dzin ni shing 'tshol.\n\nzla-ba ni shing 'tshol.\nshing la ne-tso yod-dam.\nshing la ne-tso med.\n\nzla-ba ni sems-skyo-po yin.",
+      "title": "ནེ་ཙོ་ཕྱིན།",
+      "titleTransliteration": "ne-tso phyin.",
+      "titleEnglish": "The Parrot is Gone",
+      "image": "https://en.amarahasa.com/static/images/harini-sad.png",
+      "textTibetan": "ཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན་ནམ།\nཟླ་བ་ནི་མི་སྐྱིད་པའི་བུ་མོ་ཡིན།\n\nཅིའི་ཕྱིར།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་སྐྱིད་པོ་མིན།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་མི་སྐྱིད་པའི་བུ་མོ་ཡིན།\n\nཟླ་བ་ནི་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་ཅི་འདོད།\nཟླ་བ་ནི་ཅི་མཐོང་འདོད།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་འདོད།\n\nནེ་ཙོ། ནེ་ཙོ།\nཟླ་བ་ནི་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་ནེ་ཙོ་མི་མཐོང།\n\nནེ་ཙོ་ནི་ཕྱིན།\nནེ་ཙོ་ནི་ག་པར་ཡོད།\nནེ་ཙོ་ནི་ག་པར་ཕྱིན།\nནེ་ཙོ་ནི་ག་པར་འགྲོ་འདོད་དམ།\n\nཟླ་བ་ནི་འགྲོ།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་འགྲོ།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་འདོད།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་བར་འགྲོ།\nཟླ་བ་ནི་ག་པར་འགྲོ།\nཟླ་བ་ནི་ག་པར་ནེ་ཙོ་མཐོང།",
+      "textWylie": "zla-ba ni skyid-pa'i bu-mo yin-nam.\nzla-ba ni mi-skyid-pa'i bu-mo yin.\n\nci'i phyir.\nzla-ba ni ci'i phyir skyid-po min.\nzla-ba ni ci'i phyir mi-skyid-pa'i bu-mo yin.\n\nzla-ba ni ne-tso mi-mthong.\nzla-ba ni ci 'dod.\nzla-ba ni ci mthong-'dod.\nzla-ba ni ne-tso mthong-'dod.\n\nne-tso. ne-tso.\nzla-ba ni ne-tso mi-mthong.\nzla-ba ni ci'i phyir ne-tso mi-mthong.\n\nne-tso ni phyin.\nne-tso ni ga-par yod.\nne-tso ni ga-par phyin.\nne-tso ni ga-par 'gro-'dod-dam.\n\nzla-ba ni 'gro.\nzla-ba ni ci'i phyir 'gro.\nzla-ba ni ne-tso mthong-'dod.\nzla-ba ni ne-tso mthong-bar 'gro.\nzla-ba ni ga-par 'gro.\nzla-ba ni ga-par ne-tso mthong.",
       "lineTranslations": [
-        "Tenzin and Dawa go to the tree.",
+        "Is Dawa a happy girl?",
+        "Dawa is not a happy girl.",
         "",
-        "Is the tree big?",
-        "The tree is big.",
+        "Why?",
+        "Why is Dawa not happy?",
+        "Why is Dawa not a happy girl?",
         "",
-        "Tenzin searches the tree.",
-        "Does Tenzin search the tree?",
-        "Tenzin searches the tree.",
+        "Dawa does not see the parrot.",
+        "What does Dawa want?",
+        "What does Dawa want to see?",
+        "Dawa wants to see the parrot.",
         "",
-        "Dawa searches the tree.",
-        "Is there a parrot in the tree?",
-        "There is no parrot in the tree.",
+        "Parrot! Parrot!",
+        "Dawa does not see the parrot.",
+        "Why does Dawa not see the parrot?",
         "",
-        "Dawa is sad."
+        "The parrot has gone.",
+        "Where is the parrot?",
+        "Where did the parrot go?",
+        "Where might the parrot want to go?",
+        "",
+        "Dawa goes.",
+        "Why does Dawa go?",
+        "Dawa wants to see the parrot.",
+        "Dawa goes to see the parrot.",
+        "Where does Dawa go?",
+        "Where might Dawa see the parrot?"
       ],
       "words": [
-        {
-          "tibetan": "བསྟན་འཛིན",
-          "wylie": "bstan-'dzin",
-          "phonetics": "ten-dzin",
-          "meaning": "Tenzin"
-        },
-        {
-          "tibetan": "དང",
-          "wylie": "dang",
-          "phonetics": "dang",
-          "meaning": "and"
-        },
-        {
-          "tibetan": "ཟླ་བ",
-          "wylie": "zla-ba",
-          "phonetics": "da-wa",
-          "meaning": "Dawa"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "ཤིང",
-          "wylie": "shing",
-          "phonetics": "shing",
-          "meaning": "tree"
-        },
-        {
-          "tibetan": "ལ",
-          "wylie": "la",
-          "phonetics": "la",
-          "meaning": "to/for (particle)"
-        },
-        {
-          "tibetan": "འགྲོ",
-          "wylie": "'gro",
-          "phonetics": "dro",
-          "meaning": "goes"
-        },
-        {
-          "tibetan": "ཆེན་པོ",
-          "wylie": "chen-po",
-          "phonetics": "chen-po",
-          "meaning": "big"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "འཚོལ",
-          "wylie": "'tshol",
-          "phonetics": "tshol",
-          "meaning": "searches"
-        },
-        {
-          "tibetan": "འཚོལ་ལམ",
-          "wylie": "'tshol-lam",
-          "phonetics": "tshol-lam",
-          "meaning": "searches? (question)"
-        },
-        {
-          "tibetan": "ཡོད་དམ",
-          "wylie": "yod-dam",
-          "phonetics": "yö-dam",
-          "meaning": "is there? / has? (question)"
-        },
-        {
-          "tibetan": "ནེ་ཙོ",
-          "wylie": "ne-tso",
-          "phonetics": "ne-tso",
-          "meaning": "parrot"
-        },
-        {
-          "tibetan": "མེད",
-          "wylie": "med",
-          "phonetics": "mé",
-          "meaning": "there is not / does not have"
-        },
-        {
-          "tibetan": "སེམས་སྐྱོ་པོ",
-          "wylie": "sems-skyo-po",
-          "phonetics": "sem-kyo-po",
-          "meaning": "sad"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "དང",
-            "wylie": "dang",
-            "phonetics": "dang",
-            "meaning": "and"
-          },
-          "་",
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "འགྲོ",
-            "wylie": "'gro",
-            "phonetics": "dro",
-            "meaning": "goes"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "big"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "big"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ",
-            "wylie": "'tshol",
-            "phonetics": "tshol",
-            "meaning": "searches"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ་ལམ",
-            "wylie": "'tshol-lam",
-            "phonetics": "tshol-lam",
-            "meaning": "searches? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ",
-            "wylie": "'tshol",
-            "phonetics": "tshol",
-            "meaning": "searches"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ",
-            "wylie": "'tshol",
-            "phonetics": "tshol",
-            "meaning": "searches"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད་དམ",
-            "wylie": "yod-dam",
-            "phonetics": "yö-dam",
-            "meaning": "is there? / has? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "མེད",
-            "wylie": "med",
-            "phonetics": "mé",
-            "meaning": "there is not / does not have"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སེམས་སྐྱོ་པོ",
-            "wylie": "sems-skyo-po",
-            "phonetics": "sem-kyo-po",
-            "meaning": "sad"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ]
+        { "tibetan": "ཟླ་བ", "wylie": "zla-ba", "phonetics": "da-wa", "meaning": "Dawa" },
+        { "tibetan": "ནི", "wylie": "ni", "phonetics": "ni", "meaning": "topic marker" },
+        { "tibetan": "སྐྱིད་པ", "wylie": "skyid-pa", "phonetics": "kyid-pa", "meaning": "happy (modifying a noun)" },
+        { "tibetan": "བུ་མོ", "wylie": "bu-mo", "phonetics": "bu-mo", "meaning": "girl" },
+        { "tibetan": "ཡིན་ནམ", "wylie": "yin-nam", "phonetics": "yin-nam", "meaning": "is? (question)" },
+        { "tibetan": "མི་སྐྱིད་པ", "wylie": "mi-skyid-pa", "phonetics": "mi-kyid-pa", "meaning": "not happy (unhappy)" },
+        { "tibetan": "ཡིན", "wylie": "yin", "phonetics": "yin", "meaning": "is" },
+        { "tibetan": "ཅིའི་ཕྱིར", "wylie": "ci'i phyir", "phonetics": "chii chir", "meaning": "why" },
+        { "tibetan": "སྐྱིད་པོ", "wylie": "skyid-po", "phonetics": "kyid-po", "meaning": "happy" },
+        { "tibetan": "མིན", "wylie": "min", "phonetics": "min", "meaning": "is not" },
+        { "tibetan": "ནེ་ཙོ", "wylie": "ne-tso", "phonetics": "ne-tso", "meaning": "parrot" },
+        { "tibetan": "མི་མཐོང", "wylie": "mi-mthong", "phonetics": "mi-thong", "meaning": "does not see" },
+        { "tibetan": "ཅི", "wylie": "ci", "phonetics": "chi", "meaning": "what" },
+        { "tibetan": "འདོད", "wylie": "'dod", "phonetics": "dö", "meaning": "wants" },
+        { "tibetan": "མཐོང་འདོད", "wylie": "mthong-'dod", "phonetics": "thong-dö", "meaning": "wants to see" },
+        { "tibetan": "ཕྱིན", "wylie": "phyin", "phonetics": "chin", "meaning": "went / has gone" },
+        { "tibetan": "ག་པར", "wylie": "ga-par", "phonetics": "ga-par", "meaning": "where" },
+        { "tibetan": "འགྲོ་འདོད་དམ", "wylie": "'gro-'dod-dam", "phonetics": "dro-dö-dam", "meaning": "might want to go? (question)" },
+        { "tibetan": "འགྲོ", "wylie": "'gro", "phonetics": "dro", "meaning": "goes" },
+        { "tibetan": "མཐོང་བར་འགྲོ", "wylie": "mthong-bar 'gro", "phonetics": "thong-war dro", "meaning": "goes to see" },
+        { "tibetan": "མཐོང", "wylie": "mthong", "phonetics": "thong", "meaning": "sees" }
       ]
     },
     {
-      "title": "ཤིང་ལ་ཁུང་བུ་ཡོད།",
-      "titleTransliteration": "shing la khung-bu yod.",
-      "titleEnglish": "The tree has a hollow",
-      "textTibetan": "ཤིང་ལ་ཁུང་བུ་ཡོད་དམ།\nཤིང་ལ་ཁུང་བུ་ཡོད།\n\nཁུང་བུ་ནི་ཆེན་པོ་ཡིན་ནམ།\nཁུང་བུ་ནི་ཆུང་ཆུང་ཡིན།\n\nབསྟན་འཛིན་ནི་ཁུང་བུ་འཚོལ།\nཟླ་བ་ནི་ཁུང་བུ་འཚོལ།\n\nཁུང་བུ་ནང་ལ་ཅི་ཡོད།",
-      "textWylie": "shing la khung-bu yod-dam.\nshing la khung-bu yod.\n\nkhung-bu ni chen-po yin-nam.\nkhung-bu ni chung-chung yin.\n\nbstan-'dzin ni khung-bu 'tshol.\nzla-ba ni khung-bu 'tshol.\n\nkhung-bu nang la ci yod.",
+      "title": "ཤིང",
+      "titleTransliteration": "shing",
+      "titleEnglish": "The Tree",
+      "image": "https://en.amarahasa.com/static/images/tree.png",
+      "textTibetan": "ཟླ་བ་ནི་ཅི་མཐོང།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་ངམ།\nཟླ་བ་ནི་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་ཤིང་མཐོང།\n\nཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་སྐྱིད་པོ།\n\nནེ་ཙོ་ནི་ག་པར་འགྲོ་འདོད་དམ།\nནེ་ཙོ་ནི་ཤིང་ལ་འགྲོ་འདོད།\nནེ་ཙོ་ནི་ཤིང་ལ་ཡོད་དམ།\nནེ་ཙོ་ནི་ཤིང་ལ་ཕྱིན་ནམ།\n\nཟླ་བ་ནི་ཤིང་ལ་འགྲོ།\nཟླ་བ་ནི་ག་པར་ཕྱིན།\nཟླ་བ་ནི་ཤིང་ལ་ཕྱིན།\nཟླ་བ་ནི་ཤིང་ལ་མཐོང།\nཟླ་བ་ནི་ཤིང་ལ་ཕྱིན་ནས་ཤིང་ལ་མཐོང།\n\nནེ་ཙོ་ནི་ག་པར་ཡོད།\nནེ་ཙོ་ནི་ཤིང་ལ་ཡོད་དམ།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་ངམ།\n\nཟླ་བ་ནི་མི་སྐྱིད་པའི་བུ་མོ་ཡིན།\nཟླ་བ་ནི་ཅིའི་ཕྱིར་མི་སྐྱིད་པའི་བུ་མོ་ཡིན།\nཟླ་བ་ནི་ཤིང་ལ་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་ཤིང་ལ་ཕྱིན་ནས་ནེ་ཙོ་མི་མཐོང།\n\nནེ་ཙོ་ནི་ཤིང་ལ་མེད།\nནེ་ཙོ་ནི་ཤིང་ལ་མ་ཕྱིན།\nནེ་ཙོ་ནི་ག་པར་ཕྱིན།",
+      "textWylie": "zla-ba ni ci mthong.\nzla-ba ni ne-tso mthong-ngam.\nzla-ba ni ne-tso mi-mthong.\nzla-ba ni shing mthong.\n\nzla-ba ni skyid-pa'i bu-mo yin.\nzla-ba ni ci'i phyir skyid-po.\n\nne-tso ni ga-par 'gro-'dod-dam.\nne-tso ni shing la 'gro-'dod.\nne-tso ni shing la yod-dam.\nne-tso ni shing la phyin-nam.\n\nzla-ba ni shing la 'gro.\nzla-ba ni ga-par phyin.\nzla-ba ni shing la phyin.\nzla-ba ni shing la mthong.\nzla-ba ni shing la phyin-nas shing la mthong.\n\nne-tso ni ga-par yod.\nne-tso ni shing la yod-dam.\nzla-ba ni ne-tso mthong-ngam.\n\nzla-ba ni mi-skyid-pa'i bu-mo yin.\nzla-ba ni ci'i phyir mi-skyid-pa'i bu-mo yin.\nzla-ba ni shing la ne-tso mi-mthong.\nzla-ba ni shing la phyin-nas ne-tso mi-mthong.\n\nne-tso ni shing la med.\nne-tso ni shing la ma-phyin.\nne-tso ni ga-par phyin.",
       "lineTranslations": [
-        "Does the tree have a hollow?",
-        "The tree has a hollow.",
+        "What does Dawa see?",
+        "Does Dawa see the parrot?",
+        "Dawa does not see the parrot.",
+        "Dawa sees a tree.",
         "",
-        "Is the hollow big?",
-        "The hollow is small.",
+        "Dawa is a happy girl.",
+        "Why is Dawa happy?",
         "",
-        "Tenzin searches the hollow.",
-        "Dawa searches the hollow.",
+        "Where might the parrot want to go?",
+        "The parrot wants to go to the tree.",
+        "Is the parrot in the tree?",
+        "Did the parrot go to the tree?",
         "",
-        "What is inside the hollow?"
+        "Dawa goes to the tree.",
+        "Where did Dawa go?",
+        "Dawa went to the tree.",
+        "Dawa looks in the tree.",
+        "Having gone to the tree, Dawa looks in the tree.",
+        "",
+        "Where is the parrot?",
+        "Is the parrot in the tree?",
+        "Does Dawa see the parrot?",
+        "",
+        "Dawa is not a happy girl.",
+        "Why is Dawa not a happy girl?",
+        "Dawa does not see the parrot in the tree.",
+        "Having gone to the tree, Dawa does not see the parrot.",
+        "",
+        "The parrot is not in the tree.",
+        "The parrot did not go to the tree.",
+        "Where did the parrot go?"
       ],
       "words": [
-        {
-          "tibetan": "ཤིང",
-          "wylie": "shing",
-          "phonetics": "shing",
-          "meaning": "tree"
-        },
-        {
-          "tibetan": "ལ",
-          "wylie": "la",
-          "phonetics": "la",
-          "meaning": "to/for (particle)"
-        },
-        {
-          "tibetan": "ཁུང་བུ",
-          "wylie": "khung-bu",
-          "phonetics": "khung-bu",
-          "meaning": "hollow"
-        },
-        {
-          "tibetan": "ཡོད་དམ",
-          "wylie": "yod-dam",
-          "phonetics": "yö-dam",
-          "meaning": "is there? / has? (question)"
-        },
-        {
-          "tibetan": "ཡོད",
-          "wylie": "yod",
-          "phonetics": "yö",
-          "meaning": "there is / has"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "ཆེན་པོ",
-          "wylie": "chen-po",
-          "phonetics": "chen-po",
-          "meaning": "big"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "ཆུང་ཆུང",
-          "wylie": "chung-chung",
-          "phonetics": "chung-chung",
-          "meaning": "small"
-        },
-        {
-          "tibetan": "བསྟན་འཛིན",
-          "wylie": "bstan-'dzin",
-          "phonetics": "ten-dzin",
-          "meaning": "Tenzin"
-        },
-        {
-          "tibetan": "འཚོལ",
-          "wylie": "'tshol",
-          "phonetics": "tshol",
-          "meaning": "searches"
-        },
-        {
-          "tibetan": "ཟླ་བ",
-          "wylie": "zla-ba",
-          "phonetics": "da-wa",
-          "meaning": "Dawa"
-        },
-        {
-          "tibetan": "ནང",
-          "wylie": "nang",
-          "phonetics": "nang",
-          "meaning": "inside"
-        },
-        {
-          "tibetan": "ཅི",
-          "wylie": "ci",
-          "phonetics": "chi",
-          "meaning": "what"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད་དམ",
-            "wylie": "yod-dam",
-            "phonetics": "yö-dam",
-            "meaning": "is there? / has? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཤིང",
-            "wylie": "shing",
-            "phonetics": "shing",
-            "meaning": "tree"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆེན་པོ",
-            "wylie": "chen-po",
-            "phonetics": "chen-po",
-            "meaning": "big"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཆུང་ཆུང",
-            "wylie": "chung-chung",
-            "phonetics": "chung-chung",
-            "meaning": "small"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ",
-            "wylie": "'tshol",
-            "phonetics": "tshol",
-            "meaning": "searches"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "འཚོལ",
-            "wylie": "'tshol",
-            "phonetics": "tshol",
-            "meaning": "searches"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ནང",
-            "wylie": "nang",
-            "phonetics": "nang",
-            "meaning": "inside"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ཅི",
-            "wylie": "ci",
-            "phonetics": "chi",
-            "meaning": "what"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ]
+        { "tibetan": "ཟླ་བ", "wylie": "zla-ba", "phonetics": "da-wa", "meaning": "Dawa" },
+        { "tibetan": "ནི", "wylie": "ni", "phonetics": "ni", "meaning": "topic marker" },
+        { "tibetan": "ཅི", "wylie": "ci", "phonetics": "chi", "meaning": "what" },
+        { "tibetan": "མཐོང", "wylie": "mthong", "phonetics": "thong", "meaning": "sees" },
+        { "tibetan": "ནེ་ཙོ", "wylie": "ne-tso", "phonetics": "ne-tso", "meaning": "parrot" },
+        { "tibetan": "མཐོང་ངམ", "wylie": "mthong-ngam", "phonetics": "thong-ngam", "meaning": "sees? (question)" },
+        { "tibetan": "མི་མཐོང", "wylie": "mi-mthong", "phonetics": "mi-thong", "meaning": "does not see" },
+        { "tibetan": "ཤིང", "wylie": "shing", "phonetics": "shing", "meaning": "tree" },
+        { "tibetan": "སྐྱིད་པ", "wylie": "skyid-pa", "phonetics": "kyid-pa", "meaning": "happy (modifying a noun)" },
+        { "tibetan": "བུ་མོ", "wylie": "bu-mo", "phonetics": "bu-mo", "meaning": "girl" },
+        { "tibetan": "ཡིན", "wylie": "yin", "phonetics": "yin", "meaning": "is" },
+        { "tibetan": "ཅིའི་ཕྱིར", "wylie": "ci'i phyir", "phonetics": "chii chir", "meaning": "why" },
+        { "tibetan": "སྐྱིད་པོ", "wylie": "skyid-po", "phonetics": "kyid-po", "meaning": "happy" },
+        { "tibetan": "ག་པར", "wylie": "ga-par", "phonetics": "ga-par", "meaning": "where" },
+        { "tibetan": "འགྲོ་འདོད་དམ", "wylie": "'gro-'dod-dam", "phonetics": "dro-dö-dam", "meaning": "might want to go? (question)" },
+        { "tibetan": "འགྲོ་འདོད", "wylie": "'gro-'dod", "phonetics": "dro-dö", "meaning": "wants to go" },
+        { "tibetan": "ལ", "wylie": "la", "phonetics": "la", "meaning": "to/in (particle)" },
+        { "tibetan": "ཡོད་དམ", "wylie": "yod-dam", "phonetics": "yö-dam", "meaning": "is there? (question)" },
+        { "tibetan": "ཕྱིན་ནམ", "wylie": "phyin-nam", "phonetics": "chin-nam", "meaning": "went? (question)" },
+        { "tibetan": "འགྲོ", "wylie": "'gro", "phonetics": "dro", "meaning": "goes" },
+        { "tibetan": "ཕྱིན", "wylie": "phyin", "phonetics": "chin", "meaning": "went / has gone" },
+        { "tibetan": "ནས", "wylie": "nas", "phonetics": "né", "meaning": "from / having done" },
+        { "tibetan": "ཡོད", "wylie": "yod", "phonetics": "yö", "meaning": "there is / has" },
+        { "tibetan": "མི་སྐྱིད་པ", "wylie": "mi-skyid-pa", "phonetics": "mi-kyid-pa", "meaning": "not happy (unhappy)" },
+        { "tibetan": "མེད", "wylie": "med", "phonetics": "mé", "meaning": "there is not / does not have" },
+        { "tibetan": "མ་ཕྱིན", "wylie": "ma-phyin", "phonetics": "ma-chin", "meaning": "did not go" }
       ]
     },
     {
-      "title": "ཟླ་བ་ནི་སྐྱིད་པོ་ཡིན།",
-      "titleTransliteration": "zla-ba ni skyid-po yin.",
-      "titleEnglish": "Dawa is happy",
-      "textTibetan": "ཁུང་བུ་ནང་ལ་ནེ་ཙོ་ཡོད།\nནེ་ཙོ་ནི་ཟླ་བའི་ནེ་ཙོ་ཡིན།\n\nནེ་ཙོ་ནི་ཚང་ནང་ལ་ཡོད།\nཚང་ནི་ཁུང་བུ་ནང་ལ་ཡོད།\n\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན།\n\nཟླ་བ་དང་བསྟན་འཛིན་ནི་སྐྱིད་པོ་ཡིན།\nནེ་ཙོ་ནི་སྐྱིད་པོ་ཡིན།",
-      "textWylie": "khung-bu nang la ne-tso yod.\nne-tso ni zla-ba'i ne-tso yin.\n\nne-tso ni tshang nang la yod.\ntshang ni khung-bu nang la yod.\n\nzla-ba ni skyid-po yin-nam.\nzla-ba ni skyid-po yin.\n\nzla-ba dang bstan-'dzin ni skyid-po yin.\nne-tso ni skyid-po yin.",
+      "title": "ཁུང་བུ",
+      "titleTransliteration": "khung-bu",
+      "titleEnglish": "The Hollow",
+      "image": "https://en.amarahasa.com/static/images/tree-cavity.png",
+      "textTibetan": "ཟླ་བ་ནི་ནེ་ཙོ་མཐོང་འདོད།\nཟླ་བ་ནི་ཤིང་ནས་ཤིང་ལ་འགྲོ།\nཟླ་བ་ནི་ཤིང་རེ་རེ་ལ་མཐོང།\n\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་ངམ།\nཟླ་བ་ནི་ཤིང་ནས་ཤིང་ལ་ཕྱིན་ནས་ནེ་ཙོ་མཐོང་ངམ།\nཟླ་བ་ནི་ཤིང་རེ་རེ་ལ་མཐོང་ནས་ནེ་ཙོ་མཐོང་ངམ།\nཟླ་བ་ནི་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་མི་སྐྱིད་པའི་བུ་མོ་ཡིན།\nནེ་ཙོ་ནི་ག་པར་ཕྱིན།\n\nཀུ། ཀུ།\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན།\n\nཟླ་བ་ནི་ཅི་མཐོང།\nཟླ་བ་ནི་ནེ་ཙོ་མཐོང་ངམ།\nཟླ་བ་ནི་ནེ་ཙོ་མི་མཐོང།\nཟླ་བ་ནི་ཁུང་བུ་མཐོང།\n\nཁུང་བུ་ནི་ག་པར་ཡོད།\nཁུང་བུ་ནི་ཤིང་ལ་ཡོད།\n\nཟླ་བ་ནི་ཅི་འདོད།\nཟླ་བ་ནི་ཁུང་བུ་མཐོང་འདོད།\n\nཁུང་བུ་ནང་ལ་ཅི་ཡོད།\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ཡོད་དམ།\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ཕྱིན་ནམ།",
+      "textWylie": "zla-ba ni ne-tso mthong-'dod.\nzla-ba ni shing nas shing la 'gro.\nzla-ba ni shing re-re la mthong.\n\nzla-ba ni ne-tso mthong-ngam.\nzla-ba ni shing nas shing la phyin-nas ne-tso mthong-ngam.\nzla-ba ni shing re-re la mthong-nas ne-tso mthong-ngam.\nzla-ba ni ne-tso mi-mthong.\nzla-ba ni mi-skyid-pa'i bu-mo yin.\nne-tso ni ga-par phyin.\n\nku. ku.\nzla-ba ni skyid-po yin.\n\nzla-ba ni ci mthong.\nzla-ba ni ne-tso mthong-ngam.\nzla-ba ni ne-tso mi-mthong.\nzla-ba ni khung-bu mthong.\n\nkhung-bu ni ga-par yod.\nkhung-bu ni shing la yod.\n\nzla-ba ni ci 'dod.\nzla-ba ni khung-bu mthong-'dod.\n\nkhung-bu nang la ci yod.\nne-tso ni khung-bu nang la yod-dam.\nne-tso ni khung-bu nang la phyin-nam.",
       "lineTranslations": [
-        "There is a parrot inside the hollow!",
-        "The parrot is Dawa's parrot.",
+        "Dawa wants to see the parrot.",
+        "Dawa goes from tree to tree.",
+        "Dawa looks in each tree.",
         "",
-        "The parrot is in a nest.",
-        "The nest is inside the hollow.",
+        "Does Dawa see the parrot?",
+        "Having gone from tree to tree, does Dawa see the parrot?",
+        "Having looked in each tree, does Dawa see the parrot?",
+        "Dawa does not see the parrot.",
+        "Dawa is not a happy girl.",
+        "Where did the parrot go?",
+        "",
+        "Koo! Koo!",
+        "Dawa is happy!",
+        "",
+        "What does Dawa see?",
+        "Does Dawa see the parrot?",
+        "Dawa does not see the parrot.",
+        "Dawa sees a hollow!",
+        "",
+        "Where is the hollow?",
+        "The hollow is in the tree.",
+        "",
+        "What does Dawa want?",
+        "Dawa wants to see the hollow.",
+        "",
+        "What is inside the hollow?",
+        "Is the parrot inside the hollow?",
+        "Did the parrot go inside the hollow?"
+      ],
+      "words": [
+        { "tibetan": "ཟླ་བ", "wylie": "zla-ba", "phonetics": "da-wa", "meaning": "Dawa" },
+        { "tibetan": "ནི", "wylie": "ni", "phonetics": "ni", "meaning": "topic marker" },
+        { "tibetan": "ནེ་ཙོ", "wylie": "ne-tso", "phonetics": "ne-tso", "meaning": "parrot" },
+        { "tibetan": "མཐོང་འདོད", "wylie": "mthong-'dod", "phonetics": "thong-dö", "meaning": "wants to see" },
+        { "tibetan": "ཤིང", "wylie": "shing", "phonetics": "shing", "meaning": "tree" },
+        { "tibetan": "ནས", "wylie": "nas", "phonetics": "né", "meaning": "from / having done" },
+        { "tibetan": "ལ", "wylie": "la", "phonetics": "la", "meaning": "to/in (particle)" },
+        { "tibetan": "འགྲོ", "wylie": "'gro", "phonetics": "dro", "meaning": "goes" },
+        { "tibetan": "རེ་རེ", "wylie": "re-re", "phonetics": "re-re", "meaning": "each" },
+        { "tibetan": "མཐོང", "wylie": "mthong", "phonetics": "thong", "meaning": "sees" },
+        { "tibetan": "མཐོང་ངམ", "wylie": "mthong-ngam", "phonetics": "thong-ngam", "meaning": "sees? (question)" },
+        { "tibetan": "ཕྱིན", "wylie": "phyin", "phonetics": "chin", "meaning": "went / has gone" },
+        { "tibetan": "མི་མཐོང", "wylie": "mi-mthong", "phonetics": "mi-thong", "meaning": "does not see" },
+        { "tibetan": "མི་སྐྱིད་པ", "wylie": "mi-skyid-pa", "phonetics": "mi-kyid-pa", "meaning": "not happy (unhappy)" },
+        { "tibetan": "བུ་མོ", "wylie": "bu-mo", "phonetics": "bu-mo", "meaning": "girl" },
+        { "tibetan": "ཡིན", "wylie": "yin", "phonetics": "yin", "meaning": "is" },
+        { "tibetan": "ག་པར", "wylie": "ga-par", "phonetics": "ga-par", "meaning": "where" },
+        { "tibetan": "ཀུ", "wylie": "ku", "phonetics": "ku", "meaning": "koo (parrot call)" },
+        { "tibetan": "སྐྱིད་པོ", "wylie": "skyid-po", "phonetics": "kyid-po", "meaning": "happy" },
+        { "tibetan": "ཅི", "wylie": "ci", "phonetics": "chi", "meaning": "what" },
+        { "tibetan": "ཁུང་བུ", "wylie": "khung-bu", "phonetics": "khung-bu", "meaning": "hollow" },
+        { "tibetan": "ཡོད", "wylie": "yod", "phonetics": "yö", "meaning": "there is / has" },
+        { "tibetan": "འདོད", "wylie": "'dod", "phonetics": "dö", "meaning": "wants" },
+        { "tibetan": "ནང", "wylie": "nang", "phonetics": "nang", "meaning": "inside" },
+        { "tibetan": "ཡོད་དམ", "wylie": "yod-dam", "phonetics": "yö-dam", "meaning": "is there? (question)" },
+        { "tibetan": "ཕྱིན་ནམ", "wylie": "phyin-nam", "phonetics": "chin-nam", "meaning": "went? (question)" }
+      ]
+    },
+    {
+      "title": "ཁུང་བུ་ནང་ལ་ཅི་ཡོད།",
+      "titleTransliteration": "khung-bu nang la ci yod.",
+      "titleEnglish": "What's in the Hollow?",
+      "image": "https://en.amarahasa.com/static/images/parrot-and-baby.png",
+      "textTibetan": "ཟླ་བ་ནི་ཁུང་བུ་ལ་ཕྱིན།\nཟླ་བ་ནི་ཁུང་བུ་ནང་ལ་མཐོང།\nཟླ་བ་ནི་ཤིང་གི་ཁུང་བུ་ནང་ལ་མཐོང།\nཟླ་བ་ནི་ཁུང་བུ་ནང་ལ་ཅི་མཐོང།\n\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ཡོད་དམ།\nཟླ་བ་ནི་ཁུང་བུ་ནང་ལ་ནེ་ཙོ་མཐོང་ངམ།\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ཡོད།\nནེ་ཙོ་ནི་ཤིང་གི་ཁུང་བུ་ནང་ལ་ཡོད།\n\nནེ་ཙོ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nནེ་ཙོ་ནི་སྐྱིད་པོ་ཡིན།\nཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན།\n\nནེ་ཙོ་ནི་ཅིའི་ཕྱིར་ཁུང་བུ་ལ་ཕྱིན།\nནེ་ཙོ་ནི་ཅི་མཐོང་འདོད།\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ཅི་མཐོང་འདོད།\n\nཟླ་བ་ནི་ཁུང་བུ་ནང་ལ་མཐོང།\nཟླ་བ་ནི་ཁུང་བུ་ནང་ལ་ཅི་མཐོང།\nཟླ་བ་ནི་ཤིང་གི་ཁུང་བུ་ནང་ལ་ཅི་མཐོང།\n\nནེ་ཙོའི་ཕྲུ་གུ\nནེ་ཙོའི་ནེ་ཙོ་ཕྲུ་གུ\nནེ་ཙོ་ཕྲུ་གུ་ནི་ག་པར་ཡོད།\nནེ་ཙོ་ཕྲུ་གུ་ནི་ཁུང་བུ་ནང་ལ་ཡོད།\n\nནེ་ཙོ་ཕྲུ་གུ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nནེ་ཙོ་ཕྲུ་གུ་ནི་སྐྱིད་པོ་ཡིན།\nནེ་ཙོ་ནི་ནེ་ཙོ་ཕྲུ་གུ་མཐོང་འདོད།\nནེ་ཙོ་ནི་ཁུང་བུ་ནང་ལ་ནེ་ཙོ་ཕྲུ་གུ་མཐོང་འདོད།\n\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན་ནམ།\nཟླ་བ་ནི་སྐྱིད་པོ་ཡིན།\nཟླ་བ་ནི་སྐྱིད་པའི་བུ་མོ་ཡིན།",
+      "textWylie": "zla-ba ni khung-bu la phyin.\nzla-ba ni khung-bu nang la mthong.\nzla-ba ni shing gi khung-bu nang la mthong.\nzla-ba ni khung-bu nang la ci mthong.\n\nne-tso ni khung-bu nang la yod-dam.\nzla-ba ni khung-bu nang la ne-tso mthong-ngam.\nne-tso ni khung-bu nang la yod.\nne-tso ni shing gi khung-bu nang la yod.\n\nne-tso ni skyid-po yin-nam.\nne-tso ni skyid-po yin.\nzla-ba ni skyid-pa'i bu-mo yin.\n\nne-tso ni ci'i phyir khung-bu la phyin.\nne-tso ni ci mthong-'dod.\nne-tso ni khung-bu nang la ci mthong-'dod.\n\nzla-ba ni khung-bu nang la mthong.\nzla-ba ni khung-bu nang la ci mthong.\nzla-ba ni shing gi khung-bu nang la ci mthong.\n\nne-tso'i phru-gu\nne-tso'i ne-tso phru-gu\nne-tso phru-gu ni ga-par yod.\nne-tso phru-gu ni khung-bu nang la yod.\n\nne-tso phru-gu ni skyid-po yin-nam.\nne-tso phru-gu ni skyid-po yin.\nne-tso ni ne-tso phru-gu mthong-'dod.\nne-tso ni khung-bu nang la ne-tso phru-gu mthong-'dod.\n\nzla-ba ni skyid-po yin-nam.\nzla-ba ni skyid-po yin.\nzla-ba ni skyid-pa'i bu-mo yin.",
+      "lineTranslations": [
+        "Dawa went to the hollow.",
+        "Dawa looks inside the hollow.",
+        "Dawa looks inside the tree's hollow.",
+        "What does Dawa see inside the hollow?",
+        "",
+        "Is the parrot inside the hollow?",
+        "Does Dawa see the parrot inside the hollow?",
+        "The parrot is inside the hollow!",
+        "The parrot is inside the tree's hollow!",
+        "",
+        "Is the parrot happy?",
+        "The parrot is happy.",
+        "Dawa is a happy girl.",
+        "",
+        "Why did the parrot go to the hollow?",
+        "What does the parrot want to see?",
+        "What does the parrot want to see inside the hollow?",
+        "",
+        "Dawa looks inside the hollow.",
+        "What does Dawa see inside the hollow?",
+        "What does Dawa see inside the tree's hollow?",
+        "",
+        "The parrot's child!",
+        "The parrot's baby parrot!",
+        "Where is the baby parrot?",
+        "The baby parrot is inside the hollow!",
+        "",
+        "Is the baby parrot happy?",
+        "The baby parrot is happy.",
+        "The parrot wants to see its baby.",
+        "The parrot wants to see its baby inside the hollow.",
         "",
         "Is Dawa happy?",
         "Dawa is happy.",
-        "",
-        "Dawa and Tenzin are happy.",
-        "The parrot is happy."
+        "Dawa is a happy girl."
       ],
       "words": [
-        {
-          "tibetan": "ཁུང་བུ",
-          "wylie": "khung-bu",
-          "phonetics": "khung-bu",
-          "meaning": "hollow"
-        },
-        {
-          "tibetan": "ནང",
-          "wylie": "nang",
-          "phonetics": "nang",
-          "meaning": "inside"
-        },
-        {
-          "tibetan": "ལ",
-          "wylie": "la",
-          "phonetics": "la",
-          "meaning": "to/for (particle)"
-        },
-        {
-          "tibetan": "ནེ་ཙོ",
-          "wylie": "ne-tso",
-          "phonetics": "ne-tso",
-          "meaning": "parrot"
-        },
-        {
-          "tibetan": "ཡོད",
-          "wylie": "yod",
-          "phonetics": "yö",
-          "meaning": "there is / has"
-        },
-        {
-          "tibetan": "ནི",
-          "wylie": "ni",
-          "phonetics": "ni",
-          "meaning": "topic marker"
-        },
-        {
-          "tibetan": "ཟླ་བ",
-          "wylie": "zla-ba",
-          "phonetics": "da-wa",
-          "meaning": "Dawa"
-        },
-        {
-          "tibetan": "ཡིན",
-          "wylie": "yin",
-          "phonetics": "yin",
-          "meaning": "is"
-        },
-        {
-          "tibetan": "ཚང",
-          "wylie": "tshang",
-          "phonetics": "tshang",
-          "meaning": "nest"
-        },
-        {
-          "tibetan": "ཡིན་ནམ",
-          "wylie": "yin-nam",
-          "phonetics": "yin-nam",
-          "meaning": "is it? (question)"
-        },
-        {
-          "tibetan": "དང",
-          "wylie": "dang",
-          "phonetics": "dang",
-          "meaning": "and"
-        },
-        {
-          "tibetan": "བསྟན་འཛིན",
-          "wylie": "bstan-'dzin",
-          "phonetics": "ten-dzin",
-          "meaning": "Tenzin"
-        },
-        {
-          "tibetan": "སྐྱིད་པོ",
-          "wylie": "skyid-po",
-          "phonetics": "kyi-po",
-          "meaning": "happy"
-        }
-      ],
-      "lines": [
-        [
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ནང",
-            "wylie": "nang",
-            "phonetics": "nang",
-            "meaning": "inside"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "འི་",
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཚང",
-            "wylie": "tshang",
-            "phonetics": "tshang",
-            "meaning": "nest"
-          },
-          "་",
-          {
-            "tibetan": "ནང",
-            "wylie": "nang",
-            "phonetics": "nang",
-            "meaning": "inside"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཚང",
-            "wylie": "tshang",
-            "phonetics": "tshang",
-            "meaning": "nest"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "ཁུང་བུ",
-            "wylie": "khung-bu",
-            "phonetics": "khung-bu",
-            "meaning": "hollow"
-          },
-          "་",
-          {
-            "tibetan": "ནང",
-            "wylie": "nang",
-            "phonetics": "nang",
-            "meaning": "inside"
-          },
-          "་",
-          {
-            "tibetan": "ལ",
-            "wylie": "la",
-            "phonetics": "la",
-            "meaning": "to/for (particle)"
-          },
-          "་",
-          {
-            "tibetan": "ཡོད",
-            "wylie": "yod",
-            "phonetics": "yö",
-            "meaning": "there is / has"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན་ནམ",
-            "wylie": "yin-nam",
-            "phonetics": "yin-nam",
-            "meaning": "is it? (question)"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [],
-        [
-          {
-            "tibetan": "ཟླ་བ",
-            "wylie": "zla-ba",
-            "phonetics": "da-wa",
-            "meaning": "Dawa"
-          },
-          "་",
-          {
-            "tibetan": "དང",
-            "wylie": "dang",
-            "phonetics": "dang",
-            "meaning": "and"
-          },
-          "་",
-          {
-            "tibetan": "བསྟན་འཛིན",
-            "wylie": "bstan-'dzin",
-            "phonetics": "ten-dzin",
-            "meaning": "Tenzin"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ],
-        [
-          {
-            "tibetan": "ནེ་ཙོ",
-            "wylie": "ne-tso",
-            "phonetics": "ne-tso",
-            "meaning": "parrot"
-          },
-          "་",
-          {
-            "tibetan": "ནི",
-            "wylie": "ni",
-            "phonetics": "ni",
-            "meaning": "topic marker"
-          },
-          "་",
-          {
-            "tibetan": "སྐྱིད་པོ",
-            "wylie": "skyid-po",
-            "phonetics": "kyi-po",
-            "meaning": "happy"
-          },
-          "་",
-          {
-            "tibetan": "ཡིན",
-            "wylie": "yin",
-            "phonetics": "yin",
-            "meaning": "is"
-          },
-          "།"
-        ]
+        { "tibetan": "ཟླ་བ", "wylie": "zla-ba", "phonetics": "da-wa", "meaning": "Dawa" },
+        { "tibetan": "ནི", "wylie": "ni", "phonetics": "ni", "meaning": "topic marker" },
+        { "tibetan": "ཁུང་བུ", "wylie": "khung-bu", "phonetics": "khung-bu", "meaning": "hollow" },
+        { "tibetan": "ལ", "wylie": "la", "phonetics": "la", "meaning": "to/in (particle)" },
+        { "tibetan": "ཕྱིན", "wylie": "phyin", "phonetics": "chin", "meaning": "went / has gone" },
+        { "tibetan": "ནང", "wylie": "nang", "phonetics": "nang", "meaning": "inside" },
+        { "tibetan": "མཐོང", "wylie": "mthong", "phonetics": "thong", "meaning": "sees" },
+        { "tibetan": "ཤིང", "wylie": "shing", "phonetics": "shing", "meaning": "tree" },
+        { "tibetan": "གི", "wylie": "gi", "phonetics": "gi", "meaning": "of (possessive)" },
+        { "tibetan": "ཅི", "wylie": "ci", "phonetics": "chi", "meaning": "what" },
+        { "tibetan": "ནེ་ཙོ", "wylie": "ne-tso", "phonetics": "ne-tso", "meaning": "parrot" },
+        { "tibetan": "ཡོད་དམ", "wylie": "yod-dam", "phonetics": "yö-dam", "meaning": "is there? (question)" },
+        { "tibetan": "མཐོང་ངམ", "wylie": "mthong-ngam", "phonetics": "thong-ngam", "meaning": "sees? (question)" },
+        { "tibetan": "ཡོད", "wylie": "yod", "phonetics": "yö", "meaning": "there is / has" },
+        { "tibetan": "སྐྱིད་པོ", "wylie": "skyid-po", "phonetics": "kyid-po", "meaning": "happy" },
+        { "tibetan": "ཡིན་ནམ", "wylie": "yin-nam", "phonetics": "yin-nam", "meaning": "is? (question)" },
+        { "tibetan": "ཡིན", "wylie": "yin", "phonetics": "yin", "meaning": "is" },
+        { "tibetan": "སྐྱིད་པ", "wylie": "skyid-pa", "phonetics": "kyid-pa", "meaning": "happy (modifying a noun)" },
+        { "tibetan": "བུ་མོ", "wylie": "bu-mo", "phonetics": "bu-mo", "meaning": "girl" },
+        { "tibetan": "ཅིའི་ཕྱིར", "wylie": "ci'i phyir", "phonetics": "chii chir", "meaning": "why" },
+        { "tibetan": "མཐོང་འདོད", "wylie": "mthong-'dod", "phonetics": "thong-dö", "meaning": "wants to see" },
+        { "tibetan": "ཕྲུ་གུ", "wylie": "phru-gu", "phonetics": "tru-gu", "meaning": "child" },
+        { "tibetan": "ནེ་ཙོ་ཕྲུ་གུ", "wylie": "ne-tso phru-gu", "phonetics": "ne-tso tru-gu", "meaning": "baby parrot" }
       ]
     }
   ]
