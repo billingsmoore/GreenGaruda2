@@ -26,15 +26,15 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.email "billingsmoore@gmail.com"
-          git config user.name "billingsmoore"
+          git config --global user.email "billingsmoore@gmail.com"
+          git config --global user.name "billingsmoore"
 
       - name: Push build to HF Spaces
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           cd build
-          git init
+          git init -b main
           git add .
           git commit -m "Deploy: ${{ github.sha }}"
           git push --force "https://billingsmoore:${HF_TOKEN}@huggingface.co/spaces/billingsmoore/test" HEAD:main
