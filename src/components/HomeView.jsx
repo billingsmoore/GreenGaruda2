@@ -65,9 +65,6 @@ const HomeView = ({ stories, onNavigate }) => {
         <p>
           The stories on this site are Tibetan-language adaptations of the public domain content
           created by <a href="https://en.amarahasa.com" target="_blank" rel="noreferrer">Amarahasa</a>.
-          Amarahasa produces beautifully crafted beginner reading material for Sanskrit learners,
-          freely available for reuse. We are grateful for their generosity in releasing that work
-          to the public domain, which made this Tibetan adaptation possible.
         </p>
         <p>
           If you are interested in learning Sanskrit through the same story-based approach,
