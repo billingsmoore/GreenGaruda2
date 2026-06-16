@@ -34,6 +34,14 @@ const StartHereView = ({ onNavigate }) => {
           letter-by-letter spelling using the Roman alphabet), a phonetic pronunciation
           guide, and its English meaning.
         </p>
+        <p>
+          Not familiar with Tibetan script? There's a fantastic introduction to reading
+          it at{' '}
+          <a href="https://tibetanlanguage.school/learn/standard-tibetan/unit-1/" target="_blank" rel="noopener noreferrer">
+            tibetanlanguage.school
+          </a>
+          .
+        </p>
       </section>
 
       <section className="start-here-section">
@@ -54,6 +62,14 @@ const StartHereView = ({ onNavigate }) => {
           pronunciation, and meaning.
         </p>
         <WordDemo lines={[demoSentence.lines[0]]} lineTranslations={[demoSentence.lineTranslations[0]]} />
+        <p>
+          For material not on our site, there's a great Tibetan dictionary available
+          online at{' '}
+          <a href="https://dictionary.christian-steinert.de/" target="_blank" rel="noopener noreferrer">
+            dictionary.christian-steinert.de
+          </a>
+          .
+        </p>
       </section>
 
       <section className="start-here-section">
